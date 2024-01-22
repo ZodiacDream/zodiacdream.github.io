@@ -1,0 +1,40 @@
+.CaoimheAdopt_Table01
+{
+  width: 500px;
+  height: auto;
+  background: url('https://cdn.discordapp.com/attachments/744040675582017568/940321771859636264/COLOURlovers.com-Clover.png');
+  backgorund-color: #0c596b;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-style: solid;
+  border-size: 5px;
+  border-color: #51280f;
+  border-radius: 0px 0px 0px 0px;
+}
+
+.CaoimheAdopt_Table_Middle01 
+{
+  width: 470px;
+  height: auto;
+  margin: 10px 10px 10px 10px;
+  background-color: rgba(201, 194, 176, 0.75);
+  border-radius: 10px 0px 0px 10px;
+}
+
+.CaoimheAdopt_Table_Text01
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 15px;
+  color: #000000;
+  line-height: 16px;
+  padding: 1%;
+}
+
+.CaoimheAdopt_Table_Text01 b
+{
+  font-style: bold;
+  color: #6d5582;
+}
+

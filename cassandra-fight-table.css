@@ -1,0 +1,35 @@
+.cassandra_fight_table {
+  width:500px;
+  height:auto;
+  background-image: linear-gradient(to bottom, transparent 600px, #571e0d 700px), url("https://cdn.discordapp.com/attachments/890399441624924240/955490601908965406/IMG_1329.png");
+  background-color: #2f350f;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border: inset 4px #9a81b8;
+  margin: 5px 5px 5px 5px;
+}
+
+.cassandra_fight_inner
+{
+  width: 480px;
+  height: auto;
+  background-color: rgba(107,59,37, 0.50);
+  margin: 700px 10px 10px 10px;
+}
+
+.cassandra_fight_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #b6a6ca;
+  line-height: 15px;
+  padding:2%;
+}
+
+.cassandra_fight_text b
+{
+  font-style: bold;
+  color: #77b7d2;
+}

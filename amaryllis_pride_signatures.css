@@ -1,0 +1,282 @@
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+/* Caladan Cove */
+.caladan_signature {
+    width: 500px;
+}
+
+.caladan_name {
+    text-align: center;
+    display: inline-block;
+    font-size: 35px;
+    line-height: 43px;
+    font-family: 'Pirata One', cursive;
+    position: relative;
+    letter-spacing: 1px;
+    background-image: -webkit-linear-gradient(left,#fff1eb,#b1e2fa);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(2px 2px 0px #000);
+    -webkit-text-stroke: 0.03px #ffffff;
+}
+
+.caladan_rank_text {
+    text-align: right;
+    color: #000;
+    font-size: 20px;
+    line-height: 22px;
+    font-family: 'Amatic SC', cursive;
+    letter-spacing: 1px;
+    margin: 1px 150px -14px 1px;
+    background-image: -webkit-linear-gradient(left,#fff1eb,#b1e2fa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    filter: drop-shadow(2px 2px 0px #000);
+    -webkit-text-stroke: 0.03px #ffffff;
+}
+
+/* Vermeda Brook */
+.vermeda_signature {
+    width: 500px;
+}
+
+.vermeda_name {
+    text-align: center;
+    display: inline-block;
+    font-size: 35px;
+    line-height: 43px;
+    font-family: 'Pirata One', cursive;
+    position: relative;
+    letter-spacing: 1px;
+    background-image: -webkit-linear-gradient(left,#3fa6ea,#ffaeec);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(2px 2px 0px #000);
+    -webkit-text-stroke: 0.03px #ffffff;
+}
+
+.vermeda_rank_text {
+    text-align: right;
+    color: #000;
+    font-size: 20px;
+    line-height: 22px;
+    font-family: 'Amatic SC', cursive;
+    letter-spacing: 1px;
+    margin: -10px 150px 1px 1px;
+    background-image: -webkit-linear-gradient(left,#3fa6ea,#ffaeec);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    filter: drop-shadow(2px 2px 0px #000);
+    -webkit-text-stroke: 0.03px #ffffff;
+}
+
+/* Wolfbron Bluffs */
+.wolfbron_signature {
+    width: 500px;
+}
+
+.wolfbron_name {
+    text-align: center;
+    display: inline-block;
+    font-size: 35px;
+    line-height: 43px;
+    font-family: 'Pirata One', cursive;
+    position: relative;
+    letter-spacing: 1px;
+    background-image: -webkit-linear-gradient(left,#ff5b5b,#29cbff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(2px 2px 0px #000);
+    -webkit-text-stroke: 0.03px #ffffff;
+}
+
+.wolfbron_rank_text {
+    text-align: left;
+    color: #000;
+    font-size: 20px;
+    line-height: 22px;
+    font-family: 'Amatic SC', cursive;
+    letter-spacing: 1px;
+    margin: -10px 10px 1px 150px;
+    background-image: -webkit-linear-gradient(left,#ff5b5b,#29cbff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    filter: drop-shadow(2px 2px 0px #000);
+    -webkit-text-stroke: 0.03px #ffffff;
+}
+
+/* Obsidian Hollow */
+.obsidian_signature {
+    width: 500px;
+}
+
+.obsidian_name {
+    text-align: center;
+    display: inline-block;
+    font-size: 35px;
+    line-height: 43px;
+    font-family: 'Pirata One', cursive;
+    position: relative;
+    letter-spacing: 1px;
+    background-image: -webkit-linear-gradient(left,#868686,#922a35);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(2px 2px 0px #000);
+    -webkit-text-stroke: 0.03px #ffffff;
+}
+
+.obsidian_rank_text {
+    text-align: center;
+    color: #000;
+    font-size: 20px;
+    line-height: 22px;
+    font-family: 'Amatic SC', cursive;
+    letter-spacing: 1px;
+    margin: -10px 1px 1px 1px;
+    background-image: -webkit-linear-gradient(left,#868686,#922a35);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    filter: drop-shadow(2px 2px 0px #000);
+    -webkit-text-stroke: 0.03px #ffffff;
+}
+
+/* Scilla Lagoon */
+.scilla_signature {
+    width: 500px;
+}
+
+.scilla_name {
+    text-align: center;
+    display: inline-block;
+    font-size: 35px;
+    line-height: 43px;
+    font-family: 'Pirata One', cursive;
+    position: relative;
+    letter-spacing: 1px;
+    background-image: -webkit-linear-gradient(left,#05d2bf,#a92179);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(2px 2px 0px #000);
+    -webkit-text-stroke: 0.03px #ffffff;
+}
+
+.scilla_rank_text {
+    text-align: right;
+    color: #000;
+    font-size: 20px;
+    line-height: 22px;
+    font-family: 'Amatic SC', cursive;
+    letter-spacing: 1px;
+    margin: 1px 170px -15px 1px;
+    background-image: -webkit-linear-gradient(left,#05d2bf,#a92179);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    filter: drop-shadow(2px 2px 0px #000);
+    -webkit-text-stroke: 0.03px #ffffff;
+}
+
+/* Firnen Rainforest */
+.firnen_signature {
+    width: 500px;
+}
+
+.firnen_name {
+    text-align: center;
+    display: inline-block;
+    font-size: 35px;
+    line-height: 43px;
+    font-family: 'Pirata One', cursive;
+    position: relative;
+    letter-spacing: 1px;
+    background-image: -webkit-linear-gradient(left,#65ad82,#a25e30);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(2px 2px 0px #000);
+    -webkit-text-stroke: 0.03px #ffffff;
+}
+
+.firnen_rank_text {
+    text-align: right;
+    color: #000;
+    font-size: 20px;
+    line-height: 22px;
+    font-family: 'Amatic SC', cursive;
+    letter-spacing: 1px;
+    margin: -10px 180px 1px 1px;
+    background-image: -webkit-linear-gradient(left,#65ad82,#a25e30);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    filter: drop-shadow(2px 2px 0px #000);
+    -webkit-text-stroke: 0.03px #ffffff;
+}
+
+/* Andal Oasis */
+.andal_signature {
+    width: 500px;
+}
+
+.andal_name {
+    text-align: center;
+    display: inline-block;
+    font-size: 35px;
+    line-height: 43px;
+    font-family: 'Pirata One', cursive;
+    position: relative;
+    letter-spacing: 1px;
+    background-image: -webkit-linear-gradient(left,#ffa671,#ff43b3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(2px 2px 0px #000);
+    -webkit-text-stroke: 0.03px #ffffff;
+}
+
+.andal_rank_text {
+    text-align: left;
+    color: #000;
+    font-size: 20px;
+    line-height: 22px;
+    font-family: 'Amatic SC', cursive;
+    letter-spacing: 1px;
+    margin: -10px 1px 1px 175px;
+    background-image: -webkit-linear-gradient(left,#ffa671,#ff43b3);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    filter: drop-shadow(2px 2px 0px #000);
+    -webkit-text-stroke: 0.03px #ffffff;
+}
+
+/* Ecrosia Mire */
+.ecrosia_signature {
+    width: 500px;
+}
+
+.ecrosia_name {
+    text-align: center;
+    display: inline-block;
+    font-size: 35px;
+    line-height: 43px;
+    font-family: 'Pirata One', cursive;
+    position: relative;
+    letter-spacing: 1px;
+    background-image: -webkit-linear-gradient(left,#a776d6,#e8db6d);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(2px 2px 0px #000);
+    -webkit-text-stroke: 0.03px #ffffff;
+}
+
+.ecrosia_rank_text {
+    text-align: left;
+    color: #000;
+    font-size: 20px;
+    line-height: 22px;
+    font-family: 'Amatic SC', cursive;
+    letter-spacing: 1px;
+    margin: 1px 1px -9px 180px;
+    background-image: -webkit-linear-gradient(left,#a776d6,#e8db6d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    filter: drop-shadow(2px 2px 0px #000);
+    -webkit-text-stroke: 0.03px #ffffff;
+}

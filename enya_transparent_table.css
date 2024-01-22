@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+.enya_table
+{
+  width: 500px;
+  height: auto;
+  background-color: rgba(255, 255, 255, 0);
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+
+.enya_table_img {
+
+  margin: 10px 0px 0px 0px;
+  width: 500px;
+  height: auto;
+  shape-outside: url("https://media.discordapp.net/attachments/771592695369170944/1113181508228878387/Untitled_Artwork.png");
+  shape-image-threshold: 0.9;
+  shape-margin: 1%;
+}
+
+.enya_table_inner
+{
+  width: 500px;
+  height: auto;
+  overflow: auto;
+  background-color: rgba(204, 167, 118, 0);
+  margin: 10px 10px 10px 10px;
+}
+
+.enya_table_text
+{
+  text-align: justify;
+  font-family: 'Playfair Display', serif;
+  font-size: 13px;
+  color: #c07f63;
+  line-height: 15px;
+  padding:2%;
+  margin: -40px 10px 10px 55px;
+}
+
+.enya_table_text b
+{
+	font-weight:bold;
+	background-image: -webkit-linear-gradient(to right, #287683, #45eaca);
+  background-image: -moz-linear-gradient(to right, #287683, #45eaca); 
+  background-image: -ms-linear-gradient(to right, #287683, #45eaca); 
+  background-image: -o-linear-gradient(to right, #287683, #45eaca); 
+  background-image: linear-gradient(to right, #287683, #45eaca);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}

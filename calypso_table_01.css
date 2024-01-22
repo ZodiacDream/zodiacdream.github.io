@@ -1,0 +1,45 @@
+.calypso-outer-table01 {
+    display: flex;
+    flex-shrink: 0;
+    width: 500px;
+    height: auto;
+    background-image: linear-gradient(to bottom right, #1f1a31, #909fc7, #b2c4d8);
+}
+
+.calypso-inner-table01 {
+  width:490px;
+  height:auto;
+  background: url('https://i.ibb.co/9wyD892/calypso-gradient.png') no-repeat top center;
+  background-size: 490px;
+  background-color: #070512;
+  margin: 5px 5px 5px 5px;
+}
+
+.calypso-bevel01 {
+    -webkit-clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+    		clip-path: polygon(10% 0%, 90% 0%, 100% 5%, 100% 100%, 80% 100%, 20% 100%, 0% 100%, 0% 5%);
+}
+
+.calypso-table-textbox01
+{
+  width: 460px;
+  height: auto;
+  background-color: rgba(31, 26, 49, 0.50);
+  margin: 600px 10px 10px 10px;
+}
+
+.calypso-text01
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #959096;
+  line-height: 15px;
+  padding:2%;
+}
+
+.calypso-text01 b
+{
+  font-style: bold;
+  color: #799caf;
+}

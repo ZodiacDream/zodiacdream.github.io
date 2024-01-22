@@ -1,0 +1,33 @@
+.cassandra_drifty_chibi_table_background {
+  width:500px;
+  height:auto;
+  background-image: url('https://cdn.discordapp.com/attachments/738626788208410678/1050639160039452794/VF_n36.jpg');
+  background-color: #2a2e0d;
+  border: solid 2px #ffffff;
+}
+.cassandra_drifty_chibi_img {
+   float: left;  
+   padding: 0.5%;
+}
+
+.cassandra_drifty_chibi_middle {
+  width: 430px;
+  height: auto;
+  margin: 30px 30px 30px 30px;
+  background-color: rgba(14, 16, 19, 0.9);
+  border: solid 1px #ffffff;
+}
+.cassandra_drifty_chibi_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: small;
+  color: #49525b;
+  line-height: 13px;
+  margin: 10px 10px 10px 10px;
+}
+.cassandra_drifty_chibi_table_text b
+{
+	font-weight:bold;
+	color:#7b81aa;
+}

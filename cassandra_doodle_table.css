@@ -1,0 +1,52 @@
+.cassandra_table5
+{
+  width:500px;
+  height:auto;
+  background-color: #372952;
+  border: solid 1px #372952;
+}
+
+.cassandra_table_inner5
+{
+  width: 470px;
+  height: auto;
+  background-color: rgba(150,194,204, 0.80);
+  margin: 10px 10px 240px 10px;
+}
+
+.cassandra_text5
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #C2DDE3;
+  line-height: 15px;
+  padding:2%;
+  -webkit-box-decoration-break: clone;
+}
+
+.cassandra_text5 b
+{
+  font-style: bold;
+  background-image: -webkit-linear-gradient(to right, #282053, #474d0f);
+  background-image: -moz-linear-gradient(to right, #282053, #474d0f); 
+  background-image: -ms-linear-gradient(to right, #282053, #474d0f); 
+  background-image: -o-linear-gradient(to right, #282053, #474d0f); 
+  background-image: linear-gradient(to right, #282053, #474d0f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
+
+
+.cassandra_shape5 {
+  clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 92% 75%, 77% 80%, 81% 75%, 0% 75%);
+  clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 92% 75%, 77% 80%, 81% 75%, 0% 75%);
+}
+
+.cassandra_image5 {
+   content: url('https://cdn.discordapp.com/attachments/933478276398215238/935228590059061318/CassandraDoodle_Zodiac_TR.png');
+  display: left;
+  margin: -232px 130px -1px 10px;
+  width: 400px;
+}

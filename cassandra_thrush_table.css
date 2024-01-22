@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Water+Brush&display=swap');
+
+.cassandra_thrush_table {
+  width: 500px;
+  height: auto;
+  background-color: #175f71;
+  background-size: cover;
+  margin: 10px 10px 10px 10px;
+  border: 3px #20110a groove;
+}
+
+.cassandra_thrush_img {
+   content: url('https://cdn.discordapp.com/attachments/597578785780662272/1002763621224419389/Zo_attack.png');
+  width: 330px;
+  height: auto;
+  float: right;
+  margin: -150px -70px -50px 0px;
+}
+
+.cassandra_thrush_table_inner
+{
+  width: 480px;
+  height: auto;
+  margin: 10px 10px 10px 10px;
+  background-color: rgba(139, 109, 94, 0);
+}
+
+.cassandra_thrush_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 14px;
+  color: #03161b;
+  line-height: 15px;
+  padding: 1%;
+}
+
+.cassandra_thrush_table_text b
+{
+  font-weight: bold;
+  color: #9d86b7;
+}
+
+.cassandra_thrush_name {
+  text-align: center;
+  background-image: -webkit-linear-gradient(left,#281812,#896b5c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+      filter: drop-shadow(1px 1px 0px #000);
+    -webkit-text-stroke: 0.03px #ffffff;
+  font-family: 'Water Brush', cursive;
+  font-size: 85px;
+  line-height:85px;
+  margin: 50px 230px -30px 0px;
+}

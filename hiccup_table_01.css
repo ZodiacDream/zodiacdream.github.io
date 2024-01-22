@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+.hiccup-table-outer01{
+  display: flex;
+  flex-shrink: 0;
+  width: 440px;
+  height: auto;
+  background-image: linear-gradient(to right,#490000,#74b273);
+  border-radius:0px 0px 300px 300px;
+}
+
+.hiccup-table-inner01
+{
+  width: 430px;
+  height: auto;
+  background-color: #6a5f54;
+  margin: 5px 5px 5px 5px;
+  border-radius: 0px 0px 300px 300px;
+}
+
+.hiccup-image01
+{
+  content: url('https://cdn.discordapp.com/attachments/771592695369170944/898222950933737523/image0.png');
+  float: right;
+  margin: -40px -110px -7px 10px;
+  width: 300px;
+  height: auto;
+}
+
+.hiccup-textbox01
+{
+  width: 410px;
+  height: auto;
+  margin: 10px 10px 50px 10px;
+}
+
+.hiccup-text01
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 11px;
+  color: #350000;
+  line-height: 13px;
+  padding: 2%;
+}
+
+.hiccup-text01 b
+{
+ 	font-weight:bold;
+	color:#ababab;
+}
+
+.hiccup-name01 {
+  text-align: center;
+  color:#f5f3f8;
+  font-style:oblique;
+  font-family: 'Nanum Brush Script', cursive;
+  font-size:75px;
+  line-height:80px;
+  letter-spacing:10px;
+  word-spacing:10px;
+  background: -webkit-linear-gradient(#9d4948, #fbf7ef);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.hiccup-blurb01 {
+  text-align: center;
+  font-weight: italic;
+  color:#ababab;
+  font-style:oblique;
+  font-family: 'Playfair Display', serif;
+  font-size:12px;
+  line-height:15px;
+  margin: -15px 10px -5px 10px;
+}

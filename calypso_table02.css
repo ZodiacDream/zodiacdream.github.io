@@ -1,0 +1,54 @@
+.calypso_table02 {
+  width:500px;
+  height:auto;
+  background-image: linear-gradient(to top, transparent 280px, #223d46 295px), url("https://cdn.discordapp.com/attachments/771592695369170944/963507695233675264/CalypsoStudioRequest1.png");
+  background-color: #2f350f;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border: outset 4px #efd1c8;
+  margin: 5px 5px 5px 5px;
+}
+
+.calypso_table02_inner
+{
+  width: 450px;
+  height: 200px;
+  overflow: auto;
+  background-color: rgba(85,112,118, 0.3);
+  margin: 20px 10px 300px 10px;
+}
+
+.calypso_table02_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #a1bac1;
+  line-height: 15px;
+  padding:7%;
+}
+
+.calypso_table02_text b
+{
+  font-style: bold;
+  color: #efd1c8;
+}
+
+.calypso_table02-scrollbar01::-webkit-scrollbar
+{
+	width: 5px;
+}
+
+.calypso_table02-scrollbar01::-webkit-scrollbar-track
+{
+    background: rgba(255, 255, 255, 0);
+}
+
+.calypso_table02-scrollbar01::-webkit-scrollbar-thumb
+{
+    background: -webkit-gradient(linear,left top,left   bottom,from(#d6e4ea),to(#507788));
+    background: linear-gradient(180deg,#d6e4ea,#507788);
+    border-radius: 0px;
+    box-shadow: inset 2px 2px 2px hsla(0%,0%,100%,.25), inset -2px -2px 2px rgba(0,0,0,.25);
+}

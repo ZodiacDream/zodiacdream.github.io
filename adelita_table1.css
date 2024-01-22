@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Updock&display=swap');
+
+.adelita_table01
+{
+  width: 500px;
+  height: auto;
+  background-image: linear-gradient(to top, transparent 200px, #212b23 300px), url('https://media.discordapp.net/attachments/771592695369170944/1035338625866534942/AdelitaManip.png');
+  background-color: #212b23;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border: 5px ridge #1f2323;
+}
+
+.adelita_name01
+{
+  font-family: 'Updock', cursive;
+  font-size: 65px;
+  color: #9db56a;
+  text-shadow: 1px 1px 10px 1px #ffffff;
+  line-height: 65px;
+  letter-spacing: 5px;
+  padding: -10px 10px 10px 5px;
+}
+
+.adelita_inner01
+{
+  width: 470px;
+  height: auto;
+  background-color: rgba(164, 185, 118, 0.35);
+  border-left: 3px ridge #1c2221;
+  margin: 10px 20px 300px 10px;
+}
+
+.adelita_text01
+{
+  text-align: justify;
+  font-family: Garamond, serif;
+  font-size: 15px;
+  color: #1c2221;
+  line-height: 17px;
+  padding: 2%;
+}
+
+.adelita_text01 b
+{
+  font-style: bold;
+  color: #a6aea6;
+}

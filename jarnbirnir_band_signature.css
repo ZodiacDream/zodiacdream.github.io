@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+.jarnbirnir_signature {
+    width: 500px;
+}
+
+.jarnbirnir_name {
+    text-align: center;
+    display: inline-block;
+    font-size: 45px;
+    line-height: 50px;
+    font-family: 'Pirata One', cursive;
+    position: relative;
+    letter-spacing: 1px;
+    background-image: -webkit-linear-gradient(left,#000036,#f0feff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(2px 2px 0px #000);
+    -webkit-text-stroke: 0.03px #ffffff;
+}
+
+.jarnbirnir_rank_text {
+    text-align: right;
+    color: #000;
+    font-size: 20px;
+    line-height: 22px;
+    font-family: 'Amatic SC', cursive;
+    letter-spacing: 1px;
+    margin: -11px 185px 1px 1px;
+    background-image: -webkit-linear-gradient(left,#000036,#f0feff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    filter: drop-shadow(2px 2px 0px #000);
+    -webkit-text-stroke: 0.03px #ffffff;
+}

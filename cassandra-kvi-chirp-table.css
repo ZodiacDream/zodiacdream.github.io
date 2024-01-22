@@ -1,0 +1,52 @@
+.cassandraXkvi_chirp_table
+{
+  width:500px;
+  height:auto;
+  background-color: #3b3b3b;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border-top: solid 6px #0d0d29;
+  border-bottom: solid 6px #876b96;
+  border-left: solid 6px #0d0d29;
+  border-right: solid 6px #876b96;
+}
+
+.cassandraXkvi_chirp_img {
+  content: url('https://cdn.discordapp.com/attachments/821492439705321472/962218659613376522/df05wjx-f8da5cd2-dbb0-410f-8ad4-fbfa769eff27.png');
+  float: left;
+  margin: 0px 10px -3px 5px;
+  width: auto;
+  height: auto;
+}
+
+
+.cassandraXkvi_chirp_inner
+{
+  width: 490px;
+  height: auto;
+  background-color: rgba(120, 120, 120, 0.2);
+  margin: 10px 0px 10px 0px;
+}
+
+.cassandraXkvi_chirp_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #1a1a1a;
+  line-height: 15px;
+  padding:2%;
+}
+
+.cassandra_speech01
+{
+  font-weight: bold;
+  color: #876b96;
+}
+
+.kvi_speech01
+{
+  font-weight: bold;
+  color: #0d0d29;
+}

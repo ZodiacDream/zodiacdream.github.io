@@ -1,0 +1,52 @@
+.cassandra-myrkvi_table01 {
+  width:450px;
+  height:auto;
+  background-image: linear-gradient(to bottom, #081858, #9ea74c);
+  border-style: solid;
+  border-size: 5px;
+  border-color: #ffffff;
+}
+
+.cassandra-myrkvi_table_Cass_image01 {
+   content: url('https://cdn.discordapp.com/attachments/933478276398215238/935228590059061318/CassandraDoodle_Zodiac_TR.png');
+  display: left;
+  margin: 0px 0px -10px 10px;
+  width: 400px;
+}
+
+.cassandra-myrkvi_table_Kvi_image01 {
+   content: url('https://cdn.discordapp.com/attachments/933478276398215238/935228589677363220/MyrkviDoodle_Zodiac_TR.png');
+  display: right;
+  margin: 0px -305px -10px 10px;
+  width: 400px;
+}
+
+.cassandra-myrkvi_table_inner01 {
+  width: 425px;
+  height: auto;
+  margin: 10px 10px 10px 10px;
+  padding: 1px;
+  background-color: rgb(75, 91, 157, 0.75);
+  border-left: solid 3px #bdc7f0;
+}
+
+.cassandra-myrkvi_table_text01 {
+  text-align: justify;
+  font-family: georgia;
+  font-size: small;
+  color: #bdc7f0;
+  line-height: 13px;
+  margin: 10px 10px 10px 10px;
+}
+
+.cassandra_speech01
+{
+ 	font-weight:bold;
+	color:#CED594;
+}
+
+.myrkvi_speech01
+{
+ 	font-weight:bold;
+	color:#081858;
+}

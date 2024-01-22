@@ -1,0 +1,43 @@
+.cassandra_table02
+{
+  width:500px;
+  height:auto;
+  background-image: linear-gradient(to top, rgba(24,25,49,0) 750px, rgba(156,88,42,1) 930px ), url("https://cdn.discordapp.com/attachments/821492439705321472/887531490097917972/ZodiGift_copy.png");
+  background-color: #b69491;
+  background-size: fill;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border-top: solid 9px #6a341f;
+  border-bottom: solid 9px #6a341f;
+  border-radius: 0px 0px 150px 0px;
+}
+
+.cassandra_table_inner02
+{
+  width: 470px;
+  height: auto;
+  background-color: rgba(64, 37, 32, 0.5);
+  margin: 10px 10px 810px 10px;
+}
+
+.cassandra_text02
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #e9ad55;
+  line-height: 15px;
+  padding:2%;
+}
+
+.cassandra_text02 b
+{
+  font-style: bold;
+  color: #d0b7be;
+}
+
+.cassandra_text02 i
+{
+  font-style: italics;
+  color: #fbb8d5;
+}

@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Unicase:wght@300&display=swap');
+
+.cassandra_title3 {
+  text-align: center;
+  font-weight: bold;
+  color:#432371;
+  font-family: 'Cormorant Unicase', serif;
+  font-size:30px;
+  line-height:40px;
+  letter-spacing:1px;
+  word-spacing:5px;
+  background-image:linear-gradient(to right, #282053 40%, #E3FDFF 60%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: -1px -1px 0 rgba(255,255,255,.25), 1px 1px 0 rgba(0,0,0,.25), 1px 3px 3px rgba(0,0,0,.25);
+}

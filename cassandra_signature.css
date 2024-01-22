@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Unicase:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+.Cassandra_signature {
+    width: 500px;
+}
+
+.Cassandra_name_text {
+    text-align: center;
+    color: #432371;
+    display: inline-block;
+    font-size: 35px;
+    line-height: 43px;
+    font-family: 'Cormorant Unicase', serif;
+    position: relative;
+    letter-spacing: 1px;
+    -webkit-text-stroke: 0.25px #ffffff;
+    background: -webkit-gradient(to right, color-stop(0%, rgba(128,128,128,1)),color-stop(58%, rgba(59,50,50,1)),color-stop(100%, rgba(40, 32, 83,1)));
+    background: -webkit-linear-gradient(top, rgba(128,128,128,1) 0%, rgba(40, 32, 83,1) 58%,rgba(40, 32, 83,1) 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+   text-shadow: 1.5px 1.5px 3px #000000;
+    
+    &:after {
+        color: #432371;
+      content: attr(data-text);
+      position: absolute;
+      -webkit-text-stroke: 3px #432371;
+      left: 0;
+      z-index: -2;
+      font-size: 1em;
+    }
+}
+
+.Cassandra_rank_text {
+    text-align: right;
+    color: #000;
+    font-size: 20px;
+    line-height: 22px;
+    font-family: 'Amatic SC', cursive;
+    letter-spacing: 1px;
+    -webkit-text-stroke: 0.5px #ffffff;
+    background: -webkit-gradient(to right, color-stop(0%, rgba(227, 253, 255,1)), color-stop(58%, rgba(40, 32, 83,1)), color-stop(100%, rgba(40, 32, 83,1)));
+    background: -webkit-linear-gradient(to right, rgba(227, 253, 255,1) 0%, rgba(40, 32, 83,1) 58%, rgba(40, 32, 83,1) 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+    margin: 5px 10px -13px 5px;
+   text-shadow: 1.5px 1.5px 3px #000000;
+    
+    &:after {
+        color: white;
+      content: attr(data-text);
+      position: absolute;
+      -webkit-text-stroke: 0.5px #d9a3ff;
+      left: 0;
+      z-index: -2;
+      font-size: 1px;
+    }
+}
+
+.Cassandra_quote_text {
+    text-align: left;
+    color: #000;
+    font-size: 20px;
+    line-height: 22px;
+    font-family: 'Amatic SC', cursive;
+    letter-spacing: 1px;
+    -webkit-text-stroke: 0.5px #ffffff;
+    background: -webkit-gradient(to right, color-stop(0%, rgba(227, 253, 255,1)), color-stop(58%, rgba(40, 32, 83,1)), color-stop(100%, rgba(40, 32, 83,1)));
+    background: -webkit-linear-gradient(to right, rgba(227, 253, 255,1) 0%, rgba(40, 32, 83,1) 58%, rgba(40, 32, 83,1) 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+    margin: -13px 5px 5px 10px;
+   text-shadow: 1.5px 1.5px 3px #000000;
+    
+    &:after {
+        color: white;
+      content: attr(data-text);
+      position: absolute;
+      -webkit-text-stroke: 0.5px #d9a3ff;
+      left: 0;
+      z-index: -2;
+      font-size: 1px;
+    }
+}

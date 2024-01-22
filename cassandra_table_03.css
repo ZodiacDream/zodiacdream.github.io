@@ -1,0 +1,43 @@
+.cassandra_table03
+{
+  width:500px;
+  height:auto;
+  background-image: linear-gradient(to top, rgba(30,19,25,0) 450px, rgba(30,19,25,1) 530px ), url("https://cdn.discordapp.com/attachments/771592695369170944/886475449448923157/Cassandra_Yearling.png");
+  background-color: #1e1319;
+  background-size: 1050px;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  border-top: solid 1px #1e1319;
+  border-bottom: solid 1px #1e1319;
+  border-radius: 15px 15px 300px 300px;
+}
+
+.cassandra_table_inner03
+{
+  width: 470px;
+  height: auto;
+  background-color: rgba(108, 62, 39, 0.20);
+  margin: 10px 10px 510px 10px;
+}
+
+.cassandra_text03
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #9e6027;
+  line-height: 15px;
+  padding:2%;
+}
+
+.cassandra_text03 b
+{
+  font-style: bold;
+  color: #b78a45;
+}
+
+.cassandra_text03 i
+{
+  font-style: italics;
+  color: #be9c8d;
+}

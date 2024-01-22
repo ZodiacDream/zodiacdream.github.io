@@ -1,0 +1,69 @@
+.cressida_fenrir_table01
+{
+  width: 500px;
+  height: 400px;
+  background-image: url('https://cdn.discordapp.com/attachments/821492439705321472/890681101251649556/graham-holtshausen-fUnfEz3VLv4-unsplash.jpg');
+  background-size: cover;
+  margin: -38px 10px 10px 10px;
+  border: 3px #ffffff double;
+  border-radius: 20px 0px 0px 20px;
+}
+
+.cressida_fenrir_image01
+{
+  content: url('https://cdn.discordapp.com/attachments/890626730329509919/890626928288100452/Untitled_Artwork_1.png');
+  width: 500px;
+  height: auto;
+}
+
+.cressida_fenrir_textbox01
+{
+  width: 450px;
+  height: 350px;
+  overflow: auto;
+  margin: 10px 10px 10px 10px;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-left: 3px #ffffff double;
+  border-top: 3px #ffffff double;
+  border-radius: 10px 0px 0px 10px;
+}
+
+#custom-scrollbar::-webkit-scrollbar
+{
+	width: 5px;
+}
+
+#custom-scrollbar::-webkit-scrollbar-track
+{
+    background: linear-gradient(90deg,#201c29,#201c29 1px,#100e17 0,#100e17);
+}
+
+#custom-scrollbar::-webkit-scrollbar-thumb
+{
+    background: -webkit-gradient(linear,left top,left   bottom,from(#613d6d),to(#3b6cae));
+    background: linear-gradient(180deg,#613d6d,#3b6cae);
+    border-radius: 30px;
+    box-shadow: inset 2px 2px 2px hsla(0%,0%,100%,.25), inset -2px -2px 2px rgba(0,0,0,.25);
+}
+
+.cressida_fenrir_text01
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 11px;
+  color: #afb4da;
+  line-height: 13px;
+  padding: 2%;
+}
+
+.cressida_speech01
+{
+ 	font-weight:bold;
+	color:#c28f9a;
+}
+
+.fenrir_speech01
+{
+ 	font-weight:bold;
+	color:#ebd782;
+}

@@ -1,0 +1,53 @@
+.cassandra_drifty_table01 {
+  width: 500px;
+  height: 400px;
+  background:     linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('https://cdn.discordapp.com/attachments/821492439705321472/916905392620068984/derek-thomson-TWoL-QCZubY-unsplash.jpg');
+  background-size: cover;
+  margin: -202px 10px 10px 10px;
+  border: 3px #20110a groove;
+}
+
+.cassandra_drifty_image01 {
+   content: url('https://media.discordapp.net/attachments/771592695369170944/913957730400755732/Cassandra.png');
+  width: 500px;
+  height: auto;
+}
+
+.cassandra_drifty_inner01 {
+  width: 400px;
+  height: 350px;
+  overflow: auto;
+  margin: 46px 10px 10px 90px;
+  background-color: rgba(139, 109, 94, 0.78);
+}
+
+.cassandra_drifty_text01 {
+  text-align: justify;
+  font-family: georgia;
+  font-size: 12px;
+  color: #20110a;
+  line-height: 15px;
+  padding: 2%;
+}
+
+.cassandra_drifty_text01 b {
+  font-weight: bold;
+  color: #bdb8b6;
+}
+#custom-scrollbar::-webkit-scrollbar
+{
+	width: 5px;
+}
+
+#custom-scrollbar::-webkit-scrollbar-track
+{
+    background: linear-gradient(90deg,#8b6d5e,#8b6d5e 1px,#8b6d5e 0,#8b6d5e);
+}
+
+#custom-scrollbar::-webkit-scrollbar-thumb
+{
+    background: -webkit-gradient(linear,top,bottom,from(#9838a2),to(#ffffff));
+    background: linear-gradient(180deg,#9838a2,#ffffff);
+    border-radius: 30px;
+    box-shadow: inset 2px 2px 2px hsla(0%,0%,100%,.25), inset -2px -2px 2px rgba(0,0,0,.25);
+}

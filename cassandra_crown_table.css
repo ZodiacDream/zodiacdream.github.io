@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
+
+.cassandra_crown_table
+{
+  width:500px;
+  height:auto;
+  background-image: linear-gradient(to top, rgba(8,23,38,0) 410px, rgba(8,23,38,1) 490px ), url("https://i.ibb.co/vB6qKtF/Cassandra-Crown-Manip-with-Crown.jpg");
+  background-color: #081726;
+  background-size: 900px;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border-top: solid 1px #1e1319;
+  border-bottom: solid 1px #1e1319;
+}
+
+.cassandra_crown_table_inner
+{
+  width: 470px;
+  height: auto;
+  background-color: rgba(46, 82, 50, 0.30);
+  margin: 10px 10px 450px 10px;
+}
+
+.cassandra_crown_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #618c9c;
+  line-height: 15px;
+  padding:2%;
+}
+
+.cassandra_crown_text b
+{
+  font-style: bold;
+  color: #4e5d99;
+}
+
+.cassandra_crown_quote {
+  text-align: right;
+  color: #a0bcbc;
+  font-family: 'Bad Script', cursive;
+  font-size: 30px;
+  line-height:25px;
+  text-shadow: 3px 0 2px #000000;
+  margin: 10px 5px 450px 10px;
+}

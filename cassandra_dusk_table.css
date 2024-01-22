@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Splash&display=swap');
+
+.cassandra_dusk_table_background {
+    display: flex;
+    flex-shrink: 0;
+    width: 500px;
+    height: auto;
+    background-image: linear-gradient(to bottom, #817496, #4e4361);
+  border-radius: 250px 250px 0px 0px;
+}
+
+.cassandra_dusk_img {
+  content:      url('https://cdn.discordapp.com/attachments/771592695369170944/993333936317022308/cassandra_af.png');
+  float: left;
+  margin: 200px 0px 0px 20px;
+  width: 190px;
+  height: auto;
+}
+
+.cassandra_dusk_table_inner
+{
+  width: 450px;
+  height: auto;
+  background-image:linear-gradient(to top, #817496, #4e4361);
+  margin: 20px 20px 20px 20px;
+  border-radius: 250px 250px 0px 0px;
+}
+
+.cassandra_dusk_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #3b271d;
+  line-height: 15px;
+  padding:2%;
+  margin:200px 10px 10px 10px;
+}
+
+.cassandra_dusk_table_text b
+{
+  font-style: bold;
+   background-image: -webkit-linear-gradient(to right, #3fa6ea, #ffaeec);
+  background-image: -moz-linear-gradient(to right, #3fa6ea, #ffaeec); 
+  background-image: -ms-linear-gradient(to right, #3fa6ea, #ffaeec); 
+  background-image: -o-linear-gradient(to right, #3fa6ea, #ffaeec); 
+  background-image: linear-gradient(to right, #3fa6ea, #ffaeec);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
+
+.cassandra_name {
+  text-align: center;
+  background-image: -webkit-linear-gradient(left,#3fa6ea,#ffaeec);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+      filter: drop-shadow(1px 1px 0px #000);
+    -webkit-text-stroke: 0.03px #ffffff;
+  font-family: 'Splash', cursive;
+  font-size: 75px;
+  line-height:75px;
+  margin: 50px 10px -200px 0px;
+}

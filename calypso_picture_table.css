@@ -1,0 +1,38 @@
+.calypso_picture_table_background {
+  width:450px;
+  height:auto;
+  background-image: linear-gradient(to bottom, #013d7b,#6aafd8,#f2c574,#f19aab,#a787b8);
+  border-style: solid;
+  border-size: 5px;
+  border-image: linear-gradient(to bottom, #a787b8,rgba(1, 61, 123, 1)) 1 100%;
+}
+.calypso_picture_img {
+   content: url('https://i.ibb.co/fdSfpW3/bylilleeflipped.png');
+  float: right;
+  margin: -50px -70px -2px -4px;
+  width: 325px;
+  height: auto;
+}
+
+.calypso_picture_table_middle {
+  width: 425px;
+  height: auto;
+  margin: 10px 10px 10px 10px;
+  padding: 1px;
+  background-color: rgb(58, 50, 135, 0.75);
+  border-left: solid 3px #2a2076;
+}
+.calypso_picture_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: small;
+  color: #bba7d3;
+  line-height: 13px;
+  margin: 10px 10px 10px 10px;
+}
+.calypso_picture_table_text b
+{
+	font-weight:bold;
+	color:#d49c91;
+}

@@ -1,0 +1,37 @@
+.cassandra_chibi_table_background {
+  width:500px;
+  height:auto;
+  background-color: #2a2e0d;
+  border-style: solid;
+  border-size: 5px;
+  border-image: linear-gradient(to bottom, #a86d4d,rgba(195, 212, 212, 1)) 1 100%;
+}
+.cassandra_chibi_img {
+   float: left;  
+   padding: 1%;
+}
+.cassandra_chibi_table_middle {
+  width: 480px;
+  height: auto;
+  margin: 10px 10px 10px 10px;
+  border-left: solid 3px #3f5d4d;
+}
+.cassandra_chibi_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: small;
+  color: #7b7929;
+  line-height: 13px;
+  margin: 10px 10px 10px 10px;
+}
+.cassandra_chibi_table_text b
+{
+	font-weight:bold;
+	color:#75a0a2;
+}
+.cassandra_chibi_table_text i
+{
+  font-weight:italic;
+  color:#C2B3AE;
+}

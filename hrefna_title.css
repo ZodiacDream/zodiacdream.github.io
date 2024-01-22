@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
+
+.hrefna_title {
+  text-align: center;
+  font-weight: bold;
+  color: #432371;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing:1px;
+  word-spacing: 2px;
+  background-image: -webkit-linear-gradient(#252525 0, #840505 100%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(2px 2px 2px #000);
+}

@@ -1,0 +1,50 @@
+.absinthe_table1_image {
+  width:500px;
+  height:auto;
+  transition: background-image 2s ease-in-out;
+  background-image:url("https://cdn.discordapp.com/attachments/821492439705321472/845161670841860116/Absinthe_Avatar_Manip_Table_Fade_No_Text.png");
+  background-color: #212122;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border-style: ridge;
+  border-size: 0px;
+  border-color: #960014;
+  border-radius: 30px 30px 30px 30px;
+}
+
+.absinthe_table1_image:hover {
+  background-image:url("https://cdn.discordapp.com/attachments/821492439705321472/845161672271462410/Absinthe_Avatar_Manip_Table_Fade_Text.png");
+}
+.absinthe_table1_middle {
+  width: 470px;
+  height: auto;
+  margin: 480px 10px 10px 10px;
+  background-color: rgba(19, 18, 18, 0.60);
+  border-radius: 30px 30px 30px 30px;
+}
+.absinthe_table1_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 11px;
+  font-style: oblique;
+  color: #57575b;
+  line-height: 13px;
+  margin: 10px 10px 10px 10px;
+}
+.absinthe_table1_text b
+{
+	font-weight:bold;
+	color:#cd6600;
+}
+.absinthe_table1_text i
+{
+  font-weight:italic;
+  color:#9ed6ff;
+}
+
+hr.line1
+{
+  border: 1px dashed rgba(255, 255, 255, 0.5);
+}

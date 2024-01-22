@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shalimar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+.Charax_Simple_Table01
+{
+  width: 500px;
+  height: 600px;
+  background: linear-gradient(to top, rgba(20,19,19,0) 400px, rgba(20,19,19,1) 600px ), url('https://cdn.discordapp.com/attachments/821492439705321472/908140776893083648/COLOURlovers.com-Seashell_Web.png');
+  backgorund-color: #0c596b;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-style: solid;
+  border-size: 5px;
+  border-color: #51280f;
+  border-radius: 0px 0px 0px 0px;
+}
+
+.Charax_Simple_Table_Middle01 
+{
+  width: 480px;
+  height: 480px;
+  overflow: auto;
+  margin: 3px 10px 10px 10px;
+  background-color: rgba(46, 34, 45, 0.95);
+  border-radius: 10px 0px 0px 10px;
+}
+
+.Charax_Simple_Table_Text01
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 15px;
+  color: #9e8b91;
+  line-height: 16px;
+  margin: 10px 10px 10px 10px;
+}
+
+.Charax_Simple_Table_Text01 b
+{
+  font-style: bold;
+  color: #e8a586;
+}
+
+.Charax_Simple_Table_Name01 {
+  text-align: center;
+  font-family: 'Shalimar', cursive;
+  font-size: 90px;
+  color: #2e222d;
+  text-shadow: -1px -1px 0 #a78fa5, 1px -1px 0 #a78fa5, -1px 1px 0 #a78fa5, 1px 1px 0 #a78fa5;
+  line-height: 90px;
+  margin: 0px 0px 0px 0px;
+}
+
+.Charax_Simple_Table_Quote01
+{
+  text align: center;
+  font-family: 'Poiret One', cursive;
+  font-size: 20px;
+  font-weight: 900;
+  color: #a78fa5;
+  line-height: 20px;
+  margin: -38px 5px 5px 5px;
+}
+
+#custom-scrollbar::-webkit-scrollbar
+{
+	width: 5px;
+}
+
+#custom-scrollbar::-webkit-scrollbar-track
+{
+    background: #000000;
+}
+
+#custom-scrollbar::-webkit-scrollbar-thumb
+{
+    background: -webkit-gradient(linear,left top,left   bottom,from(#a78fa5),to(#e8a586));
+    background: linear-gradient(180deg,#a78fa5,#e8a586);
+    border-radius: 0px;
+    box-shadow: inset 2px 2px 2px hsla(0%,0%,100%,.25), inset -2px -2px 2px rgba(0,0,0,.25);
+}

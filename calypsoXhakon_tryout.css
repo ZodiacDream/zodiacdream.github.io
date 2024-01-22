@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yatra+One&display=swap');
+
+.calypsoXhakon_reference_img {
+  content: url('https://cdn.discordapp.com/attachments/738626788208410678/1092563799283871795/CalypsoXHakonDesign.png');
+  margin: -30px 0px 0px 0px;
+  width: 500px;
+  height: auto;
+}
+
+.calypsoXhakon_name {
+  text-align: center;
+  font-style: italic;
+  color: #fce9c2;
+  font-family: 'Yatra One', cursive;
+  font-size: 35px;
+  line-height: 40px;
+  letter-spacing: 3px;
+  word-spacing: 1px;
+  margin: -40px 0px -10px 0px;
+	-webkit-text-stroke: 0.7px #e6ab44;
+}
+
+#calypsoXhakon_parent {
+  display: flex;
+  max-width: 500px;
+  max-height: 500px;
+  background: #90a1b5;
+  border: solid 3px #374f67;
+  text-align: justify;
+  font-family: 'Inknut Antiqua', serif;
+  font-size: 13px;
+  color: #5a4e60;
+  line-height: 15px;
+  margin: 10px 10px 10px 10px;
+}
+
+#calypsoXhakon_right {
+  width: 300px;
+  height: 480px;
+  border-left: solid 1px #374f67;
+  padding: 2%;
+  overflow: auto;
+}
+
+#calypsoXhakon_left {
+  flex: 1;
+  padding: 2%;
+}
+
+.calypsoXhakon_table_text {
+  text-align: justify;
+  font-family: 'Inknut Antiqua', serif;
+  font-size: 13px;
+  color: #f7cea3;
+  line-height: 15px;
+  margin: 10px 10px 10px 10px;
+}

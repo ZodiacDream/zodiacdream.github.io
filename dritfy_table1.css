@@ -1,0 +1,35 @@
+.drifty_chibi1_table_background {
+  width:400px;
+  height:auto;
+  background-image: url('https://cdn.discordapp.com/attachments/738626788208410678/1050638745948405770/VF_pattern96.jpg');
+  background-color: #ffffff;
+  border: solid 4px #2b0d0a;
+}
+.drifty_chibi1_img {
+    content: url('https://cdn.discordapp.com/attachments/791876609262354473/1062433648990765076/dfllkkq-d1971a14-c8f1-4037-a782-a102c9b6e139.png');
+  margin: -70px 0px -20px 0px;
+  width: 200px;
+  height: auto;
+}
+
+.drifty_chibi1_inner {
+  width: 330px;
+  height: auto;
+  margin: 30px 30px 30px 30px;
+  background-color: rgba(255, 255, 255, 0.9);
+  border: solid 4px #2b0d0a;
+}
+.drifty_chibi1_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 12px;
+  color: #5f322d;
+  line-height: 13px;
+  margin: 10px 10px 10px 10px;
+}
+.drifty_chibi1_table_text b
+{
+	font-weight:bold;
+	color:#6e806e;
+}

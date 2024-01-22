@@ -1,0 +1,45 @@
+.astrid-table-01
+{
+  width:500px;
+  height:auto;
+  background-image: linear-gradient(to top, rgba(29,84,71,0) 350px, rgba(29,84,71,1) 490px ), url("https://i.ibb.co/rxNTwWT/Astrid-Manip.png");
+  background-color: #1d5447;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border-style: ridge;
+  border-size: 5px;
+  border-image: linear-gradient(to top, #1d5447, #66e9cb) 1 100%;
+  border-radius: 0px 0px 0px 0px;
+}
+
+.astrid-table-01-middle
+{
+  width: 470px;
+  height: auto;
+  background-color: rgba(58, 137, 118,0.85);
+  margin: 10px 10px 500px 10px;
+}
+
+.astrid-table-01-text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 11px;
+  font-variant: small-caps;
+  color: #524032;
+  line-height: 13px;
+  margin: 10px 10px 10px 10px;
+}
+
+.astrid-table-01-text b
+{
+  font-weight: bold;
+  color: #66e9cb;
+}
+
+.astrid-table-01-text i
+{
+  font-weight: italic;
+  color: #a49b92;
+}

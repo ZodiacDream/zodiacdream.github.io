@@ -1,0 +1,40 @@
+.amara_badge_table_background {
+  width:350px;
+  height:auto;
+  background-color: #141414;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border: solid 5px #e6bf43;
+}
+
+.amara_badge_table_img {
+  content: url('https://cdn.discordapp.com/attachments/791876609262354473/1150123057432772790/amarabadge.png');
+  margin: 0px 0px -150px 0px;
+  width: 400px;
+  height: auto;
+}
+
+.amara_badge_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #feecb4;
+  line-height: 15px;
+  padding:2%;
+  margin: 130px 10px 0px 10px;
+}
+
+.amara_badge_table_text b
+{
+  font-style: bold;
+  background-image: -webkit-linear-gradient(to right, #822414, #866c31);
+  background-image: -moz-linear-gradient(to right, #822414, #866c31); 
+  background-image: -ms-linear-gradient(to right, #822414, #866c31); 
+  background-image: -o-linear-gradient(to right, #822414, #866c31); 
+  background-image: linear-gradient(to right, #822414, #866c31);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}

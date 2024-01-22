@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jolly+Lodger&display=swap');
+
+
+.irkalla_chibi_background {
+  width:500px;
+  height:auto;
+  background-image: url('https://cdn.discordapp.com/attachments/738626788208410678/1097998991830044732/VF_pattern72.jpg');
+  background-color: #2a2e0d;
+  border: solid 4px #a6a0b5;
+}
+
+.irkalla_chibi_img {
+  float: left;  
+  margin: 0px 5px 0px 15px;
+  width: 300px;
+  height: auto;
+  shape-outside: url("https://cdn.discordapp.com/attachments/738626788208410678/1095198060742717460/Irkalla_Chibi.png");
+  shape-image-threshold: 0.9;
+  shape-margin: 3%;
+}
+
+.irkalla_chibi_quote1 {
+  text-align: center;
+  margin: 10px 0px -20px 0px;
+  font-weight: bold;
+  color:#432371;
+  font-family: 'Jolly Lodger', cursive;
+  font-size:50px;
+  line-height:40px;
+  letter-spacing:7px;
+  word-spacing:10px;
+  background-image:linear-gradient(to right, #151515 40%, #ffffff 60%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: -1px -1px 0 rgba(0,0,0,1), 1px 1px 0 rgba(0,0,0,.1), 1px 3px 3px rgba(0,0,0,.75);
+}
+
+.irkalla_chibi_quote2 {
+  text-align: center;
+  font-weight: bold;
+  margin: 10px 0px -20px 0px;
+  color: #cbdff9;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing:5px;
+  word-spacing:10px;
+  filter: drop-shadow(2px 2px 2px #000);
+}
+
+.irkalla_chibi_middle {
+  width: 430px;
+  height: auto;
+  margin: 30px 30px 30px 30px;
+  background-color: rgba(33, 30, 31, 0.9);
+  border: solid 3px #151515;
+}
+
+.irkalla_chibi_table_text
+{
+  text-align: justify;
+  font-family: 'Inknut Antiqua', serif;
+  font-size: 12px;
+  color: #a6a4af;
+  line-height: 13px;
+  margin: 10px 10px 10px 10px;
+  padding: 5%;
+}
+
+.irkalla_chibi_table_text b
+{
+	font-weight:bold;
+	background-image: -webkit-linear-gradient(to right, #05d1be, #a82179);
+  background-image: -moz-linear-gradient(to right, #05d1be, #a82179); 
+  background-image: -ms-linear-gradient(to right, #05d1be, #a82179); 
+  background-image: -o-linear-gradient(to right, #05d1be, #a82179); 
+  background-image: linear-gradient(to right, #05d1be, #a82179);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}

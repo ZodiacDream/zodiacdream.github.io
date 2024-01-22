@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Kavivanar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+
+.Hjordis_table
+{
+  width: 500px;
+  height: auto;
+  background-color: #b28336;
+  background-image: url('https://cdn.discordapp.com/attachments/821492439705321472/1150984453485768724/forrest-moreland-vdSufXuwK-s-unsplash.jpg');
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border-style: solid;
+  border-width: 3px;
+  border-image: linear-gradient(180deg, rgb(32,86,105), rgb(185,213,211)) 1;
+  box-shadow:5px 5px 10px 1px rgb(0 0 0 / 0.4);
+}
+
+.Hjordis_table_img {
+  content: url('https://cdn.discordapp.com/attachments/821492439705321472/1150989773679366174/CirllaXAmbroseCub_Dark_Pants.png');
+  margin: -10px 0px -60px 0px;
+  width: 530px;
+  height: auto;
+}
+
+.Hjordis_table_inner
+{
+  width: 480px;
+  height: 500px;
+  overflow: auto;
+  background-color: rgba(30, 29, 38, 0.8);
+  margin: 27px 10px 10px 10px;
+  overflow: auto;
+}
+
+.Hjordis_table_text
+{
+  text-align: justify;
+  font-family: 'Dosis', sans-serif;
+  font-size: 18px;
+  color: #B1DAEE;
+  line-height: 20px;
+  padding:2%;
+}
+
+.Hjordis_table_text b
+{
+	font-weight:bold;
+  font-variant: small-caps;
+	background-image: -webkit-linear-gradient(to right, #23338F, #82A7F5);
+  background-image: -moz-linear-gradient(to right, #23338F, #82A7F5); 
+  background-image: -ms-linear-gradient(to right, #23338F, #82A7F5); 
+  background-image: -o-linear-gradient(to right, #23338F, #82A7F5); 
+  background-image: linear-gradient(to right, #23338F, #82A7F5);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
+
+.Hjordis_name {
+  text-align: center;
+  font-style: bold;
+  color: #82A7F5;
+  font-family: 'Kavivanar', cursive;
+  font-size:60px;
+  line-height:75px;
+  letter-spacing:3px;
+  word-spacing:1px;
+  margin: 10px 0px -5px 0px;
+  filter: drop-shadow(2px 2px 0.5px rgb(0 0 0 / 1));
+}

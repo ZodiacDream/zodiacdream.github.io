@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Amita&display=swap');
+
+.caelfind_laying_table_background {
+  width:350px;
+  height:auto;
+  background-color: #9393af;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border-style: solid;
+  border-width: 3px;
+  border-image: linear-gradient(0deg, rgb(188,186,206), rgb(30,0,0)) 1;
+  box-shadow:5px 5px 10px 1px rgb(0 0 0 / 0.4);
+}
+
+.caelfind_laying_table_img {
+  content: url('https://cdn.discordapp.com/attachments/771592695369170944/1120886260404326531/caelfindLaying.png');
+  margin: 0px 0px -75px 0px;
+  width: 500px;
+  height: auto;
+}
+
+.caelfind_laying_table_text
+{
+  text-align: justify;
+  font-family: 'Amita', cursive;
+  font-size: 15px;
+  color: #2a2b3c;
+  line-height: 16px;
+  padding:2%;
+  margin: 30px 10px 0px 10px;
+}
+
+.caelfind_laying_table_text b
+{
+  font-style: bold;
+  background-image: -webkit-linear-gradient(to right, #e0a160, #c2f081);
+  background-image: -moz-linear-gradient(to right, #e0a160, #c2f081); 
+  background-image: -ms-linear-gradient(to right, #e0a160, #c2f081); 
+  background-image: -o-linear-gradient(to right, #e0a160, #c2f081); 
+  background-image: linear-gradient(to right, #e0a160, #c2f081);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}

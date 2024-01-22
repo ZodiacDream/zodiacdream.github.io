@@ -1,0 +1,42 @@
+.cassandraXmyrkvi_table
+{
+  width:500px;
+  height:auto;
+  background-color: #214E34;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border-top: solid 10px #C1BCAC;
+  border-bottom: solid 10px #C1BCAC;
+}
+
+.cassandraXmyrkvi_img {
+  content: url('https://images2.imgbox.com/bf/f7/6QXOnvo0_o.png');
+  margin: 0px 0px -10px 0px;
+  width: 500px;
+  height: auto;
+}
+
+.cassandraXmyrkvi_inner
+{
+  width: 480px;
+  height: auto;
+  background-color: rgba(151, 155, 141, 0.7);
+  margin: 10px 10px 10px 10px;
+}
+
+.cassandraXmyrkvi_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #214E34;
+  line-height: 15px;
+  padding:2%;
+}
+
+.cassandraXmyrkvi_text b
+{
+  font-style: bold;
+  color: #EFD0CA;
+}

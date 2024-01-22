@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+
+.EiraXRevnaAdopt_table
+{
+  width:500px;
+  height:530px;
+  background-image:url("https://cdn.discordapp.com/attachments/744040675582017568/963928140839784528/daiga-ellaby-ClWvcrkBhMY-unsplash.jpg");
+  background-color: #b46d35;
+  background-size: 900px;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border-top: solid 7px #d9abd2;
+  border-bottom: solid 7px #d9abd2;
+  border-left: solid 7px #d9abd2;
+  border-right: solid 7px #d9abd2;
+}
+
+.EiraXRevnaAdopt_inner
+{
+  width: 470px;
+  height: 505px;
+  overflow: auto;
+  background-color: rgba(42,35,42, 0.75);
+  margin: 5px 5px 5px 5px;
+}
+
+.EiraXRevnaAdopt_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #d9abd2;
+  line-height: 15px;
+  padding:2%;
+}
+
+.EiraXRevnaAdopt_text b
+{
+  font-style: bold;
+  color: #fdcc92;
+}
+
+.EiraXRevnaAdopt_name {
+  text-align: center;
+  font-style: italic;
+  color: #fdcc92;
+  font-family: 'Italianno', cursive;
+  font-size:55px;
+  line-height:75px;
+  letter-spacing:3px;
+  word-spacing:1px;
+  margin: -5px 0px -20px 0px;
+  filter: drop-shadow(2px 2px 0px rgb(0 0 0 / 0.5));
+}
+.EiraXRevnaAdopt_img {
+  content: url('https://cdn.discordapp.com/attachments/738626788208410678/1016598153606205440/Revna_x_Eira_baby.png');
+  margin: -5px 0px -15px 0px;
+  width: 470px;
+  height: auto;
+}
+
+.EiraXRevnaAdopt-scrollbar01::-webkit-scrollbar
+{
+	width: 5px;
+}
+
+.EiraXRevnaAdopt-scrollbar01::-webkit-scrollbar-track
+{
+    background: rgba(255, 255, 255, 0);
+}
+
+.EiraXRevnaAdopt-scrollbar01::-webkit-scrollbar-thumb
+{
+    background: -webkit-gradient(linear,left top,left   bottom,from(#fdcc92),to(#d9abd2));
+    background: linear-gradient(180deg,#fdcc92,#d9abd2);
+    border-radius: 30px;
+    box-shadow: inset 2px 2px 2px hsla(0%,0%,100%,.25), inset -2px -2px 2px rgba(0,0,0,.25);
+}

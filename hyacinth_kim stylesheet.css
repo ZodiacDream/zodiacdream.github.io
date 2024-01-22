@@ -1,0 +1,65 @@
+.hyacinth_kim_outer {
+    display: flex;
+    flex-shrink: 0;
+    width: 500px;
+    height: auto;
+    background-image: linear-gradient(to bottom, #55749d, #0c1b2b, #55749d);
+}
+
+.hyacinth_kim_inner {
+  width:490px;
+  height:auto;
+  background-image: url('https://cdn.discordapp.com/attachments/845149768144781322/983437398769803274/angie.png');
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-color: #0c1b2b;
+  margin: 5px 5px 5px 5px;
+}
+
+.hyacinth_kim_textbox {
+  width: 460px;
+  height: 250px;
+  overflow: auto;
+  background-color: rgba(6, 6, 7, 0.7);
+  margin: 40px 10px 480px 10px;
+  border-left: 5px #55749d solid;
+  border-bottom: 5px #55749d solid;
+
+}
+
+.hyacinth_kim_text {
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #8c799e;
+  line-height: 15px;
+  padding:4%;
+}
+
+.hyacinth_kim_text b {
+  font-style: bold;
+  color: #6c89c2;
+}
+
+.hyacinth_kim_edge {
+  -webkit-clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+  clip-path: polygon(20% 0%, 80% 0%, 100% 5%, 100% 100%, 100% 100%, 0% 100%, 0% 95%, 0% 5%);
+}
+
+.hyacinth_kim_scrollbar01::-webkit-scrollbar
+{
+	width: 5px;
+}
+
+.hyacinth_kim_scrollbar01::-webkit-scrollbar-track
+{
+    background: rgba(255, 255, 255, 0);
+}
+
+.hyacinth_kim_scrollbar01::-webkit-scrollbar-thumb
+{
+    background: -webkit-gradient(linear,left top,left   bottom,from(#6d5d7c),to(#060607));
+    background: linear-gradient(180deg,#6d5d7c,#060607);
+    border-radius: 0px;
+    box-shadow: inset 2px 2px 2px hsla(0%,0%,100%,.25), inset -2px -2px 2px rgba(0,0,0,.25);
+}

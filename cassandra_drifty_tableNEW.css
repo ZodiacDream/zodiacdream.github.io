@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+
+.cassandra_drifty_art_background {
+  width:500px;
+  height:auto;
+  background-image:url('https://cdn.discordapp.com/attachments/738626788208410678/1161888421313261568/flowers2.jpg');
+  background-size: cover;
+  background-position: 50% 60%;
+  background-color: #48918F;
+  border: solid 4px #817496;
+}
+
+.cassandra_drifty_art_img {
+  float: left;  
+  margin: 0px 0px 0px 10px;
+  width: 410px;
+  height: auto;
+  shape-outside: url("https://media.discordapp.net/attachments/771592695369170944/913957730400755732/Cassandra.png");
+  shape-image-threshold: 0.9;
+  shape-margin: 2%;
+}
+
+.cassandra_drifty_art_middle {
+  width: 430px;
+  height: auto;
+  margin: 30px 30px 30px 30px;
+  background-color: rgba(13, 47, 46, 0.85);
+  border: solid 3px #817496;
+}
+
+.cassandra_drifty_art_table_text
+{
+  text-align: justify;
+  font-family: 'Inknut Antiqua', serif;
+  font-size: 13px;
+  color: #8B6D5E;
+  line-height: 13px;
+  margin: 10px 10px 10px 10px;
+  padding: 5%;
+}
+
+.cassandra_drifty_art_table_text b
+{
+	font-weight: bold;
+  font-family: 'Poiret One', cursive;
+  font-size: 20px;
+	background-image: -webkit-linear-gradient(to right, #9838A2, #817496);
+  background-image: -moz-linear-gradient(to right, #9838A2, #817496); 
+  background-image: -ms-linear-gradient(to right, #9838A2, #817496); 
+  background-image: -o-linear-gradient(to right, #9838A2, #817496); 
+  background-image: linear-gradient(to right, #9838A2, #817496);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}

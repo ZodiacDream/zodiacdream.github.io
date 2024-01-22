@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+
+.Brynjolf_Clan_Plotter_Main {
+  width: 500px;
+  height: 700px;
+  background-image: url('https://cdn.discordapp.com/attachments/821492439705321472/903333361915945031/deborah-diem-ds_NPvoAzro-unsplash.jpg');
+  backgorund-color: #0c596b;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border-style: ridge;
+  border-size: 5px;
+  border-color: #041316;
+  border-radius: 10px 0px 0px 10px;
+}
+
+.Brynjolf_Clan_Plotter_Middle {
+  width: 480px;
+  height: 680px;
+  overflow: auto;
+  margin: 10px 10px 10px 10px;
+  background-color: rgba(3, 26, 32, 0.8);
+  border-radius: 10px 0px 0px 10px;
+}
+
+.Brynjolf_Clan_Plotter_Title {
+  text-align: center;
+  font-family: 'Cinzel Decorative', cursive;
+  font-size: 30px;
+  color: #f1e0ab;
+  line-height: 15px;
+  margin: -10px 0px 0px 0px;
+}
+
+.Brynjolf_Clan_Plotter_Text {
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #aabdcb;
+  line-height: 15px;
+  margin: 10px 10px 10px 10px;
+}
+
+.Brynjolf_Clan_Plotter_Header {
+  text-align: right;
+  font-family: 'Cinzel Decorative', cursive;
+  font-size: 30px;
+  color: #f1e0ab;
+  line-height: 15px;
+  margin: 0px 0px 0px 0px;
+}
+
+#custom-scrollbar::-webkit-scrollbar
+{
+	width: 5px;
+}
+
+#custom-scrollbar::-webkit-scrollbar-track
+{
+    background: #ffffff;
+}
+
+#custom-scrollbar::-webkit-scrollbar-thumb
+{
+    background: -webkit-gradient(linear,left top,left   bottom,from(#f1e0ab),to(#4d4018));
+    background: linear-gradient(180deg,#f1e0ab,#4d4018);
+    border-radius: 0px;
+    box-shadow: inset 2px 2px 2px hsla(0%,0%,100%,.25), inset -2px -2px 2px rgba(0,0,0,.25);
+}
+
+hr.brynjolf {
+    border: 1px solid #ffffff;
+}

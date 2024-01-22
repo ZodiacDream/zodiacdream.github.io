@@ -1,0 +1,86 @@
+.cassandra_thread_tracker
+{
+  width: 510px;
+  height: auto;
+}
+
+.cassandra_thread_tracker_header
+{
+  width: 500px;
+  height: 70px;
+  background:#3A243B;
+  border:#9d839e solid 3px; 
+  border-radius: 0px 0px 0px 0px;
+}
+
+.cassandra_thread_tracker_header_text
+{
+  font-family:georgia; 
+  font-size:15pt; 
+  color:#9d839e; 
+  line-height:11px;
+  margin:20px 10px 10px 10px;
+}
+
+.cassandra_thread_tracker_header_info
+{
+  font-family:georgia; 
+  font-size:9pt; 
+  color:#9d839e; 
+  line-height:11px;
+  margin:7px 10px 10px 10px;
+}
+
+.cassandra_thread_tracker_character
+{
+  text-align: left;
+  font-family:georgia; 
+  font-size:11pt; 
+  color:#000000; 
+  line-height:12px; 
+  margin:10px 10px 10px 20px;
+}
+
+.cassandra_thread_tracker_thread
+{
+  text-align: left;
+  font-family:georgia; 
+  font-size:9pt; 
+  font-style: italic;
+  font-variant: small-caps;
+  color:#000000; 
+  line-height:10px; 
+  margin:10px 10px 10px 20px;
+}
+
+.cassandra_thread_tracker_thread_location
+{
+  text-align: center;
+  font-family:georgia; 
+  font-size:9pt; 
+  font-style: italic;
+  font-variant: small-caps;
+  color:#000000; 
+  line-height:10px; 
+  margin:-23px 10px 10px 20px;
+}
+
+.cassandra_thread_tracker_participants
+{
+  text-align: right;
+  font-family:georgia; 
+  font-size:9pt; 
+  font-style: italic;
+  font-variant: small-caps;
+  color:#000000; 
+  line-height:10px; 
+  margin:-20px 0px 10px 10px;
+}
+
+.cassandra_thread_tracker_end
+{
+  width: 500px;
+  height: 5px;
+  background:#3A243B;
+  border:#9d839e solid 2.5px; 
+}

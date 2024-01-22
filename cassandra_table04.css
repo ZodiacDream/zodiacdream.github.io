@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@700&display=swap');
+
+.cassandra_table04
+{
+  width:500px;
+  height:auto;
+  background-image: linear-gradient(to top, rgba(31,26,15,0) 400px, rgba(31,26,15,1) 500px ), url("https://cdn.discordapp.com/attachments/771592695369170944/912954510647889951/Cassandra_Beach_Manip.png");
+  background-color: #34360e;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  border: solid 1px #34360e;
+  border-radius: 60px 60px 0px 0px;
+}
+
+.cassandra_table_inner04
+{
+  width: 470px;
+  height: auto;
+  background-color: rgba(20,7,1, 0.50);
+  margin: -5px 10px 450px 10px;
+}
+
+.cassandra_text04
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #9c8578;
+  line-height: 15px;
+  padding:2%;
+  -webkit-box-decoration-break: clone;
+}
+
+.cassandra_text04 b
+{
+  font-style: bold;
+  background-image: -webkit-linear-gradient(to right, #9ea74c, #93c4c9);
+  background-image: -moz-linear-gradient(to right, #9ea74c, #93c4c9); 
+  background-image: -ms-linear-gradient(to right, #9ea74c, #93c4c9); 
+  background-image: -o-linear-gradient(to right, #9ea74c, #93c4c9); 
+  background-image: linear-gradient(to right, #9ea74c, #93c4c9);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
+
+
+.cassandra_shape04 {
+  -webkit-clip-path: polygon(50% 0%, 64% 0, 100% 0, 100% 94%, 66% 94%, 50% 100%, 34% 94%, 0 94%, 0 0, 34% 0);
+  clip-path: polygon(50% 0%, 64% 0, 100% 0, 100% 94%, 66% 94%, 50% 100%, 34% 94%, 0 94%, 0 0, 34% 0);
+}
+
+.cassandra_name04 {
+  text-align: center;
+  color:#f5f3f8;
+  font-family: 'Pinyon Script', cursive;
+  font-size:60px;
+  line-height:65px;
+  letter-spacing:3px;
+  word-spacing:10px;
+  margin: 7px 0px 0px 0px;
+  background-image:linear-gradient(to left, #9ea74c , #93c4c9);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.cassandra_quote04 {
+  text-align: right;
+  color:#0c0603;
+  font-family: 'Tangerine', cursive;
+  font-size:60px;
+  line-height:30px;
+  text-shadow: 0 0 2px #ffffff;
+  margin: -480px 15px 480px 10px;
+}

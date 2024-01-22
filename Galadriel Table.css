@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+
+.galadriel_table01
+{
+  width: 500px;
+  height: auto;
+  background-image: linear-gradient(to top, transparent 510px, #191911 585px), url('https://cdn.discordapp.com/attachments/771592695369170944/1029139336718979172/GaladrielCubManip.png');
+  background-color: #191911;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border: 5px ridge #9db56a;
+}
+
+.galadriel_name01
+{
+  font-family: 'Italianno', cursive;
+  font-size: 65px;
+  color: #9db56a;
+  text-shadow: 1px 1px 10px 1px #ffffff;
+  line-height: 65px;
+  letter-spacing: 5px;
+  padding: 10px 220px 10px 5px;
+}
+
+.galadriel_inner01
+{
+  width: 470px;
+  height: auto;
+  background-color: rgba(116, 94, 70, 0.1);
+  border-left: 3px ridge #9db56a;
+  margin: -18px 20px 570px 10px;
+}
+
+.galadriel_text01
+{
+  text-align: justify;
+  font-family: Garamond, serif;
+  font-size: 15px;
+  color: #897175;
+  line-height: 17px;
+  padding: 2%;
+}
+
+.galadriel_text01 b
+{
+  font-style: bold;
+  color: #9db56a;
+}

@@ -1,0 +1,40 @@
+.fable_badge_table_background {
+  width:350px;
+  height:auto;
+  background-color: #fedffe;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border: solid 5px #d4aeb8;
+}
+
+.fable_badge_table_img {
+  content: url('https://cdn.discordapp.com/attachments/960339240502329344/1148873217952456756/Untitled_Artwork-3.png');
+  margin: 0px 0px -150px 0px;
+  width: 400px;
+  height: auto;
+}
+
+.fable_badge_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #7c6067;
+  line-height: 15px;
+  padding:2%;
+  margin: 130px 10px 0px 10px;
+}
+
+.fable_badge_table_text b
+{
+  font-style: bold;
+  background-image: -webkit-linear-gradient(to right, #8b7eac, #443861);
+  background-image: -moz-linear-gradient(to right, #8b7eac, #443861); 
+  background-image: -ms-linear-gradient(to right, #8b7eac, #443861); 
+  background-image: -o-linear-gradient(to right, #8b7eac, #443861); 
+  background-image: linear-gradient(to right, #8b7eac, #443861);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}

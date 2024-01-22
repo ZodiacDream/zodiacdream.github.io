@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Yatra+One&display=swap');
+
+.cassandra_signature {
+  text-align: center;
+  color:#432371;
+  font-family: 'Yatra One', cursive;
+  font-size:25px;
+  line-height:30px;
+  letter-spacing:1px;
+  word-spacing:5px;
+  background-image:linear-gradient(to right, #9838a2 40%, #93c4c9 60%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0.5px 0.5px 2px rgba(0,0,0,0.35);
+  -webkit-text-stroke: 0.8px black;
+  text-stroke: 0.8px black;
+}

@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=The+Girl+Next+Door&display=swap');
+
+.adelita_table02
+{
+  width: 500px;
+  height: auto;
+  background-image: linear-gradient(to top, transparent 500px, #b5925e 750px), url('https://media.discordapp.net/attachments/771592695369170944/1099083078904856686/AdelitaManip2.png');
+  background-color: #b5925e;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border: solid 3px #3b5306;
+  border-radius: 30px 30px 300px 300px;
+}
+
+.adelita_inner02
+{
+  width: 470px;
+  height: auto;
+  background-color: rgba(118,66,28, 0.75);
+  margin: 10px 20px 590px 10px;
+  padding: 1%;
+  border-radius: 30px 30px 50px 50px;
+  border-top: solid 2px #c2a576;
+  border-left: solid 2px #c2a576;
+  border-right: solid 2px #c2a576;
+}
+
+.adelita_text02
+{
+  text-align: justify;
+  font-family: 'The Girl Next Door', cursive;
+  font-size: 16px;
+  color: #c2a576;
+  line-height: 18px;
+  padding: 2%;
+}
+
+.adelita_text02 b
+{
+  font-style: bold;
+  color: #1d2705;
+}

@@ -1,0 +1,55 @@
+.dozy_table01_main {
+  width:500px;
+  height:527px;
+  background-image: url("https://media.discordapp.net/attachments/771592695369170944/1070616366073266226/image.png");
+  background-color: #d09598;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border: solid 4px #5b8b62;
+  margin: 5px 5px 5px 5px;
+  border-radius: 0px 100px 100px 0px;
+}
+
+.dozy_table01_inner
+{
+  width: 250px;
+  height: 470px;
+  overflow: auto;
+  background-color: rgba(70,92,78, 0.75);
+  margin: 30px 210px 0px 0px;
+}
+
+.dozy_table01_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #97b4b7;
+  line-height: 15px;
+  padding:2%;
+}
+
+.dozy_table01_text b
+{
+  font-style: bold;
+  color: #f0aeae;
+}
+
+.dozy_table01-scrollbar01::-webkit-scrollbar
+{
+	width: 5px;
+}
+
+.dozy_table01-scrollbar01::-webkit-scrollbar-track
+{
+    background: rgba(255, 255, 255, 0);
+}
+
+.dozy_table01-scrollbar01::-webkit-scrollbar-thumb
+{
+    background: -webkit-gradient(linear,left top,left   bottom,from(#23090e),to(#d09598));
+    background: linear-gradient(180deg,#23090e,#d09598);
+    border-radius: 30px;
+    box-shadow: inset 2px 2px 2px hsla(0%,0%,100%,.25), inset -2px -2px 2px rgba(0,0,0,.25);
+}

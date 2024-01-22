@@ -1,0 +1,35 @@
+.felis_background {
+  width:412px;
+  height:auto;
+  background-color: #20364a;
+}
+.felis_img {
+   content: url('https://media.discordapp.net/attachments/886742005194063925/1008841137999597578/PR2022-07_for_Zay.png');
+  margin: 0px 12px -100px 0px;
+  width: 500px;
+  height: auto;
+}
+
+.felis_middle {
+  width: 380px;
+  height: auto;
+  margin: 10px 10px 10px 10px;
+  padding: 1px;
+  background-color: rgb(122, 76, 52, 0);
+}
+
+.felis_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: small;
+  color: #f2d6d5;
+  line-height: 13px;
+  margin: 70px 10px 10px 10px;
+}
+
+.felis_text b
+{
+	font-weight:bold;
+	color: #716778;
+}

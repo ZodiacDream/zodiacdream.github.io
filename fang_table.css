@@ -1,0 +1,57 @@
+.fang_background {
+  width:500px;
+  height:auto;
+  background-image: linear-gradient(to bottom left, #d6c87b, #d7c87a, #b9c5a1, #b6c2b5, #acc5b3, #b6c1b5, #d7b3a7);
+  border-style: solid;
+  border-size: 5px;
+  border-color: #712e0e;
+}
+.fang_img {
+   content: url('https://cdn.discordapp.com/attachments/791876609262354473/922702693636644904/fang.png');
+  margin: -8px 0px -10px 0px;
+  width: 500px;
+  height: auto;
+}
+
+.fang_middle {
+  width: 480px;
+  height: 400px;
+  overflow: auto;
+  margin: 10px 10px 10px 10px;
+  padding: 1px;
+  background-color: rgb(122, 76, 52, 0.5);
+  border-left: solid 3px #712e0e;
+}
+.fang_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: small;
+  color: #2d2f1f;
+  line-height: 13px;
+  margin: 10px 10px 10px 10px;
+}
+
+.fang_text b
+{
+	font-weight:bold;
+	color:#364a64;
+}
+
+#custom-scrollbar::-webkit-scrollbar
+{
+	width: 5px;
+}
+
+#custom-scrollbar::-webkit-scrollbar-track
+{
+    background: linear-gradient(180deg,#412a00,#ffecca);
+}
+
+#custom-scrollbar::-webkit-scrollbar-thumb
+{
+    background: -webkit-gradient(linear,top,bottom,from(#855500),to(#f5cf8b));
+    background: linear-gradient(180deg,#855500,#f5cf8b);
+    border-radius: 30px;
+    box-shadow: inset 2px 2px 2px hsla(0%,0%,100%,.25), inset -2px -2px 2px rgba(0,0,0,.25);
+}

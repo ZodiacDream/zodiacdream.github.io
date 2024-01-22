@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Babylonica&display=swap');
+
+.caoimhe_table01 {
+  width:500px;
+  height:auto;
+  background-image: linear-gradient(to top, transparent 550px, #2c3d46 650px), url("https://cdn.discordapp.com/attachments/771592695369170944/963889678711418970/CaoimheManip1.png");
+  background-color: #2c3d46;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border: double 5px #ababab;
+  margin: 5px 5px 5px 5px;
+}
+
+.caoimhe_inner01
+{
+  width: 480px;
+  height: auto;
+  background-color: rgba(30,43,49, 0.50);
+  margin: 10px 10px 590px 10px;
+}
+
+.caoimhe_text01
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #84969d;
+  line-height: 15px;
+  padding:2%;
+}
+
+.caoimhe_text01 b
+{
+  font-style: bold;
+  color: #ababab;
+}
+
+.caoimhe_name01 {
+  text-align: right;
+  color: #0a1824;
+  font-family: 'Babylonica', cursive;
+  font-size: 45px;
+  line-height:30px;
+  text-shadow: 0 0 5px #ffffff;
+  margin: -620px 15px 620px 10px;
+}

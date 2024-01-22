@@ -1,0 +1,40 @@
+.cassandra_flea_table01 {
+  width:450px;
+  height:auto;
+  background-image: linear-gradient(to top, #3e196e, #d46c76, #ffc07c);
+  border-style: solid;
+  border-size: 5px;
+  border-color: #6d51a5;
+  border-radius: 30px 30px 10px 10px;
+}
+.cassandra_flea_image01 {
+   content: url('https://cdn.discordapp.com/attachments/771592695369170944/912141203124916254/IMG_0937.png');
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 99%;
+}
+
+.cassandra_flea_table_inner01 {
+  width: 425px;
+  height: auto;
+  margin: 10px 10px 10px 10px;
+  padding: 1px;
+  background-color: rgb(10, 52, 49, 0.75);
+  border-left: solid 3px #0a3431;
+  border-radius: 30px 30px 10px 10px;
+}
+.cassandra_flea_table_text01
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: small;
+  color: #9fe0dc;
+  line-height: 13px;
+  margin: 10px 10px 10px 10px;
+}
+.cassandra_flea_table_text01 b
+{
+	font-weight:bold;
+	color: #d46c76;
+}

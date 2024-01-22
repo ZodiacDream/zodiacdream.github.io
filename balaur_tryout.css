@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
+
+.balaur_adopt_table_background {
+  width:450px;
+  height:auto;
+  background-color: #3b1c26;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border: solid 5px #2d332a;
+}
+
+.balaur_adopt_table_img {
+  content: url('https://cdn.discordapp.com/attachments/738626788208410678/1179490076867182642/leo_x_gauth_cub.png');
+  margin: 0px 0px -25px 60px;
+  width: 500px;
+  height: auto;
+}
+
+.balaur_adopt_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #9ba497;
+  line-height: 15px;
+  padding:2%;
+  margin: 10px 10px 0px 10px;
+}
+
+.balaur_adopt_table_text b
+{
+  font-style: bold;
+  background-image: -webkit-linear-gradient(to right, #8b7eac, #443861);
+  background-image: -moz-linear-gradient(to right, #8b7eac, #443861); 
+  background-image: -ms-linear-gradient(to right, #8b7eac, #443861); 
+  background-image: -o-linear-gradient(to right, #8b7eac, #443861); 
+  background-image: linear-gradient(to right, #ee8888, #6e8488);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
+
+.balaur_adopt_name {
+  text-align: center;
+  font-style: bold;
+  color: #ee8888;
+  font-family: 'MedievalSharp', cursive;
+  font-size:40px;
+  line-height:60px;
+  letter-spacing:3px;
+  word-spacing:1px;
+  margin: 10px 0px -5px 0px;
+  filter: drop-shadow(2px 2px 0.5px rgb(22 7 17 / 1));
+}

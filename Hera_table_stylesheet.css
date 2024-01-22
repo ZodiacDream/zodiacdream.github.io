@@ -1,0 +1,44 @@
+.hera_table_image {
+  width:500px;
+  height:auto;
+  transition: background-image 0.9s ease-in-out;
+  background-image: url("https://i.ibb.co/BjT0nVW/Hera-Manip.png");
+  background-color: #0e120e;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border-style: ridge;
+  border-size: 5px;
+  border-image: linear-gradient(to bottom, #ffd63e, #edbebe) 1 100%;
+  border-radius: 0px 0px 0px 0px;
+}
+
+.hera_table_image:hover {
+  background-image:url("https://i.ibb.co/Qp14NSF/Hera-Manip-with-Text.png");
+}
+.hera_table_middle {
+  width: 470px;
+  height: auto;
+  margin: 650px 10px 10px 10px;
+  background-color: rgba(42, 53, 35, 0.5);
+  border-radius: 10px 10px 0px 0px;
+}
+.hera_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 11px;
+  color: #d68d8f;
+  line-height: 13px;
+  margin: 10px 10px 10px 10px;
+}
+.hera_table_text b
+{
+	font-weight:bold;
+	color:#945757;
+}
+.hera_table_text i
+{
+  font-weight:italic;
+  color:#feedd5;
+}

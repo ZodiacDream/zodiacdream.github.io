@@ -1,0 +1,40 @@
+.adelita_badge_table_background {
+  width:350px;
+  height:auto;
+  background-color: #87842e;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border: solid 5px #558536;
+}
+
+.adelita_badge_table_img {
+  content: url('https://cdn.discordapp.com/attachments/771592695369170944/1148842908275970118/Untitled_Artwork-4.png');
+  margin: 0px 0px -150px 0px;
+  width: 400px;
+  height: auto;
+}
+
+.adelita_badge_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #243e23;
+  line-height: 15px;
+  padding:2%;
+  margin: 130px 10px 0px 10px;
+}
+
+.adelita_badge_table_text b
+{
+  font-style: bold;
+  background-image: -webkit-linear-gradient(to right, #8b7eac, #443861);
+  background-image: -moz-linear-gradient(to right, #8b7eac, #443861); 
+  background-image: -ms-linear-gradient(to right, #8b7eac, #443861); 
+  background-image: -o-linear-gradient(to right, #8b7eac, #443861); 
+  background-image: linear-gradient(to right, #9d160e, #700c05);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}

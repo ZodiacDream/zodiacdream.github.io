@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+.caladan_signature {
+    width: 500px;
+}
+
+.caladan_name {
+    text-align: center;
+    display: inline-block;
+    font-size: 35px;
+    line-height: 43px;
+    font-family: 'Pirata One', cursive;
+    position: relative;
+    letter-spacing: 1px;
+    background-image: -webkit-linear-gradient(left,#fff1eb,#b1e2fa);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(2px 2px 0px #000);
+    -webkit-text-stroke: 0.03px #ffffff;
+}
+
+.caladan_rank_text {
+    text-align: right;
+    color: #000;
+    font-size: 20px;
+    line-height: 22px;
+    font-family: 'Amatic SC', cursive;
+    letter-spacing: 1px;
+    margin: 1px 150px -14px 1px;
+    background-image: -webkit-linear-gradient(left,#fff1eb,#b1e2fa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    filter: drop-shadow(2px 2px 0px #000);
+    -webkit-text-stroke: 0.03px #ffffff;
+}
