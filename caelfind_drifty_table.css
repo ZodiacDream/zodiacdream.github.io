@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+
+.cael_drifty_art_background {
+  width:500px;
+  height:auto;
+  background-image: linear-gradient(to bottom, transparent 500px, #161A26 750px), url('https://images.unsplash.com/photo-1530577912333-0edf2f7864f7?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=mark-basarab-B6F_wjmk5RA-unsplash.jpg');
+  background-size: cover;
+  background-position: 50% 60%;
+  background-color: #0E1A0C;
+  border: solid 4px #BDC5F2;
+  border-radius: 70px 70px 0px 0px;
+}
+
+.cael_drifty_art_img {
+  float: right;  
+  margin: -80px -100px -20px 0px;
+  width: 400px;
+  height: auto;
+}
+
+.cael_drifty_art_middle {
+  width: 430px;
+  height: auto;
+  margin: 30px 30px 30px 30px;
+  background-color: rgba(34, 41, 64, 0.90);
+  border: solid 3px #BDC5F2;
+  border-radius: 70px 70px 0px 0px;
+}
+
+.cael_drifty_art_table_text
+{
+  text-align: justify;
+  font-family: 'Inknut Antiqua', serif;
+  font-size: 12px;
+  color: #C9CFF2;
+  line-height: 13px;
+  margin: 10px 10px 10px 10px;
+  padding: 5%;
+}
+
+.cael_drifty_art_table_text b
+{
+	font-weight: bold;
+  font-family: 'Poiret One', cursive;
+  font-size: 16px;
+	background-image: -webkit-linear-gradient(to right, #899DD9, #AED270);
+  background-image: -moz-linear-gradient(to right, #899DD9, #AED270); 
+  background-image: -ms-linear-gradient(to right, #899DD9, #AED270); 
+  background-image: -o-linear-gradient(to right, #899DD9, #AED270); 
+  background-image: linear-gradient(to right, #899DD9, #AED270);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
