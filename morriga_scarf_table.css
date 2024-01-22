@@ -1,0 +1,46 @@
+.morrigan_scarf_outer {
+    display: flex;
+    flex-shrink: 0;
+    width: 500px;
+    height: auto;
+    background-image: linear-gradient(to bottom, #532350, #282624, #a09d9b);
+}
+
+.morrigan_scarf_inner {
+  width:490px;
+  height:auto;
+  background-image: url('https://cdn.discordapp.com/attachments/876542805936341002/910644517609287680/file_2.png');
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: 490px;
+  background-color: #eee9eb;
+  margin: 5px 5px 5px 5px;
+}
+
+.morrigan_scarf_textbox {
+  width: 460px;
+  height: auto;
+  background-color: rgba(80, 74, 71, 0.25);
+  margin: 20px 10px 380px 10px;
+  border-bottom: 8px #494543 solid;
+  border-radius: 0px 0px 0px 80px;
+}
+
+.morrigan_scarf_text {
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #4d1f47;
+  line-height: 15px;
+  padding:4%;
+}
+
+.morrigan_scarf_text b {
+  font-style: bold;
+  color: #9d2e9a;
+}
+
+.morrigan_scarf_edge {
+  -webkit-clip-path: polygon(0 5%, 3% 5%, 5% 0, 93% 0, 97% 5%, 100% 5%, 100% 95%, 97% 95%, 93% 100%, 8% 100%, 3% 95%, 0 95%);
+  clip-path: polygon(0 5%, 3% 5%, 5% 0, 93% 0, 97% 5%, 100% 5%, 100% 95%, 97% 95%, 93% 100%, 8% 100%, 3% 95%, 0 95%);
+}

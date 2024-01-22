@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&display=swap');
+
+.myrkvi_table {
+  width: 500px;
+  height: 333px;
+  background-image: url('https://cdn.discordapp.com/attachments/771592695369170944/918256823994286120/Myrkvi_Manip.png');
+  background-size: contain;
+  background-color: #5c5124;
+  margin: 10px 10px 10px 10px;
+  border: 3px #c0854d groove;
+}
+
+.myrkvi_inner {
+  width: 200px;
+  height: 300px;
+  overflow: auto;
+  margin: 10px 10px 10px 295px;
+  background-color: rgba(45, 32, 24, 0.75);
+}
+
+.myrkvi_text {
+  text-align: justify;
+  font-family: georgia;
+  font-size: 12px;
+  color: #a5a5a5;
+  line-height: 15px;
+  padding: 2%;
+}
+
+.myrkvi_text b {
+  font-weight: bold;
+  color: #c0854d;
+}
+#custom-scrollbar::-webkit-scrollbar
+{
+	width: 5px;
+}
+
+#custom-scrollbar::-webkit-scrollbar-track
+{
+    background: #110f0f;
+}
+
+#custom-scrollbar::-webkit-scrollbar-thumb
+{
+    background: -webkit-gradient(linear,top,bottom,from(#949494),to(#110f0f));
+    background: linear-gradient(180deg,#949494,#110f0f);
+    border-radius: 30px;
+    box-shadow: inset 2px 2px 2px hsla(0%,0%,100%,.25), inset -2px -2px 2px rgba(0,0,0,.25);
+}
+
+.myrkvi_quote {
+  text-align: right;
+  color:#d2d2d2;
+  font-family: 'Island Moments', cursive;
+  font-size:40px;
+  line-height:50px;
+  margin: -20px 15px 10px 10px;
+}

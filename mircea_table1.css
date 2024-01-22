@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+
+.mircea_table01
+{
+  width: 500px;
+  height: auto;
+  background-image: linear-gradient(to bottom, transparent 470px, #5d612e 500px), url('https://cdn.discordapp.com/attachments/738626788208410678/1145574478777167942/MirceaArt.png');
+  background-color: #526050;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border: 5px solid #b18c7f;
+  border-radius: 100px 100px 0px 0px;
+}
+
+.mircea_inner01
+{
+  width: 470px;
+  height: auto;
+  background-color: rgba(0,7,2, 0.75);
+  margin: 500px 20px 10px 10px;
+}
+
+.mircea_text01
+{
+  text-align: justify;
+  font-family: 'Old Standard TT', serif;
+  font-size: 20px;
+  color: #5d612e;
+  line-height: 20px;
+  padding: 2%;
+}
+
+.mircea_text01 b
+{
+  font-family: 'Marck Script', cursive;
+  font-style: bold;
+  color: #b18c7f;
+}

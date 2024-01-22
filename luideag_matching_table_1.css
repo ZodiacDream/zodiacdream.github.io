@@ -1,0 +1,45 @@
+.luideag_table_image {
+  width:500px;
+  height:auto;
+  transition: background-image 1.5s ease-in-out;
+  background-image:url("https://cdn.discordapp.com/attachments/821492439705321472/843324130714583060/Luideag_and_Anais_Table.png");
+  background-color: #282119;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border-style: ridge;
+  border-size: 5px;
+  border-image: linear-gradient(to top, #46bea1,rgba(0, 0, 0, 0)) 1 100%;
+  border-radius: 0px 0px 0px 0px;
+}
+
+.luideag_table_image:hover {
+  background-image:url("https://cdn.discordapp.com/attachments/821492439705321472/843324129007632415/Luideag_and_Anais_Table_-_Luideag_Version.png");
+}
+.luideag_table_middle {
+  width: 470px;
+  height: auto;
+  margin: 600px 10px 10px 10px;
+  background-color: rgba(118, 97, 79, 0.15);
+  border-radius: 0px 0px 10px 10px;
+}
+.luideag_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 11px;
+  font-variant: small-caps;
+  color: #af9178;
+  line-height: 13px;
+  margin: 10px 10px 10px 10px;
+}
+.luideag_table_text b
+{
+	font-weight:bold;
+	color:#009772;
+}
+.luideag_table_text i
+{
+  font-weight:italic;
+  color:#9c566d;
+}

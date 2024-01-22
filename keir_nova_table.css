@@ -1,0 +1,36 @@
+.keir_nova_table
+{
+  width:500px;
+  height:auto;
+  background-image: linear-gradient(to top, rgba(10,17,21,0) 450px, rgba(10,17,21,1) 560px ), url("https://cdn.discordapp.com/attachments/771592695369170944/928775444373848064/keirbby.png");
+  background-color: #1e1319;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border-top: solid 1px #1e1319;
+  border-bottom: solid 1px #1e1319;
+}
+
+.keir_nova_inner
+{
+  width: 470px;
+  height: auto;
+  background-color: rgba(44,70,99, 0.20);
+  margin: 10px 10px 510px 10px;
+}
+
+.keir_nova_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #668c9e;
+  line-height: 15px;
+  padding:2%;
+}
+
+.keir_nova_text b
+{
+  font-style: bold;
+  color: #bed4e0;
+}

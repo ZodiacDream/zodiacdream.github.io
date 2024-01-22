@@ -1,0 +1,55 @@
+.revna_table_main {
+  width:500px;
+  height:580px;
+  background-image: url("https://media.discordapp.net/attachments/771592695369170944/1012052495658397766/Revna_x_Eira_Manip.png");
+  background-color: #13171b;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border: solid 5px #010204;
+  margin: 5px 5px 5px 5px;
+}
+
+.revna_table_inner
+{
+  width: 490px;
+  height: 380px;
+  overflow: auto;
+  background-color: rgba(19,23,27, 1);
+  margin: 185px 0px 0px 0px;
+  border-top: 5px solid #010204;
+}
+
+.revna_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #63666a;
+  line-height: 15px;
+  padding:2%;
+}
+
+.revna_table_text b
+{
+  font-style: bold;
+  color: #cfd43f;
+}
+
+.revna_table-scrollbar01::-webkit-scrollbar
+{
+	width: 5px;
+}
+
+.revna_table-scrollbar01::-webkit-scrollbar-track
+{
+    background: rgba(255, 255, 255, 0);
+}
+
+.revna_table-scrollbar01::-webkit-scrollbar-thumb
+{
+    background: -webkit-gradient(linear,left top,left   bottom,from(#080b0e),to(#63666a));
+    background: linear-gradient(180deg,#080b0e,#63666a);
+    border-radius: 30px;
+    box-shadow: inset 2px 2px 2px hsla(0%,0%,100%,.25), inset -2px -2px 2px rgba(0,0,0,.25);
+}

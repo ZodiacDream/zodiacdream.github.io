@@ -1,0 +1,35 @@
+.octavia_table {
+  width:500px;
+  height:auto;
+  background-image: linear-gradient(to bottom, transparent 460px, #2f350f 540px), url("https://cdn.discordapp.com/attachments/771592695369170944/930188212675174409/Octavia_Manip.png");
+  background-color: #2f350f;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border: inset 4px #c98364;
+  margin: 5px 5px 5px 5px;
+}
+
+.octavia_inner
+{
+  width: 480px;
+  height: auto;
+  background-color: rgba(75,85,30, 0.50);
+  margin: 490px 10px 10px 10px;
+}
+
+.octavia_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #da9a7f;
+  line-height: 15px;
+  padding:2%;
+}
+
+.octavia_text b
+{
+  font-style: bold;
+  color: #dccfb7;
+}

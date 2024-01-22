@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Slim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+.saeunn_thread_tracker {
+  width: 500px;
+  height: auto;
+  background-color: #3a7391;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border: double 8px #0f3341;
+}
+
+.saeunn_thread_tracker_img
+{
+  content: url('https://cdn.discordapp.com/attachments/890399441624924240/1081728324834959472/Untitled_Artwork.png');  
+  padding: 0;
+  margin: 0px 0px -140px 320px;
+  width: 300px;
+  height: auto;
+}
+
+.saeunn_thread_tracker_info
+{
+  width: 280px;
+  height: 60px;
+  overflow: auto;
+  background-color: #aacccd;
+  margin: 40px 0px 20px 10px;
+  border-radius: 10px;
+  padding: 1%;
+  text-align: center;
+  font-family: 'Nova Slim', cursive;
+  font-size: 15px;
+  color: #0f3341;
+  line-height: 30px;
+}
+
+.saeunn_thread_tracker_blurb
+{
+  text-align: center;
+  font-family: 'Nova Slim', cursive;
+  font-size: 12px;
+  color: #0f3341;
+  line-height: 20px;
+}
+
+.saeunn_thread_tracker_separator
+{
+  text-align: center;
+  font-style: italic;
+  color: #0f3341;
+  font-family: 'Kaushan Script', cursive;
+  font-size:45px;
+  line-height:75px;
+  letter-spacing:3px;
+  word-spacing:1px;
+  margin: 0px 0px -35px 0px;
+  -webkit-text-stroke: 1px #aacccd;
+}
+
+.saeunn_hr
+{
+  margin: 30px 0px -48px 0px;
+  width: 470px;
+  border: solid 3px #aacccd;
+}
+
+.saeunn_thread_tracker_text
+{
+  text-align: justify;
+  font-family: 'Nova Slim', cursive;
+  font-size: 10px;
+  color: #0f3341;
+  line-height: 15px;
+  margin: 10px 10px 10px 10px;
+}
+
+.saeunn_tracker_box
+{
+  width: 410px;
+  height: 200px;
+  overflow: auto;
+  background-color: rgba(255, 255, 255, 0);
+  margin: 25px 10px 30px 40px;
+  border-radius: 10px 10px 10px 10px;
+  padding: 1%;
+}
+
+.saeunn_tracker_list ul li {
+  list-style: circle;
+  background: #aacccd;
+  color: #0f3341;
+  margin: 0px 20px 5px -10px;
+  border-radius: 5px;
+}
+
+.saeunn_thread_header
+{
+  text-align: justify;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 15px;
+  color: #042630;
+  line-height: 15px;
+  margin: 10px 10px -5px 10px;
+}
+
+.inner_hr
+{
+  margin: 5px 0px 0px 0px;
+  width: 390px;
+  border: solid 1px #aacccd;
+}
+
+/* unvisited link */
+.saeunn_tracker_links a:link {
+  color: #184b46;
+}
+
+/* visited link */
+.saeunn_tracker_links a:visited {
+  color: #184b46;
+}
+
+/* mouse over link */
+.saeunn_tracker_links a:hover {
+  color: #184b46;
+}
+
+/* selected link */
+.saeunn_tracker_links a:active {
+  color: #184b46;
+}
+
+.saeunn_tracker_scrollbar::-webkit-scrollbar
+{
+	width: 3px;
+}
+
+.saeunn_tracker_scrollbar::-webkit-scrollbar-track
+{
+    background: rgba(255, 255, 255, 0);
+}
+
+.saeunn_tracker_scrollbar::-webkit-scrollbar-thumb
+{
+    background: -webkit-gradient(linear,left top,left   bottom,from(#aad2ca),to(#184b46));
+    background: linear-gradient(180deg,#aad2ca,#184b46);
+    border-radius: 30px;
+    box-shadow: inset 2px 2px 2px hsla(0%,0%,100%,.25), inset -2px -2px 2px rgba(0,0,0,.25);
+}

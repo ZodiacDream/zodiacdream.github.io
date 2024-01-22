@@ -1,0 +1,44 @@
+.orchid_headshot_background {
+  width:500px;
+  height:auto;
+  background-image: url('https://cdn.discordapp.com/attachments/738626788208410678/1102792406669197342/abstract_purple_hue2.jpg');
+  background-color: #321d3f;
+  border: double 6px #aca7be;
+  border-radius: 80px 80px 0px 0px;
+}
+
+.orchid_headshot_img {
+  float: right;  
+  margin: 0px -35px 0px 0px;
+  width: 300px;
+  height: auto;
+  shape-outside: url("https://cdn.discordapp.com/attachments/791876609262354473/1102622784405901414/ychkarasu.png");
+  shape-image-threshold: 0.9;
+  shape-margin: 3%;
+}
+
+.orchid_headshot_middle {
+  width: 430px;
+  height: auto;
+  margin: 30px 30px 30px 30px;
+  background-color: rgba(219, 218, 229, 0.75);
+  border: solid 3px #c6d4e4;
+  border-radius: 80px 80px 0px 0px;
+}
+
+.orchid_headshot_table_text
+{
+  text-align: justify;
+  font-family: "Garamond", serif;
+  font-size: 16px;
+  color: #91798b;
+  line-height: 16px;
+  margin: 10px 10px 10px 10px;
+  padding: 4%;
+}
+
+.orchid_headshot_table_text b
+{
+	font-weight:bold;
+	color: #342d39;
+}

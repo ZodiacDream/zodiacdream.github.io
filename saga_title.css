@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+
+.saga_title1 {
+  text-align: center;
+  font-weight: bold;
+  color:#432371;
+  font-family: 'Nosifer', cursive;
+  font-size:20px;
+  line-height:30px;
+  letter-spacing:1px;
+  word-spacing:5px;
+  background-image:linear-gradient(to right, #BF2323 45%, #750000 55%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(2px 2px #000000);
+}

@@ -1,0 +1,42 @@
+.maua_table01
+{
+  width:500px;
+  height:auto;
+  background-image: linear-gradient(to top, rgba(24,25,49,0) 210px, rgba(24,25,49,1) 280px ), url("https://cdn.discordapp.com/attachments/862011212446433310/882788838492217364/Amaryllis_Maua_Banner.jpg");
+  background-color: #181931;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border-top: solid 9px #322f5e;
+  border-bottom: solid 9px #322f5e;
+}
+
+.maua_table_box01
+{
+  width: 470px;
+  height: auto;
+  background-color: rgba(116, 95, 140, 0.15);
+  margin: 10px 10px 280px 10px;
+}
+
+.maua_table_text01
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #c4b5d1;
+  line-height: 15px;
+  padding:2%;
+}
+
+.maua_table_text01 b
+{
+  font-weight: bold;
+  color: #c896b9;
+}
+
+.maua_table_text01 i
+{
+  font-weight: italics;
+  color: #81785a;
+}

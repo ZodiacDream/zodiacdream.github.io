@@ -1,0 +1,72 @@
+.kvandra2_table
+{
+  width: 500px;
+  height: auto;
+  background-color: #4c7273;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border-top: double 8px #86b9b0;
+  border-left: double 8px #86b9b0;
+  border-right: double 8px #86b9b0;
+  border-bottom: double 8px #86b9b0;
+  border-radius: 55px 60px 0px 0px;
+}
+
+.kvandra2_table_img {
+  content: url('https://cdn.discordapp.com/attachments/890399441624924240/1089056687996026930/Untitled_Artwork.png');
+  margin: -100px 0px -76px 0px;
+  width: 500px;
+  height: auto;
+}
+
+.kvandra2_table_inner
+{
+  width: 460px;
+  height: auto;
+  overflow: auto;
+  background-color: rgba(208, 214, 214, 0.6);
+  margin: 27px 10px 10px 10px;
+  border-radius: 15px 20px 0px 0px;
+}
+
+.kvandra2_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #042630;
+  line-height: 15px;
+  padding:2%;
+}
+
+
+.ratha_speech01
+{
+ 	font-weight:bold;
+	color: #857680;
+}
+
+.freyja_speech01
+{
+ 	font-weight:bold;
+	color: #892828;
+}
+
+.asbjorn_speech01
+{
+ 	font-weight:bold;
+	color: #c364d1;
+}
+
+.saeunn_speech01
+{
+ 	font-weight:bold;
+	color: #694e87;
+}
+
+.thorin_speech01
+{
+ 	font-weight:bold;
+	color: #63586e;
+}

@@ -1,0 +1,31 @@
+.valerius_table {
+  width:500px;
+  height:auto;
+  background-image: url("https://cdn.discordapp.com/attachments/791876609262354473/936060472719990794/valerius1.jpg");
+  background-color: #050505;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border: double 7px #a8ba68;
+  border-radius: 80px 80px 300px 300px;
+}
+
+.valerius_inner {
+  width: 470px;
+  height: auto;
+  margin: 10px 10px 540px 10px;
+}
+
+.valerius_text {
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #ffffff;
+  line-height: 15px;
+  padding:2%;
+}
+
+.valerius_text b {
+  font-weight: bold;
+  color: #a8ba68;
+}

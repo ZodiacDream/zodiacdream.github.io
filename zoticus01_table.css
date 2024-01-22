@@ -1,0 +1,37 @@
+.zoticus01_table
+{
+  width:500px;
+  height:auto;
+  background-image: linear-gradient(to top, rgba(62,13,10,0) 150px, rgba(62,13,10,1) 330px ), url('https://i.ibb.co/SsL1MzT/Zoticus-Halfbody-Commission-1.png');
+  background-color: #3e0d0a;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border-top: solid 1px #3e0d0a;
+  border-bottom: solid 1px #3e0d0a;
+}
+
+.zoticus01_inner
+{
+  width: 500px;
+  height: auto;
+  background-color: rgba(111,52,49, 0.30);
+  margin: 0px 0px 310px 0px;
+  border-bottom: solid 2px #290502;
+}
+
+.zoticus01_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #26c3a0;
+  line-height: 15px;
+  padding:3%;
+}
+
+.zoticus01_text b
+{
+  font-style: bold;
+  color: #ca8a86;
+}

@@ -1,0 +1,46 @@
+.KimTable01 {
+  width:500px;
+  height:auto;
+  background-image: linear-gradient(to top, transparent 500px, #7e7e7e 600px), url("https://media.discordapp.net/attachments/791876609262354473/1034200139310567474/received_1092180091434086.webp");
+  background-color: #405747;
+  background-size: 550px;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border: ridge 6px #282828;
+  border-radius: 80px 80px 0px 0px;
+  margin: 5px 5px 5px 5px;
+}
+
+.KimTable01_inner
+{
+  width: 470px;
+  height: auto;
+  overflow: auto;
+  background-color: rgba(68,68,68, 0.3);
+  border-left: solid 2px #a2a2a2;
+  border-bottom: solid 2px #a2a2a2;
+  border-radius: 80px 80px 0px 0px;
+  margin: 10px 10px 600px 10px;
+}
+
+.KimTable01_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #25262a;
+  line-height: 15px;
+  padding:7%;
+}
+
+.Skorvaga_speech01
+{
+ 	font-weight:bold;
+	color:#95b5d1;
+}
+
+.Acheron_speech01
+{
+ 	font-weight:bold;
+	color:#002054;
+}

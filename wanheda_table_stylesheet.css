@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Klee+One:wght@600&display=swap');
+
+.wanheda_table01 {
+  width:500px;
+  height:auto;
+  background-image: url("https://iili.io/ROw8UN.md.png");
+  background-color: #5f1314;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border-style: ridge;
+  border-size: 5px;
+  border-image: linear-gradient(to bottom, #ffffff, #b33032) 1 100%;
+  border-radius: 0px 0px 300px 300px;
+}
+
+.wanheda_name01 {
+  text-align: center;
+  color:#f5f3f8;
+  font-family: 'Klee One', cursive;
+  font-size:50px;
+  line-height:70px;
+  letter-spacing:3px;
+  word-spacing:10px;
+  margin: 7px 0px 0px 0px;
+  background-image: linear-gradient(to bottom, #c27f7a, #44101c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.wanheda_inner01 {
+  width: 470px;
+  height: auto;
+  background-color: rgba(158, 77, 78, 0.5);
+  border-style: double;
+  border-size: 5px;
+  border-color: #a9c4d2;
+  margin: 10px 10px 740px 10px;
+}
+
+.wanheda_text01
+{
+  padding: 2%;
+  text-align: justify;
+  font-family: georgia;
+  font-size: 12px;
+  color: #190b09;
+  line-height: 14px;
+}
+
+.wanheda_text01 b
+{
+  font-weight: bold;
+  color: #acc7d6;
+}

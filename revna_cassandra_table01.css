@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
+
+.revna_cassandra_table01
+{
+  width: 500px;
+  height: auto;
+  background-color: #001415;
+  margin: -5px 0px 0px 0px;
+  border-top: 15px #377870 solid;
+}
+
+.revna_cassandra_image01
+{
+  content: url('https://cdn.discordapp.com/attachments/738626788208410678/1070211104866848818/Cassandra_and_Revna_Table_Image.png');
+  width: 500px;
+  height: auto;
+}
+
+.revna_cassandra_text01
+{
+  text-align: justify;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 16px;
+  color: #377870;
+  line-height: 14px;
+  margin: 15px 25px 20px 25px;
+  padding: 0.5%;
+}
+
+.cassandra_name {
+  text-align: center;
+  font-style: italic;
+  color: #001415;
+  font-family: 'Rock Salt', cursive;
+  font-size:45px;
+  line-height:75px;
+  letter-spacing:3px;
+  word-spacing:1px;
+  margin: -40px 0px -40px 0px;
+  -webkit-text-stroke: 2px #377870;
+}
+
+.revna_name {
+  text-align: center;
+  font-style: italic;
+  color: #001415;
+  font-family: 'Rock Salt', cursive;
+  font-size:45px;
+  line-height:75px;
+  letter-spacing:3px;
+  word-spacing:1px;
+  margin: -40px 0px -40px 0px;
+  -webkit-text-stroke: 2px #377870;
+}
+
+.revna_speech01
+{
+ 	font-weight:bold;
+	color: #a7a971;
+}
+
+.cassandra_speech01
+{
+ 	font-weight:bold;
+	color: #817496;
+}

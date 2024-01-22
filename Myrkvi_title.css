@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap');
+
+.myrkvi_title {
+  text-align: center;
+  color:#432371;
+  font-family: 'Megrim', cursive;
+  font-size:30px;
+  line-height:40px;
+  letter-spacing:1px;
+  word-spacing:5px;
+  background-image:linear-gradient(to right, #5B7FAF 45%, #CBCBCB 55%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    text-shadow: -2px -2px 0 rgba(255,255,255,.25), 1px 1px 0 rgba(0,0,0,.25), 1px 3px 3px rgba(0,0,0,.5);
+}

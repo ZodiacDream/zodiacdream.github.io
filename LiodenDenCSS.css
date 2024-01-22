@@ -1,0 +1,322 @@
+/* Background */
+body {
+  background: url('https://cdn.discordapp.com/attachments/744040675582017568/963928140839784528/daiga-ellaby-ClWvcrkBhMY-unsplash.jpg') center center fixed;
+  background-size: 100%;
+  font-family: Helvetica, sans-serif;
+  color: #1E172E;
+}
+
+/* Feed All, Play All */
+.feature {
+	background: rgba(111, 95, 144, 0.9) !important;
+	color: #1E172E !important;
+	border: none !important;
+	border-radius: 5px !important;
+}
+
+/* Topbar & Navigation Bar */
+
+.topbar {
+	background: rgba(111, 95, 144, 0.9);
+	border: none;
+	border-top: none;
+	color: #1E172E;
+	border-radius: 5px;
+	font-family: Helvetica, sans-serif;
+}
+
+.navbar {
+	background: rgba(59, 47, 83, 0.9);
+	border-bottom: none;
+	font-family: Helvetica, sans-serif;
+	color: #1E172E;
+	border-radius: 5px;
+}
+
+.navbar li a {
+	color: #AEA4C2 !important;
+}
+
+/* Navigation Bar Hover Color */
+
+.navbar li a:hover {
+	background: rgba(145, 132, 171, 0.9) !important;
+}
+
+/* Main Panel */
+/* Right Side */
+.container.main {
+	background: rgba(111, 95, 144, 0.9);
+	border: none;
+	box-shadow: none;
+	border-radius: 5px;
+}
+
+/* Left Side */
+.col-md-9 {
+	background: none;
+}
+
+
+/* Breadcrumb (Home / Den) */
+
+.breadcrumb {
+	background: rgba(59, 47, 83, 0.9);
+}
+
+.breadcrumb .active {
+	color: #1E172E;
+}
+
+
+/* Alerts (ie. "Your lionesses have returned from hunting!") */
+
+.alert {
+	background: rgba(117, 142, 183, 0.9);
+	border: none;
+	color: #1E172E;
+}
+
+.alert-warning,
+.alert-danger {
+	background: rgba(117, 142, 183, 0.9);
+	color: #1E172E;
+}
+
+
+/* "King Dynasty, Pride Dynasty, Achievements, Showcase" Panels */
+
+.feature,
+div.left {
+	background: rgba(145, 132, 171, 0.9);
+	border: none;
+}
+
+
+/* Energy Bars, Achievements & Bookmarks */
+
+.panel {
+	background: rgba(145, 132, 171, 0.9) !important;
+	box-shadow: none !important;
+	border: none !important;
+	color: #1E172E !important;
+}
+
+/* Energy Bar Background */
+.progress {
+	background: rgba(174, 164, 194, 0.9);
+	color: #1E172E !important;
+}
+
+/* Energy Bar Text */
+.progress div {
+	color: #1E172E !important;
+}
+
+/* Energy Bar Color */
+.progress-bar {
+	background: rgba(117, 142, 183, 0.9);
+	color: #1E172E !important;
+}
+
+
+/* CHAT */
+
+.s-chat-message:nth-child(even) {
+	background: #6F5F90 !important;
+	border: none !important;
+}
+
+.s-chat-message:nth-child(odd) {
+	background: #554772 !important;
+	border: none !important;
+}
+
+/* PINNED MESSAGE */
+.s-chat-message__pinned {
+	background: #758EB7 !important;
+	color: #1E172E !important;
+	border: none !important;
+}
+
+.s-chat-message_timestamp {
+	color: #1E172E !important;
+}
+
+div#chatMessageContainer {
+	border: none !important;
+}
+
+/* CURRENT CHANNEL TAB (MAIN, SALES, ETC.) */
+button#label_currentChannel {
+	border: none !important;
+	background: #CAC3D8 !important;
+}
+
+/* BIGGEST HEADER ("___"'s DEN) */
+
+h1 {
+	color: #1E172E;
+	font-size: 50px;
+	text-align: center;
+}
+
+/* MEDIUM HEADER */
+
+h2 {
+	color: #1E172E;
+	font-size: 24px;
+	text-align: center;
+}
+
+/* SMALL HEADER */
+
+h3 {
+	color: #1E172E !important;
+	font-size: 14px !important
+}
+
+
+/* King Information Panel (Level, Stats, Branch, Territory Count, Etc.) */
+/* Panel Background Color */
+.table {
+	background: rgba(59, 47, 83, 0.5);
+	border: none !important;
+	border-collapse: separate;
+	border-radius: 5px;
+}
+
+/* Header Colors (King Name + Title, "There are _ lions with mutations in _'s pride.") */
+.top,
+.bottom,
+th {
+	background: rgba(59, 47, 83, 0.9) !important;
+	color: #1E172E !important;
+	border-radius: 5px;
+}
+
+/* Block of color where "Territory Description, Player Name, Avatar URL" etc. are */
+
+.table .left {
+	background: rgba(85, 71, 114, 0.9)
+}
+
+/* Affects the color behind your territory description, player name, etc. */
+
+input,
+select,
+textarea {
+	background: rgba(145, 132, 171, 0.5) !important;
+	border: none !important;
+	border-color: black;
+	border-radius: 5px;
+	box-shadow: none !important;
+	color: black !important;
+	text-shadow: none !important;
+}
+
+/* Color behind "Level, Stats, Branch, Territory" etc. */
+
+.inner-table .left {
+	background: rgba(85, 71, 114, 0.9) !important;
+}
+
+/* Color behind the number of all of the things above */
+
+.inner-table .right {
+	background: rgba(145, 132, 171, 0.9)
+}
+
+/* Ignore */
+.right_odd {
+	background: none !important;
+}
+
+/* Account Options Panel  (Friend Requests Toggles, etc.) */
+
+.item-header {
+	background: rgba(145, 132, 171, 0.9) !important;
+	color: #1E172E  !important;
+}
+
+.item {
+	background: rgba(145, 132, 171, 0.9) !important;
+	border: none !important;
+}
+
+/* Beetle Mound Topbar (Where it says Beetle Training Grounds, Beetle Battling, etc.) */
+
+.sub_menu {
+	background: rgba(145, 132, 171, 0.9) !important;
+}
+
+.sub_menu_item_selected {
+	background: rgba(111, 95, 114, 0.9) !important;
+}
+
+/* Affects the color behind "_ Unsorted", "_ Pregnant Lionesses", etc. and cave/mound names */
+
+.cave-grid,
+.mound-grid {
+	background: rgba(145, 132, 171, 0.9);
+	border: none !important;
+}
+
+/* Link Color & Link Hover Colors */
+
+a:link,
+a:visited {
+	color: #AEA4C2 !important;
+}
+
+a:hover {
+	color: #758EB7 !important;
+}
+
+/* Scrollbar */
+
+::-webkit-scrollbar {
+	width: 7px;
+	height: 7px;
+}
+
+/* Scrollbar Background */
+
+::-webkit-scrollbar-track {
+	background: #E2DEEB;
+}
+
+/* Scrollbar Thumb */
+
+::-webkit-scrollbar-thumb {
+	background: #AEA4C2;
+	border-radius: 4px;
+}
+
+/* Opacity of King & Player Icons */
+
+div#lion_image {
+	opacity: 0.9;
+}
+
+table#player img {
+	opacity: 0.9;
+}
+
+/* Rounded King & Player Icons */
+
+div#lion_image {
+	border-radius: 50% !important;
+	overflow: hidden;
+	margin-top: 19px;
+	margin-left: 6px;
+}
+
+table#player img {
+	border-radius: 50% !important;
+	overflow: hidden;
+}
+
+div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
+	content: url('https://cdn.discordapp.com/attachments/744040675582017568/963935618503684106/Lioden_Logo_CUSTOM.png');
+}

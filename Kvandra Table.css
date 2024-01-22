@@ -1,0 +1,43 @@
+.KvandraTable {
+  width:500px;
+  height:auto;
+  background-image: linear-gradient(to top, transparent 300px, #405747 355px), url("https://i.ibb.co/RhLW57D/Cass-x-Kvi-Manip.png");
+  background-color: #405747;
+  background-size: 550px;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border: groove 6px #908067;
+  border-radius: 0px 0px 0px 0px;
+  margin: 5px 5px 5px 5px;
+}
+
+.KvandraTable_inner
+{
+  width: 470px;
+  height: auto;
+  overflow: auto;
+  background-color: rgba(26,40,23, 0.3);
+  margin: 10px 10px 360px 10px;
+}
+
+.KvandraTable_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #79867d;
+  line-height: 15px;
+  padding:7%;
+}
+
+.cassandra_speech02
+{
+ 	font-weight:bold;
+	color:#7f7294;
+}
+
+.myrkvi_speech02
+{
+ 	font-weight:bold;
+	color:#93CAED;
+}

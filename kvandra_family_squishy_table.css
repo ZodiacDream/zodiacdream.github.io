@@ -1,0 +1,91 @@
+.kvandra_family_table01
+{
+  width: 460px;
+  height: 400px;
+  background-image: url('https://cdn.discordapp.com/attachments/738626788208410678/1012516718482047036/luke-hodde-DtbgeMlP4sA-unsplash.jpg');
+  background-size: cover;
+  margin: -40px 10px 10px 10px;
+  border: 6px #000000 double;
+}
+
+.kvandra_family_image01
+{
+  content: url('https://media.discordapp.net/attachments/449357115841052673/1012421991963308104/ZaySquishyFam.png');
+  width: 500px;
+  height: auto;
+}
+
+.kvandra_family_textbox01
+{
+  width: 430px;
+  height: 350px;
+  overflow: auto;
+  margin: 10px 10px 10px 10px;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-left: 5px #000000 double;
+  border-top: 5px #000000 double;
+}
+
+.kvandra_family-scrollbar::-webkit-scrollbar
+{
+	width: 5px;
+}
+
+.kvandra_family-scrollbar::-webkit-scrollbar-track
+{
+    background: linear-gradient(90deg,#201c29,#201c29 1px,#100e17 0,#100e17);
+}
+
+.kvandra_family-scrollbar::-webkit-scrollbar-thumb
+{
+    background: -webkit-gradient(linear,left top,left   bottom,from(#8b6d5e),to(#090909));
+    background: linear-gradient(180deg,#8b6d5e,#090909);
+    border-radius: 30px;
+    box-shadow: inset 2px 2px 2px hsla(0%,0%,100%,.25), inset -2px -2px 2px rgba(0,0,0,.25);
+}
+
+.kvandra_family_text01
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 11px;
+  color: #82a3b2;
+  line-height: 13px;
+  padding: 2%;
+}
+
+.cassandra_speech01
+{
+ 	font-weight:bold;
+	color:#7f7294;
+}
+
+.myrkvi_speech01
+{
+ 	font-weight:bold;
+	color:#93CAED;
+}
+
+.lukas_speech01
+{
+ 	font-weight:bold;
+	color:#008080;
+}
+
+.eisa_speech01
+{
+ 	font-weight:bold;
+	color:#EBB3F3;
+}
+
+.analia_speech01
+{
+ 	font-weight:bold;
+	color:#E0CD67;
+}
+
+.imber_speech01
+{
+ 	font-weight:bold;
+	color:#ACD1AF;
+}

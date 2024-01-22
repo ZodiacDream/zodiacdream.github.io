@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+
+.rielus-table-outer {
+    display: flex;
+    flex-shrink: 0;
+    width: 500px;
+    height: auto;
+    background-image: linear-gradient(#8d3d20, #4b3f45, #fdbc84);
+}
+
+.rielus-table-inner {
+    width:490px;
+    height:auto;
+    background: url("https://i.postimg.cc/W1J86TQB/rielusdesert.png") no-repeat bottom center;
+    background-size: 490px;
+    background-color: #070512;
+    margin: 5px 5px 5px 5px;
+}
+
+.rielus-clipping {
+     -webkit-clip-path: polygon(0 6%, 7% 6%, 7% 0, 93% 0, 93% 6%, 100% 6%, 100% 94%, 93% 94%, 93% 100%, 7% 100%, 7% 94%, 0 94%);
+     clip-path: polygon(0 6%, 7% 6%, 7% 0, 93% 0, 93% 6%, 100% 6%, 100% 94%, 93% 94%, 93% 100%, 7% 100%, 7% 94%, 0 94%);
+}
+
+.rielus-name {
+    transition: 1.25s ease;
+    opacity: 0;
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 55px;
+    line-height: 60px;
+    background: -webkit-linear-gradient(#f2dec2, #1e4c50);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 2px 210px 10px 10px;
+}
+
+.rielus-textbox {
+    transition: 1.25s ease;
+    opacity: 0;
+    width: 280px;
+    height: 250px;
+    background-color: rgba(136, 75, 54, 0.50);
+    margin: -10px 200px 335px 10px;
+    overflow: auto;
+    border-left: 4px solid;
+    border-right: 0px;
+    border-image: linear-gradient(#1e4c50, #f2dec2) 0 100%;
+}
+
+.rielus-scrollbar::-webkit-scrollbar
+{
+	width: 5px;
+}
+
+.rielus-scrollbar::-webkit-scrollbar-track
+{
+    background: linear-gradient(90deg,#7c412d,#7c412d 1px,#7c412d 0,#7c412d);
+}
+
+.rielus-scrollbar::-webkit-scrollbar-thumb
+{
+    background: -webkit-gradient(linear,left top,left   bottom,from(#f2dec2),to(#1e4c50));
+    background: linear-gradient(180deg,#f2dec2,#1e4c50);
+    border-radius: 30px;
+    box-shadow: inset 2px 2px 2px hsla(0%,0%,100%,.25), inset -2px -2px 2px rgba(0,0,0,.25);
+}
+
+.rielus-text {
+    text-align: justify;
+    font-family: georgia;
+    font-size: 13px;
+    color: #38211d;
+    line-height: 15px;
+    padding:3%; 
+}
+
+.rielus-text b {
+    font-style: bold;
+    color: #fcae76;
+}
+
+.rielus-table-outer:hover .rielus-table-inner {
+  opacity: 1;
+}
+
+.rielus-table-outer:hover .rielus-textbox {
+  opacity: 1;
+}
+
+.rielus-table-outer:hover .rielus-name {
+  opacity: 1;
+}

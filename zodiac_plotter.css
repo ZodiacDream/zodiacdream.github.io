@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+.zodiac_plotter_background {
+  width:500px;
+  height:auto;
+  background-image: linear-gradient(to bottom ,#a49bc5, #726f9f);
+  background-color: #a49bc5;
+  border-style: ridge;
+  border-size: 5px;
+  border-image: linear-gradient(to bottom, #726f9f,rgba(114, 111, 159, 1)) 1 100%;
+}
+.zodiac_plotter_middle {
+  width: 460px;
+  height:auto;
+  margin: 10px 10px 40px 10px;
+  border-left: solid 3px #ead7d6;
+}
+.zodiac_plotter_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #323053;
+  line-height: 15px;
+  margin: 10px 10px 10px 10px;
+}
+.zodiac_plotter_text b
+{
+	font-weight:bold;
+	color:#323053;
+}
+.zodiac_plotter_text i
+{
+  font-weight:italic;
+  color:#323053;
+}
+hr.zodiac_plotter 
+{
+  border: 2px solid #c4aecc;
+}
+.zodiac_plotter_title
+{
+  width: 480px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 40px;
+  color: #ead7d6;
+  padding: 10px 10px 10px 10px;
+  border-bottom: 5px solid #726f9f;
+}

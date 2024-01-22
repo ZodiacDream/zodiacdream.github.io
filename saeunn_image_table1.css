@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Mr+De+Haviland&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Stylish&display=swap');
+
+.saeunn_table01
+{
+  width: 500px;
+  height: auto;
+  background-image: linear-gradient(to bottom, transparent 270px, #617379 320px), url('https://media.discordapp.net/attachments/771592695369170944/1072423517418700860/Saeunn_Manip_1.png');
+  background-color: #617379;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border: 5px ridge #093e41;
+  border-radius: 300px 300px 0px 0px;
+}
+
+.saeunn_name01
+{
+  font-family: 'Mr De Haviland', cursive;
+  font-size: 65px;
+  color: #cadcec;
+  text-shadow: 1px 1px 10px 1px #ffffff;
+  line-height: 65px;
+  letter-spacing: 5px;
+  padding: 300px 150px 0px 0px;
+  filter: drop-shadow(2px 2px 0px rgb(0 0 0 / 0.5));
+}
+
+.saeunn_inner01
+{
+  width: 470px;
+  height: auto;
+  background-color: rgba(9, 62, 65, 0.85);
+  border-left: 3px ridge #1c2221;
+  margin: -5px 20px 10px 10px;
+}
+
+.saeunn_text01
+{
+  text-align: justify;
+  font-family: 'Stylish', sans-serif;
+  font-size: 16px;
+  color: #617379;
+  line-height: 18px;
+  padding: 2%;
+}
+
+.saeunn_text01 b
+{
+  font-style: bold;
+  color: #cadcec;
+}

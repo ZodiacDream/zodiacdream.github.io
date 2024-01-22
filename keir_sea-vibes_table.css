@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+.keir_sea-vibes_table01
+{
+  width: 439px;
+  height: auto;
+  background-color: #1b131e;
+  margin: -80px 0px 0px 0px;
+  border: 2px #1b131e solid;
+  border-radius: 0px 0px 0px 0px;
+}
+
+.keir_sea-vibes_image01
+{
+    content: url('https://cdn.discordapp.com/attachments/791876609262354473/904159111543914516/sea_vibes.png');
+  width: 500px;
+  height: auto;
+  margin: 0px -9px 10px 10px;
+}
+
+.keir_sea-vibes_textbox01
+{ 
+  width: 419px;
+  height: auto;
+  background-color: rgba(255, 255, 255, 0.05);
+  margin: 43px 5px 10px 5px;
+}
+
+.keir_sea-vibes_text01
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #2f6da3;
+  line-height: 15px;
+  padding:1%;
+}
+
+.keir_sea-vibes_name01
+{
+  font-family: 'Great Vibes', cursive;
+  font-size: 65px;
+  line-height: 65px;
+  background: -webkit-linear-gradient(#222220, #4d7eb6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 6px 0px -55px 10px;
+}
+
+.keir_sea-vibes_text01 b
+{
+  font-style: bold;
+  color: #c9a567;
+}

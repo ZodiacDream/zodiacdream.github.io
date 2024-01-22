@@ -1,0 +1,40 @@
+.naeina_out_table01{
+  display: flex;
+  flex-shrink: 0;
+  width: 500px;
+  height: auto;
+  background-image: linear-gradient(to bottom left,#667264,#18130d);
+  border-radius: 10px 10px 400px 75px;
+}
+.naeina_in_table01 {
+  width:490px;
+  height:auto;
+  background: linear-gradient(to top, rgba(12,5,5,0) 430px, rgba(12,5,5,1) 700px ), url('https://cdn.discordapp.com/attachments/771592695369170944/900945148358299658/Naeina_Manip.png') no-repeat bottom center;
+  background-size: 490px;
+  background-color: #000000;
+  border-radius: 10px 10px 400px 75px;
+  margin: 5px 5px 5px 5px;
+}
+
+.naeina_textbox01 {
+  width: 470px;
+  height: auto;
+  background-color: rgba(255, 255, 255, 0.03);
+  margin: 10px 10px 620px 10px;
+}
+
+.naeina_text01
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #4c5e55;
+  line-height: 15px;
+  padding:2%;
+}
+
+.naeina_text01 b
+{
+  font-style: bold;
+  color: #96705e;
+}

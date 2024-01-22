@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=My+Soul&display=swap');
+
+.tiernan_table01 {
+  width:500px;
+  height:auto;
+  background-image: linear-gradient(to top, transparent 500px, #6a3f1d 700px), url("https://i.ibb.co/1vqqFwq/Tiernan-Cub-Manip.png");
+  background-color: #6a3f1d;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border: ridge 4px #105600;
+  margin: 5px 5px 5px 5px;
+}
+
+.tiernan_inner01
+{
+  width: 480px;
+  height: auto;
+  background-color: rgba(161,123,73, 0.30);
+  margin: 10px 10px 650px 10px;
+}
+
+.tiernan_text01
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #b39b6e;
+  line-height: 15px;
+  padding:2%;
+}
+
+.tiernan_text01 b
+{
+  font-style: bold;
+  color: #40ca00;
+}
+
+.tiernan_name01 {
+  text-align: right;
+  color: #130800;
+  font-family: 'My Soul', cursive;
+  font-size:40px;
+  line-height:30px;
+  text-shadow: 0 0 4px #ffffff;
+  margin: -680px 15px 680px 10px;
+}

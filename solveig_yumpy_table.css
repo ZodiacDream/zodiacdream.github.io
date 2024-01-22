@@ -1,0 +1,37 @@
+.solveig_yumpy_table
+{
+  width:500px;
+  height:auto;
+  background-image: url("https://cdn.discordapp.com/attachments/1009351757471678605/1009732293922934845/unknown.png");
+  background-color: #613217;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border-top: solid 1px #1e1319;
+  border-bottom: solid 1px #1e1319;
+  border-radius:200px 200px 0px 0px;
+}
+
+.solveig_yumpy_inner
+{
+  width: 470px;
+  height: auto;
+  background-color: rgba(205,103,16, 0.1);
+  margin: 510px 10px 10px 10px;
+}
+
+.solveig_yumpy_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #f29837;
+  line-height: 15px;
+  padding:2%;
+}
+
+.solveig_yumpy_text b
+{
+  font-style: bold;
+  color: #bdb63a;
+}

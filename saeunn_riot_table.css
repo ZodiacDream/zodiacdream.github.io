@@ -1,0 +1,42 @@
+.saeunn_image_background {
+  width:500px;
+  height:auto;
+  background-color: #3a7391;
+  border-width: 4px;
+  border-style: solid;
+  border-image: linear-gradient(to bottom right, #0f3341, #786192) 1;
+}
+
+.saeunn_image_img {
+  width: 400px;
+  margin: -25px 10px 10px 0px;
+  float: left;
+  shape-outside: url("https://cdn.discordapp.com/attachments/780289491583369220/1096895731178160238/sae.png");
+  shape-image-threshold: 0.9;
+  shape-margin: 3%;
+}
+
+.saeunn_image_middle {
+  width: 470px;
+  height: auto;
+  margin: 70px 10px 10px 10px;
+  padding: 1%;
+  background-color: rgb(122, 76, 52, 0);
+}
+
+.saeunn_image_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 14px;
+  color: #0f3341;
+  line-height: 13px;
+  margin: 180px 5px 5px 5px;
+  padding: 1%;
+}
+
+.saeunn_image_text b
+{
+	font-weight:bold;
+	color: #aacccd;
+}

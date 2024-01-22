@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&display=swap');
+
+.madeleine_table01
+{
+  width: 450px;
+  height: auto;
+  background-image: url('https://cdn.discordapp.com/attachments/791876609262354473/889564388778975232/dbtu1sd-030f38d3-ff58-4dba-a2dd-7df136a53b04.png');
+  background-color: #27221e;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border-left: 5px ridge #954651;
+  border-bottom: 5px ridge #954651;
+}
+
+.madeleine_name01
+{
+  font-family: 'Fleur De Leah', cursive;
+  font-size: 55px;
+  color: #954651;
+  text-shadow: 1px 1px 10px 1px #ffffff;
+  line-height: 60px;
+  letter-spacing: 5px;
+  padding: 500px 190px 10px 5px;
+}
+
+.madeleine_inner01
+{
+  width: 430px;
+  height: auto;
+  background-color: rgba(50, 41, 36, 0.5);
+  border-left: 3px ridge #954651;
+  margin: -20px 10px 10px 10px;
+}
+
+.madeleine_text01
+{
+  text-align: justify;
+  font-family: Garamond, serif;
+  font-size: 15px;
+  color: #897175;
+  line-height: 17px;
+  padding: 2%;
+}
+
+.madeleine_text01 b
+{
+  font-style: bold;
+  color: #d090a0;
+}
+
+.madeleine_text01 i
+{
+  font-style:italics;
+  color: #b97f80;
+}
