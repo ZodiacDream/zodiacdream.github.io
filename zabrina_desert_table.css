@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
+
+.zabrina_table01
+{
+  width: 500px;
+  height: auto;
+  background-image: linear-gradient(to top, transparent 470px, #cfcfca 680px), url(' https://cdn.discordapp.com/attachments/771592695369170944/1166584587758096445/ZabrinaManipBlur.png');
+  background-color: #526050;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border: 5px solid #4c414a;
+  border-radius: 20px 20px 100px 100px;
+}
+
+.zabrina_inner01
+{
+  width: 470px;
+  height: auto;
+  background-color: rgba(182, 139, 113, 0.65);
+  margin: 10px 10px 670px 10px;
+  border-radius: 20px 20px 60px 60px;
+}
+
+.zabrina_text01
+{
+  text-align: justify;
+  font-family: 'Bad Script', cursive;
+  font-size: 20px;
+  color: #4c414a;
+  line-height: 25px;
+  padding: 2%;
+}
+
+.zabrina_text01 b
+{
+  font-family: 'Indie Flower', cursive;
+  font-size: 19px;
+  font-style: bold;
+  color: #034b3b;
+}
