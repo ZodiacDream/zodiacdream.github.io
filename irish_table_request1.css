@@ -1,0 +1,52 @@
+.irish_table_background {
+  width:434px;
+  height:auto;
+  background-image: linear-gradient(to bottom, #bc9972, #5325b7);
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border-style: solid;
+  border-width: 5px;
+  border-image: linear-gradient(0deg, rgb(83,37,183), rgb(153,148,156)) 1;
+}
+
+.irish_table_inner01 {
+  width: 400px;
+  height: auto;
+  margin: 10px 10px 10px 10px;
+  padding: 1px;
+  background-color: rgb(163, 158, 156, 0.75);
+}
+
+.irish_table_img {
+  margin: -110px -3px 0px 0px;
+  width: 500px;
+  height: auto;
+  shape-outside: url("https://i.ibb.co/37X3Nq9/Silver-transparent.png");
+  shape-image-threshold: 0.0;
+  shape-margin: 1%;
+}
+
+.irish_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #321f5b;
+  line-height: 15px;
+  padding:2%;
+  margin: 10px 10px 70px 10px;
+}
+
+.irish_table_text b
+{
+  font-style: bold;
+  background-image: -webkit-linear-gradient(to right, #5d5954, #5325b7);
+  background-image: -moz-linear-gradient(to right, #5d5954, #5325b7); 
+  background-image: -ms-linear-gradient(to right, #5d5954, #5325b7); 
+  background-image: -o-linear-gradient(to right, #5d5954, #5325b7); 
+  background-image: linear-gradient(to right, #5d5954, #5325b7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
