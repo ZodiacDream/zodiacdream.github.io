@@ -19,12 +19,10 @@
 }
 
 .irish_table_img {
+  content: url('https://i.ibb.co/rygVQdk/Silver-02-04-20.png');
   margin: -110px -3px 0px 0px;
   width: 500px;
   height: auto;
-  shape-outside: url("https://i.ibb.co/37X3Nq9/Silver-transparent.png");
-  shape-image-threshold: 0.0;
-  shape-margin: 1%;
 }
 
 .irish_table_text
