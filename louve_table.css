@@ -3,7 +3,7 @@
     flex-shrink: 0;
     width: 500px;
     height: auto;
-    background-image: linear-gradient(to bottom left, #957C8D, #728070, #402838);
+    background-image: linear-gradient(to bottom, #5f0909, #F4F29B, #5f0909);
 }
 
 .louve_table_image {
@@ -42,10 +42,10 @@
 .louve_table_text b
 {
   font-style: bold;
-  background-image: -webkit-linear-gradient(to right, #F4F29B, #D2D3C8);
-  background-image: -moz-linear-gradient(to right, #e08f4a, #9e9db9); 
-  background-image: -ms-linear-gradient(to right, #e08f4a, #9e9db9); 
-  background-image: -o-linear-gradient(to right, #e08f4a, #9e9db9); 
+  background-image: -webkit-linear-gradient(to right, #b31a1a, #F4F29B);
+  background-image: -moz-linear-gradient(to right, #b31a1a, #F4F29B); 
+  background-image: -ms-linear-gradient(to right, #b31a1a, #F4F29B); 
+  background-image: -o-linear-gradient(to right, #b31a1a, #F4F29B); 
   background-image: linear-gradient(to right, #b31a1a, #F4F29B);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
