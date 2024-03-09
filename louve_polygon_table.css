@@ -1,0 +1,53 @@
+.louve_table {
+    display: flex;
+    flex-shrink: 0;
+    width: 500px;
+    height: auto;
+    background-image: linear-gradient(to bottom, #5f0909, #F4F29B, #5f0909);
+}
+
+.louve_table_image {
+  width:490px;
+  height:auto;
+  background: url('https://i.ibb.co/0KdzP5M/louvetablebycush.png') no-repeat top center;
+  background-size: 500px;
+  background-color: #0D140F;
+  margin: 5px 5px 5px 5px;
+}
+
+.louve_table_bevel {
+    -webkit-clip-path: polygon(53% 0, 85% 0, 100% 12%, 100% 80%, 100% 100%, 0 100%, 0% 80%, 0 41%);
+    		clip-path: polygon(53% 0, 85% 0, 100% 12%, 100% 80%, 100% 100%, 0 100%, 0% 80%, 0 41%);
+
+}
+
+.louve_table_textbox
+{
+  width: 460px;
+  height: auto;
+  background-color: rgba(43, 64, 40, 0.50);
+  margin: 550px 10px 10px 10px;
+}
+
+.louve_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #B0BF8E;
+  line-height: 15px;
+  padding:2%;
+}
+
+.louve_table_text b
+{
+  font-style: bold;
+  background-image: -webkit-linear-gradient(to right, #b31a1a, #F4F29B);
+  background-image: -moz-linear-gradient(to right, #b31a1a, #F4F29B); 
+  background-image: -ms-linear-gradient(to right, #b31a1a, #F4F29B); 
+  background-image: -o-linear-gradient(to right, #b31a1a, #F4F29B); 
+  background-image: linear-gradient(to right, #b31a1a, #F4F29B);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
