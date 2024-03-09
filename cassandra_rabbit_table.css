@@ -42,37 +42,4 @@
 {
   font-style: bold;
   color: #b6bcb2;
-}') no-repeat top center;
-  background-size: 500px;
-  background-color: #67624e;
-  margin: 5px 5px 5px 5px;
-}
-
-.cassandra-rabbit-bevel {
-    -webkit-clip-path: polygon(50% 0%, 100% 5%, 100% 100%, 0 100%, 0 5%);
-    		clip-path: polygon(50% 0%, 100% 5%, 100% 100%, 0 100%, 0 5%);
-}
-
-.cassandra-rabbit-textbox
-{
-  width: 460px;
-  height: auto;
-  background-color: rgba(12, 11, 7, 0.50);
-  margin: 650px 10px 10px 10px;
-}
-
-.cassandra-rabbit-text
-{
-  text-align: justify;
-  font-family: georgia;
-  font-size: 13px;
-  color: #9687b2;
-  line-height: 15px;
-  padding:2%;
-}
-
-.cassandra-rabbit-text b
-{
-  font-style: bold;
-  color: #b6bcb2;
 }
