@@ -7,7 +7,7 @@
 }
 
 .louve_table_image {
-  width:490px;
+  width:500px;
   height:auto;
   background: url('https://i.ibb.co/0KdzP5M/louvetablebycush.png') no-repeat top center;
   background-size: 500px;
@@ -16,8 +16,8 @@
 }
 
 .louve_table_bevel {
-    -webkit-clip-path: polygon(53% 0, 85% 0, 100% 12%, 100% 80%, 100% 100%, 0 100%, 0% 80%, 0 41%);
-    		clip-path: polygon(53% 0, 85% 0, 100% 12%, 100% 80%, 100% 100%, 0 100%, 0% 80%, 0 41%);
+    -webkit-clip-path: polygon(53% 0, 85% 0, 100% 12%, 100% 95%, 100% 100%, 0 100%, 0 93%, 0 32%);
+    		clip-path: polygon(53% 0, 85% 0, 100% 12%, 100% 95%, 100% 100%, 0 100%, 0 93%, 0 32%);
 
 }
 
