@@ -1,0 +1,57 @@
+.umaiza_table_background {
+  width:400px;
+  height:600px;
+  background-color: #6d8687;
+  border-style: outset;
+  border-size: 7px;
+  border-image: linear-gradient(to bottom, #dba399,rgba(0, 0, 0, 0)) 1 100%;
+}
+
+.umaiza_table_middle {
+  width: 350px;
+  height: 560px;
+  overflow:auto;
+  margin: 20px 10px 20px 10px;
+  border-left: solid 3px #b2b2b2;
+}
+
+.umaiza_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 15px;
+  color: #495563;
+  line-height: 16px;
+  margin: 10px 10px 10px 10px;
+}
+
+.umaiza_table_text b
+{
+	font-weight:bold;
+	  background-image: -webkit-linear-gradient(to right, #fbeaea, #dba399);
+  background-image: -moz-linear-gradient(to right, #fbeaea, #dba399); 
+  background-image: -ms-linear-gradient(to right, #fbeaea, #dba399); 
+  background-image: -o-linear-gradient(to right, #fbeaea, #dba399); 
+  background-image: linear-gradient(to right, #fbeaea, #dba399);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
+
+.umaiza_table-scrollbar01::-webkit-scrollbar
+{
+	width: 5px;
+}
+
+.umaiza_table-scrollbar01::-webkit-scrollbar-track
+{
+    background: rgba(255, 255, 255, 0);
+}
+
+.umaiza_table-scrollbar01::-webkit-scrollbar-thumb
+{
+    background: -webkit-gradient(linear,left top,left   bottom,from(#e08f4a),to(#9e9db9));
+    background: linear-gradient(180deg,#e08f4a,#9e9db9);
+    border-radius: 30px;
+    box-shadow: inset 2px 2px 2px hsla(0%,0%,100%,.25), inset -2px -2px 2px rgba(0,0,0,.25);
+}
