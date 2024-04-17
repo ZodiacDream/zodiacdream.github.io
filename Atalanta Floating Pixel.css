@@ -1,0 +1,55 @@
+.Atalanta_floaty_pixel_background {
+  width:500px;
+  height:auto;
+  background-image: url('https://i.ibb.co/3vxm1Gm/jack-b-i4-RBKZX-Gf-E-unsplash-1.jpg');
+  background-size: cover;
+  background-color: #12151C;
+  border: solid 4px #6EA29A;
+  border-radius: 100px 100px 0px 0px;
+}
+
+.Atalanta_floaty_pixel_img {
+  float: right;  
+  margin: 0px -40px 0px 0px;
+  width: 250px;
+  height: auto;
+  shape-outside: url("https://f2.toyhou.se/file/f2-toyhou-se/images/78200234_3YRKPgaW169PmE0.png");
+  shape-image-threshold: 0.01;
+  shape-margin: 2%;
+}
+
+.Atalanta_floaty_pixel_middle {
+  width: 430px;
+  height: auto;
+  margin: 30px 30px 30px 30px;
+  background-color: rgba(52, 47, 42, 0.85);
+  border: solid 4px #6EA29A;
+  border-radius: 100px 100px 0px 0px;
+}
+
+.Atalanta_floaty_pixel_table_text
+{
+  text-align: justify;
+  font-family: Garamond, serif;
+  font-size: 15px;
+  color: #F4E5D3;
+  line-height: 18px;
+  margin: 10px 10px 10px 10px;
+  padding: 5%;
+}
+
+.Atalanta_floaty_pixel_table_text b
+{
+	font-weight: bold;
+  font-family: Garamond, serif;
+  font-size: 18px;
+  line-height: 22px;
+	background-image: -webkit-linear-gradient(to right, #6EA29A, #6E7C88);
+  background-image: -moz-linear-gradient(to right, #6EA29A, #6E7C88); 
+  background-image: -ms-linear-gradient(to right, #6EA29A, #6E7C88); 
+  background-image: -o-linear-gradient(to right, #6EA29A, #6E7C88); 
+  background-image: linear-gradient(to right, #6EA29A, #6E7C88);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
