@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Glegoo&display=swap');
+
+.cass_fight_table01
+{
+  width: 500px;
+  height: auto;
+  background-image: linear-gradient(to top, transparent 470px, #8E483C 650px), url(' https://i.ibb.co/7j6mGpF/Angry-Cass-Manip.png');
+  background-color: #526050;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border: 5px solid #c78153;
+}
+
+.cass_fight_inner01
+{
+  width: 470px;
+  height: auto;
+  background-color: rgba(87, 57, 40, 0.85);
+  margin: 10px 10px 550px 10px;
+}
+
+.cass_fight_text01
+{
+  text-align: justify;
+  font-family: 'Glegoo', serif;
+  font-size: 16px;
+  color: #f4bb8e;
+  line-height: 20px;
+  padding: 2%;
+}
+
+.cass_fight_text01 b
+{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 19px;
+  font-style: bold;
+  color: #817496;
+}
