@@ -1,0 +1,40 @@
+.grisa_badge_table_background {
+  width:350px;
+  height:auto;
+  background-color: #5e534a;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border: solid 5px #726a9e;
+}
+
+.grisa_badge_table_img {
+  content: url('https://i.ibb.co/hYgVk2R/grisa-drifty-headshot.png');
+  margin: 0px 0px -150px 0px;
+  width: 400px;
+  height: auto;
+}
+
+.grisa_badge_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #e0e0d5;
+  line-height: 15px;
+  padding:2%;
+  margin: 130px 10px 0px 10px;
+}
+
+.grisa_badge_table_text b
+{
+  font-style: bold;
+  background-image: -webkit-linear-gradient(to right, #7f77ad, #d5cffa);
+  background-image: -moz-linear-gradient(to right, #7f77ad, #d5cffa); 
+  background-image: -ms-linear-gradient(to right, #7f77ad, #d5cffa); 
+  background-image: -o-linear-gradient(to right, #7f77ad, #d5cffa); 
+  background-image: linear-gradient(to right, #7f77ad, #d5cffa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
