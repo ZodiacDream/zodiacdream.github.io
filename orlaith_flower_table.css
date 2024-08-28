@@ -1,0 +1,45 @@
+.orlaith_background {
+  width:348px;
+  height:auto;
+  background-image: linear-gradient(to right, #9f601b, #d3a214, #e9ce59);
+  border-style: solid;
+  border-size: 5px;
+  border-color: #6a9176;
+}
+.orlaith_img {
+   content: url('https://i.postimg.cc/KvjdqB7r/Orlaith-Manip.png');
+  margin: 0px 0px -74px 0px;
+  width: 500px;
+  height: auto;
+}
+
+.orlaith_middle {
+  width: 320px;
+  height: auto;
+  margin: 10px 10px 10px 10px;
+  padding: 1px;
+  background-color: rgb(105, 142, 170, 0.6);
+  border-left: solid 3px #6a9176;
+}
+.orlaith_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: small;
+  color: #2a0303;
+  line-height: 13px;
+  margin: 10px 10px 10px 10px;
+}
+
+.orlaith_text b
+{
+	font-weight:bold;
+	background-image: -webkit-linear-gradient(to right, #0a1827, #71B221);
+  background-image: -moz-linear-gradient(to right, #661B1C, #71B221); 
+  background-image: -ms-linear-gradient(to right, #661B1C, #71B221); 
+  background-image: -o-linear-gradient(to right, #661B1C, #71B221); 
+  background-image: linear-gradient(to right, #2b4f79, #692a27);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
