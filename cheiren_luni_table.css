@@ -1,0 +1,44 @@
+.cheiren_table_image {
+  max-width:600px;
+  height:auto;
+  transition: background-image 0.9s ease-in-out;
+  background-image:url("https://i.postimg.cc/fRdC0MdY/che-table-1.png");
+  background-color: #16140f;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border-style: ridge;
+  border-size: 5px;
+  border-image: linear-gradient(to top, #d8aa0f,rgba(0, 0, 0, 0)) 1 100%;
+  border-radius: 0px 0px 10px 10px;
+}
+
+.cheiren_table_image:hover {
+  background-image:url("https://i.postimg.cc/xTwyQBZ8/Cheiren-Table-1-by-Luni.png");
+}
+.cheiren_table_middle {
+  max-width: 570px;
+  height: auto;
+  margin: 680px 10px 10px 10px;
+  background-color: rgba(189, 113, 35, 0.2);
+  border-radius: 0px 0px 10px 10px;
+}
+.cheiren_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 15px;
+  color: #bd7123;
+  line-height: 17px;
+  margin: 10px 10px 10px 10px;
+}
+.cheiren_table_text b
+{
+	font-weight:bold;
+	color:#5a974b;
+}
+.cheiren_table_text i
+{
+  font-weight:italic;
+  color:#bdb965;
+}
