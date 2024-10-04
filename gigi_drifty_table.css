@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+FR+Moderne:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Neuton:wght@300&display=swap');
+
+
+.genesis_drifty_art_background {
+  width:500px;
+  height:auto;
+  background-image: url('https://i.postimg.cc/1tsw2bss/COLOURlovers-com-Resume-the-Night.png');
+  background-size: cover;
+  background-color: #131212;
+  border: solid 4px #eeeeee;
+  border-radius: 40px 0px 0px 0px;
+}
+
+.genesis_drifty_art_img {
+  float: left;  
+  margin: -25px 0px 0px -120px;
+  width: 380px;
+  height: auto;
+  shape-outside: url("https://i.postimg.cc/85PZ87my/gigi.png");
+  shape-image-threshold: 0.9;
+  shape-margin: 2%;
+}
+
+.genesis_drifty_art_middle {
+  width: 480px;
+  height: auto;
+  margin: 10px 10px 10px 10px;
+  background-color: rgba(19, 18, 18, 0.85);
+  border: solid 3px #eeeeee;
+  border-radius: 10px 0px 0px 0px;
+}
+
+.genesis_drifty_art_table_text
+{
+  text-align: justify;
+  font-family: "Neuton", serif;
+  font-size: 18px;
+  color: #a1a1a1;
+  line-height: 18px;
+  margin: 10px 10px 10px 10px;
+  padding: 2%;
+}
+
+.genesis_drifty_art_table_text b
+{
+	font-weight: bold;
+  font-family: "Playwrite FR Moderne", cursive;
+  font-size: 18px;
+  line-height: 22px;
+	background-image: -webkit-linear-gradient(to right, #4cc3d5, #b9efed);
+  background-image: -moz-linear-gradient(to right, #4cc3d5, #b9efed); 
+  background-image: -ms-linear-gradient(to right, #4cc3d5, #b9efed); 
+  background-image: -o-linear-gradient(to right, #4cc3d5, #b9efed); 
+  background-image: linear-gradient(to right, #4cc3d5, #b9efed);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
