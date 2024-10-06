@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&display=swap');
+
+.idunn_table_border {
+  margin: 0 auto; 
+  width: 480px; 
+  box-shadow: 0px 0px 3px rgba(0,0,0,0.8); 
+  background-image: url('https://i.postimg.cc/dVjDq0ts/Idunn-Image.png'); 
+  background-color:rgba(255 255 255 / 100%); 
+  background-size: cover; 
+  background-attachment:fixed; 
+  background-position: center; 
+  padding: 10px; 
+  border: 3px solid #0b1732;
+  border-radius: 50px;
+}
+
+.idunn_table_body {
+  background: linear-gradient(to bottom, transparent 730px, #142346 790px), url('https://i.postimg.cc/dVjDq0ts/Idunn-Image.png');
+  background-repeat: no-repeat;
+  background-color: #142346;
+  background-position: 0px -200px;
+  background-size: auto; 
+  border:2px solid #0b1732;
+  border-radius: 50px;
+}
+
+.idunn_table_inner02
+{
+  width: 450px;
+  height: auto;
+  background-color: rgba(211,170,179, 0.25);
+  margin: 570px 20px 10px 10px;
+  padding: 1%;
+  border: solid 1px #d3aab3;
+  border-radius: 0px 0px 50px 50px;
+}
+
+.idunn_table_text02
+{
+  text-align: justify;
+  font-family: "Macondo", cursive;
+  font-size: 20px;
+  color: #0b1732;
+  line-height: 18px;
+  padding: 2%;
+}
+
+.idunn_table_text02 b
+{
+  font-style: bold;
+	background-image: -webkit-linear-gradient(to right, #71a79f, #987355);
+  background-image: -moz-linear-gradient(to right, #71a79f, #987355); 
+  background-image: -ms-linear-gradient(to right, #71a79f, #987355); 
+  background-image: -o-linear-gradient(to right, #71a79f, #987355); 
+  background-image: linear-gradient(to right, #71a79f, #987355);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
