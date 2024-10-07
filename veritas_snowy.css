@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap');
+
+.veritas_snowy_body
+{
+  width: 500px;
+  height: auto;
+  background-color: #463351;
+  margin: 0px 0px 0px 0px;
+  border-top: 15px #baa0d3 solid;
+  border-radius: 0px 0px 50px 50px;
+}
+
+.veritas_snowy_image
+{
+  content: url('https://i.postimg.cc/wMNX41Rp/Snowy.png');
+  width: 500px;
+  height: auto;
+}
+
+.veritas_snowy_text
+{
+  text-align: justify;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 16px;
+  color: #d3b3e7;
+  line-height: 18px;
+  margin: 25px 25px 20px 25px;
+  padding: 0.5%;
+}
+
+.veritas_snowy_name 
+{
+  text-align: center;
+  font-style: bold;
+  color: #001415;
+  font-family: "Kaushan Script", cursive;
+  font-size: 75px;
+  line-height: 80px;
+  letter-spacing: 3px;
+  word-spacing: 1px;
+  margin: -45px 0px -40px 250px;
+  -webkit-text-stroke: 2px #baa0d3;
+  text-stroke: 2px #baa0d3;
+}
+
+.veritas_snowy_text b
+{
+ 	font-weight: bold;
+  background-image: -webkit-linear-gradient(to right, #8c81aa, #ebdcf8);
+  background-image: -moz-linear-gradient(to right, #8c81aa, #ebdcf8); 
+  background-image: -ms-linear-gradient(to right, #8c81aa, #ebdcf8); 
+  background-image: -o-linear-gradient(to right, #8c81aa, #ebdcf8); 
+  background-image: linear-gradient(to right, #8c81aa, #ebdcf8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
