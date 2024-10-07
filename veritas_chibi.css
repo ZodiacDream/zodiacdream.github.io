@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&display=swap');
+
+.veritas_chibi_body {
+  width:450px;
+  height:auto;
+  background-color: #749dd6;
+  border: solid 4px #3a3038;
+  border-radius: 80px;
+}
+
+.veritas_chibi_img {
+  float: right;  
+  margin: 0px -10px 0px 0px;
+  width: 250px;
+  height: auto;
+  shape-outside: url("https://i.postimg.cc/2SDwJ7xX/Chibi.png");
+  shape-image-threshold: 0.9;
+  shape-margin: 2%;
+}
+
+.veritas_chibi_middle {
+  width: 430px;
+  height: auto;
+  margin: 10px 10px 10px 10px;
+  background-color: rgba(32, 51, 82, 0.7);
+  border: solid 2px #3a3038;
+  border-radius: 80px;
+}
+
+.veritas_chibi_text
+{
+  text-align: justify;
+  font-family: "Stint Ultra Condensed", serif;
+  font-size: 24px;
+  color: #1e1c1e;
+  line-height: 22px;
+  margin: 10px 10px 10px 10px;
+  padding: 5%;
+}
+
+.veritas_chibi_text b
+{
+	font-weight: bold;
+  font-size: 24px;
+	background-image: -webkit-linear-gradient(to right, #b0a7ae, #a58a91);
+  background-image: -moz-linear-gradient(to right, #b0a7ae, #a58a91); 
+  background-image: -ms-linear-gradient(to right, #b0a7ae, #a58a91); 
+  background-image: -o-linear-gradient(to right, #b0a7ae, #a58a91); 
+  background-image: linear-gradient(to right, #b0a7ae, #a58a91);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
