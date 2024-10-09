@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+
+
+.rhys_arch_body
+{
+  width: 500px;
+  height: auto;
+  background-image: linear-gradient(to bottom, transparent 1180px, #290502 1200px), url('https://i.postimg.cc/8zz5bvf4/Red-Arch-Lion-Manip.png');
+  background-color: #290502;
+  background-size: 730px;
+  background-repeat: repeat-y;
+  background-position: left top;
+  border: 10px solid #eaaf6d;
+}
+
+.rhys_arch_inner
+{
+  width: 500px;
+  height: auto;
+  background-color: rgba(41,5,2, 0.85);
+  margin: 500px 0px 0px 0px;
+  border-top: 2px #eaaf6d solid;
+  backdrop-filter: blur(10px);
+}
+
+.rhys_arch_text
+{
+  text-align: justify;
+  font-family: "Cormorant Garamond", serif;
+  font-size: 20px;
+  color: #ffffff;
+  line-height: 20px;
+  padding: 2%;
+}
+
+.rhys_arch_text b
+{
+  font-weight:bold;
+  font-family: "Shadows Into Light", cursive;
+  font-size: 20px;
+  line-height: 20px;
+	background-image: -webkit-linear-gradient(to right, #d9773c, #a64b2f);
+  background-image: -moz-linear-gradient(to right, #d9773c, #a64b2f); 
+  background-image: -ms-linear-gradient(to right, #d9773c, #a64b2f); 
+  background-image: -o-linear-gradient(to right, #d9773c, #a64b2f); 
+  background-image: linear-gradient(to right, #d9773c, #a64b2f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
