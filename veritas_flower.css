@@ -35,11 +35,11 @@
 .veritas_flowers_text b
 {
 	font-weight:bold;
-	background-image: -webkit-linear-gradient(to right, #a2b1d3, #dfbdd3);
-  background-image: -moz-linear-gradient(to right, #a2b1d3, #dfbdd3); 
-  background-image: -ms-linear-gradient(to right, #a2b1d3, #dfbdd3); 
-  background-image: -o-linear-gradient(to right, #a2b1d3, #dfbdd3); 
-  background-image: linear-gradient(to right, #a2b1d3, #dfbdd3);
+	background-image: -webkit-linear-gradient(to right, #2f3b0c, #787f54);
+  background-image: -moz-linear-gradient(to right, #2f3b0c, #787f54); 
+  background-image: -ms-linear-gradient(to right, #2f3b0c, #787f54); 
+  background-image: -o-linear-gradient(to right, #2f3b0c, #787f54); 
+  background-image: linear-gradient(to right, #2f3b0c, #787f54);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-box-decoration-break: clone;
