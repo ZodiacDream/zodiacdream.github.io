@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+
+.veritas_reach_body {
+  width:500px;
+  height:auto;
+  background-image: url('https://pixabay.com/get/gcf03de92b35e9c8e0cdf552876ffa2e392c924f4cfd4d221146500c9fb1910a82878178a662b9b2d083fdd966a5118d2.jpg');
+  background-size: contain;
+  background-position: center top;
+  background-color: #286862;
+  border: solid 4px #286862;
+  border-radius: 150px 0px 0px 0px;
+}
+
+.veritas_reach_img {
+  float: left;  
+  margin: -20px 0px 0px -40px;
+  width: 400px;
+  height: auto;
+  shape-outside: url("https://i.postimg.cc/Wbr8XH0k/Reach.png");
+  shape-image-threshold: 0.9;
+  shape-margin: 2%;
+}
+
+.veritas_reach_middle {
+  width: 450px;
+  height: auto;
+  margin: 30px 30px 30px 30px;
+  background-color: rgba(130, 133, 156, 0.9);
+  border: solid 3px #286862;
+  border-radius: 150px 0px 0px 0px;
+}
+
+.veritas_reach_text
+{
+  text-align: justify;
+  font-family: 'Inknut Antiqua', serif;
+  font-size: 13px;
+  color: #ffc18e;
+  line-height: 13px;
+  margin: 5px 5px 5px 5px;
+  padding: 1%;
+}
+
+.veritas_reach_text b
+{
+	font-weight: bold;
+  font-family: 'Poiret One', cursive;
+  font-size: 20px;
+	background-image: -webkit-linear-gradient(to right, #9838A2, #817496);
+  background-image: -moz-linear-gradient(to right, #9838A2, #817496); 
+  background-image: -ms-linear-gradient(to right, #9838A2, #817496); 
+  background-image: -o-linear-gradient(to right, #9838A2, #817496); 
+  background-image: linear-gradient(to right, #554149, #302632);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
