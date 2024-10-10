@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+.veritas_shock_table {
+    display: flex;
+    flex-shrink: 0;
+    width: 500px;
+    height: auto;
+    background-image: linear-gradient(to bottom, #a37a48, #946958, #9e9e8f);
+}
+
+.veritas_shock_image {
+  width:500px;
+  height:auto;
+  background-image: linear-gradient(to bottom, transparent 900px, #a37a48 950px), url('https://i.postimg.cc/s2n4MdCt/Shock.png');
+  background-size: 500px;
+  background-repeat: repeat-y;
+  background-color: #6f6c7d;
+  margin: 15px 15px 15px 15px;
+  border-radius: 60px 60px 0px 0px;
+}
+
+.veritas_shock_textbox
+{
+  width: 100%;
+  height: auto;
+  background-color: rgba(186, 174, 175, 0.85);
+  margin: 492px 10px 10px 10px;
+  border-top: 45px solid #a37a48;
+  backdrop-filter: blur(5px);
+}
+
+.veritas_shock_text
+{
+  text-align: justify;
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  color: #322327;
+  line-height: 20px;
+  padding: 4%;
+}
+
+.veritas_shock_text b
+{
+  font-family: "Shadows Into Light", cursive;
+  font-size: 20px;
+  font-style: bold;
+  line-height: 22px;
+  background-image: -webkit-linear-gradient(to right, #a37a48, #676954);
+  background-image: -moz-linear-gradient(to right, #a37a48, #676954); 
+  background-image: -ms-linear-gradient(to right, #a37a48, #676954); 
+  background-image: -o-linear-gradient(to right, #a37a48, #676954); 
+  background-image: linear-gradient(to right, #a37a48, #676954);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
+
+.veritas_shock_name {
+  text-align: center;
+  margin: -55px 20px -2px 0px;
+  color: #f4d7d8;
+  font-family: "Allura", cursive;
+  font-weight: 400;
+  font-style: bold;
+  font-size: 50px;
+  line-height: 70px;
+  letter-spacing:7px;
+  word-spacing:10px;
+  font-style: bold;
+  text-shadow: 2px 2px 3px rgba(0,0,0,1);
+}
