@@ -26,7 +26,7 @@
   width: 100%;
   height: auto;
   background-color: rgba(186, 174, 175, 0.85);
-  margin: 492px 10px 10px 10px;
+  margin: 492px 0px 0px 0px;
   border-top: 45px solid #a37a48;
   backdrop-filter: blur(5px);
 }
