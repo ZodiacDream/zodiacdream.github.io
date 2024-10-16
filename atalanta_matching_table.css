@@ -39,8 +39,7 @@
 .atalanta_table_text02
 {
   text-align: justify;
-  font-family: "Macondo", cursive;
-  font-size: 20px;
+  font-size: 16px;
   color: #0b1732;
   line-height: 18px;
   padding: 2%;
@@ -49,6 +48,7 @@
 .atalanta_table_text02 b
 {
   font-style: bold;
+  font-family: "Macondo", cursive;
 	background-image: -webkit-linear-gradient(to right, #6e7c88, #6ea29a);
   background-image: -moz-linear-gradient(to right, #6e7c88, #6ea29a); 
   background-image: -ms-linear-gradient(to right, #6e7c88, #6ea29a); 
