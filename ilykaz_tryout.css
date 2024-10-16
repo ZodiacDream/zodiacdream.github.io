@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&display=swap');
+
+.ilykaz_tryout_body
+{
+  width:500px;
+  height:auto;
+  background-image: linear-gradient(to bottom, transparent 400px, #f4f4f4 600px), url("https://i.postimg.cc/5t7k2hvY/stone-texture.jpg");
+  background-color: #b46d35;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border: solid 8px #b8b8b8;
+}
+
+.ilykaz_tryout_interior
+{
+  width: 400px;
+  height: auto;
+  background-color: rgba(184, 184, 184, 1);
+  margin: -30px 50px 50px 50px;
+}
+
+.ilykaz_tryout_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #251F20;
+  line-height: 15px;
+  padding:2%;
+}
+
+.ilykaz_tryout_name {
+  text-align: center;
+  font-style: italic;
+  color: #742B28;
+  font-family: 'Arizonia', cursive;
+  font-size:45px;
+  line-height:75px;
+  letter-spacing:3px;
+  word-spacing:1px;
+  margin: -5px 0px -20px 0px;
+  filter: drop-shadow(2px 2px 0px rgb(0 0 0 / 0.5));
+}
+
+.ilykaz_tryout_img {
+  content: url('https://i.postimg.cc/qqBRdKps/Ily-Kaz-daughter.png');
+  margin: -30px 0px 0px 0px;
+  width: 500px;
+  height: auto;
+}
