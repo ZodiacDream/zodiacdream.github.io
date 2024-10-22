@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+
+.orlaith_drifty_art_background {
+  width:500px;
+  height:auto;
+  background-image: url('https://i.postimg.cc/Wz2GWWpN/v880-kul-16.jpg');
+  background-repeat: repeat-y;
+  background-size: contain;
+  background-position: center top;
+  background-color: #48918F;
+  border: solid 4px #3d3c38;
+  border-radius: 0px 200px 0px 0px;
+}
+
+.orlaith_drifty_art_img {
+  float: right;  
+  margin: -20px -100px 0px 0px;
+  width: 350px;
+  height: auto;
+}
+
+.orlaith_drifty_art_middle {
+  width: 460px;
+  height: auto;
+  margin: 20px 20px 20px 20px;
+  background-color: rgba(49, 48, 44, 0.85);
+  border: solid 3px #3d3c38;
+  border-radius: 0px 180px 0px 0px;
+}
+
+.orlaith_drifty_art_table_text
+{
+  text-align: justify;
+  font-family: 'Inknut Antiqua', serif;
+  font-size: 13px;
+  color: #636159;
+  line-height: 13px;
+  margin: 10px 10px 10px 10px;
+  padding: 1%;
+}
+
+.orlaith_drifty_art_table_text b
+{
+	font-weight: bold;
+  font-family: 'Poiret One', cursive;
+  font-size: 20px;
+	background-image: -webkit-linear-gradient(to right, #9838A2, #817496);
+  background-image: -moz-linear-gradient(to right, #9838A2, #817496); 
+  background-image: -ms-linear-gradient(to right, #9838A2, #817496); 
+  background-image: -o-linear-gradient(to right, #9838A2, #817496); 
+  background-image: linear-gradient(to right, #bd423f, #c6c9db);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
