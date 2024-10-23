@@ -46,10 +46,10 @@
 	font-weight: bold;
   font-family: 'Poiret One', cursive;
   font-size: 20px;
-	background-image: -webkit-linear-gradient(to right, #9838A2, #817496);
-  background-image: -moz-linear-gradient(to right, #9838A2, #817496); 
-  background-image: -ms-linear-gradient(to right, #9838A2, #817496); 
-  background-image: -o-linear-gradient(to right, #9838A2, #817496); 
+	background-image: -webkit-linear-gradient(to right, #bd423f, #c6c9db6);
+  background-image: -moz-linear-gradient(to right, #bd423f, #c6c9db); 
+  background-image: -ms-linear-gradient(to right, #bd423f, #c6c9db); 
+  background-image: -o-linear-gradient(to right, #bd423f, #c6c9db); 
   background-image: linear-gradient(to right, #bd423f, #c6c9db);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
