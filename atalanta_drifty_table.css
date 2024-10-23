@@ -3,7 +3,7 @@
 
 
 .atalanta_drifty_art_background {
-  width:500px;
+  width:450px;
   height:auto;
   background-image: url('https://i.postimg.cc/Dy6dTWN2/F499.jpg');
   background-repeat: repeat-y;
@@ -17,14 +17,14 @@
 .atalanta_drifty_art_img {
   float: center;  
   margin: -90px 0px -40px -45px;
-  width: 600px;
+  width: 550px;
   height: auto;
 }
 
 .atalanta_drifty_art_middle {
-  width: 440px;
+  width: 400px;
   height: auto;
-  margin: -75px 20px 20px 30px;
+  margin: -75px 20px 20px 20px;
   background-color: rgba(63, 53, 33, 0.9);
   border: solid 3px #51541b;
   border-radius: 0px 0px 0px 0px;
