@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+
+
+.atalanta_drifty_art_background {
+  width:500px;
+  height:auto;
+  background-image: url('https://i.postimg.cc/Dy6dTWN2/F499.jpg');
+  background-repeat: repeat-y;
+  background-size: contain;
+  background-position: center top;
+  background-color: #48918F;
+  border: solid 10px #51541b;
+  border-radius: 300px 300px 0px 0px;
+}
+
+.atalanta_drifty_art_img {
+  float: center;  
+  margin: -90px 0px -40px -45px;
+  width: 600px;
+  height: auto;
+}
+
+.atalanta_drifty_art_middle {
+  width: 460px;
+  height: auto;
+  margin: -75px 20px 20px 20px;
+  background-color: rgba(63, 53, 33, 0.9);
+  border: solid 3px #51541b;
+  border-radius: 0px 0px 0px 0px;
+}
+
+.atalanta_drifty_art_table_text
+{
+  text-align: justify;
+  font-family: "Roboto Flex", sans-serif;
+  font-size: 16px;
+  color: #82a36c;
+  line-height: 16px;
+  margin: 10px 10px 10px 10px;
+  padding: 1%;
+}
+
+.atalanta_drifty_art_table_text b
+{
+	font-weight: bold;
+  font-family: "Delius", cursive;
+  font-size: 20px;
+	background-image: -webkit-linear-gradient(to left, #f7e8d5, #75a191);
+  background-image: -moz-linear-gradient(to left, #f7e8d5, #75a191); 
+  background-image: -ms-linear-gradient(to left, #f7e8d5, #75a191); 
+  background-image: -o-linear-gradient(to left, #f7e8d5, #75a191); 
+  background-image: linear-gradient(to left, #f7e8d5, #75a191);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
