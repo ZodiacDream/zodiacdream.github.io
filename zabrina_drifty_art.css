@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+
+.zabrina_drifty_art_body {
+  width:500px;
+  height:auto;
+  background-color: #76606c;
+  border: solid 4px #ffffff;
+  border-radius: 60px 60px 10px 10px;
+}
+
+.zabrina_drifty_art_img {
+  float: left;  
+  margin: -10px -40px -10px -80px;
+  width: 380px;
+  height: auto;
+  shape-outside: url("https://f2.toyhou.se/file/f2-toyhou-se/images/91265453_NXLS6gZJPVPDp7i.png");
+  shape-image-threshold: 0.9;
+  shape-margin: 2%;
+}
+
+.zabrina_drifty_art_table_text
+{
+  text-align: justify;
+  font-family: 'Inknut Antiqua', serif;
+  font-size: 13px;
+  color: #d3d2da;
+  line-height: 14px;
+  margin: 10px 10px 10px 10px;
+  padding: 2%;
+}
+
+.zabrina_drifty_art_table_text b
+{
+	font-weight: bold;
+  font-family: 'Poiret One', cursive;
+  font-size: 20px;
+  line-height: 21px;
+	background-image: -webkit-linear-gradient(to right, #BAA35D, #616D3D);
+  background-image: -moz-linear-gradient(to right, #BAA35D, #616D3D); 
+  background-image: -ms-linear-gradient(to right, #BAA35D, #616D3D); 
+  background-image: -o-linear-gradient(to right, #BAA35D, #616D3D); 
+  background-image: linear-gradient(to right, #9e9db9, #de8f4d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
