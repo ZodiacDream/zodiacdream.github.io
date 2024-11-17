@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
+
+.veritas_blood_body {
+  width:500px;
+  height:auto;
+  background-color: #fffbfc;
+  border-style: solid;
+  border-size: 5px;
+  border-color: #755271;
+}
+.veritas_blood_img {
+  content: url('https://i.postimg.cc/x13RSNxj/Bloodsad.png');
+  margin: 0px 0px -4px 0px;
+  padding: 0.5px;
+  width: 500px;
+  height: auto;
+}
+
+.veritas_blood_middle {
+  width: 498px;
+  height: auto;
+  margin: 0px 0px 0px 0px;
+  padding: 1px;
+  background-color: rgba(254, 154, 159, 0.75);
+  border-bottom: 3px solid #755271;
+}
+.veritas_blood_text
+{
+  text-align: justify;
+  font-family: "Edu AU VIC WA NT Hand", cursive;
+  font-size: 14px;
+  color: #2a0303;
+  line-height: 16px;
+  margin: 10px 10px 10px 10px;
+}
+
+.veritas_blood_text b
+{
+	font-weight:bold;
+	background-image: -webkit-linear-gradient(to right, #736189, #4a3457);
+  background-image: -moz-linear-gradient(to right, #736189, #4a3457); 
+  background-image: -ms-linear-gradient(to right, #736189, #4a3457); 
+  background-image: -o-linear-gradient(to right, #736189, #4a3457); 
+  background-image: linear-gradient(to right, #736189, #4a3457);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
