@@ -10,13 +10,13 @@
 }
 .veritas_blood_img {
   content: url('https://i.postimg.cc/x13RSNxj/Bloodsad.png');
-  margin: 0px 0px -8px 0px;
-  width: 498px;
+  margin: 0px 0px -4px 0px;
+  width: 500px;
   height: auto;
 }
 
 .veritas_blood_middle {
-  width: 495px;
+  width: 498px;
   height: auto;
   margin: 0px 0px 0px 0px;
   padding: 1px;
@@ -35,8 +35,8 @@
 
 .veritas_blood_text b
 {
-	font-weight:bold;
-	background-image: -webkit-linear-gradient(to right, #736189, #4a3457);
+  font-weight:bold;
+  background-image: -webkit-linear-gradient(to right, #736189, #4a3457);
   background-image: -moz-linear-gradient(to right, #736189, #4a3457); 
   background-image: -ms-linear-gradient(to right, #736189, #4a3457); 
   background-image: -o-linear-gradient(to right, #736189, #4a3457); 
