@@ -4,7 +4,7 @@
 .Regine_floaty_pixel_background {
   width:500px;
   height:auto;
-  background-image: url('https://cdn.discordapp.com/attachments/738626788208410678/1161504071052701756/leather.jpg');
+  background-image: url('https://i.postimg.cc/7hgWkLC1/black-leather-texture-dark-embossed-fabric-free-by-texturex-com-d625yu7.jpg');
   background-color: #12151C;
   border: solid 4px #531516;
 }
@@ -14,7 +14,7 @@
   margin: 50px 0px 0px 0px;
   width: 250px;
   height: auto;
-  shape-outside: url("https://media.discordapp.net/attachments/771592695369170944/1159599495605125150/ReginePixelwithbg.png");
+  shape-outside: url("https://f2.toyhou.se/file/f2-toyhou-se/images/78200390_dHGZrL7h6HKe0G9.png");
   shape-image-threshold: 0.01;
   shape-margin: 2%;
 }
