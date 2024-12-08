@@ -1,0 +1,46 @@
+.regine_alo_outer {
+    display: flex;
+    flex-shrink: 0;
+    width: 500px;
+    height: auto;
+    background-image: linear-gradient(to bottom, #315100, #000000, #315100);
+}
+
+.regine_alo_inner {
+  width:490px;
+  height:auto;
+  background-image: url('https://i.postimg.cc/vTZmHcpG/regine-alo.png');
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: 490px;
+  background-color: #000000;
+  margin: 5px 5px 5px 5px;
+}
+
+.regine_alo_textbox {
+  width: 440px;
+  height: auto;
+  background-color: rgba(21, 22, 1, 0.5);
+  margin: 40px 30px 500px 25px;
+  border-left: 4px #6A9C01 solid;
+  border-right: 4px #6A9C01 solid;
+}
+
+.regine_alo_text {
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #484B1B;
+  line-height: 15px;
+  padding:4%;
+}
+
+.regine_alo_text b {
+  font-style: bold;
+  color: #6A9C01;
+}
+
+.regine_alo_edge {
+  -webkit-clip-path: polygon(0 5%, 3% 5%, 5% 0, 93% 0, 97% 5%, 100% 5%, 100% 95%, 97% 95%, 93% 100%, 8% 100%, 3% 95%, 0 95%);
+  clip-path: polygon(0 5%, 3% 5%, 5% 0, 93% 0, 97% 5%, 100% 5%, 100% 95%, 97% 95%, 93% 100%, 8% 100%, 3% 95%, 0 95%);
+}
