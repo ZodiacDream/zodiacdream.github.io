@@ -1,0 +1,41 @@
+.zsofia_drifty_table_background {
+  width:400px;
+  height:auto;
+  background-color: #8D7A54;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border: solid 5px #E3E1E9;
+  border-radius: 150px 0px 100px 100px;
+}
+
+.zsofia_drifty_table_img {
+  content: url('https://i.postimg.cc/GtZpmnVX/Zsofia.png');
+  margin: 0px -60px -150px 0px;
+  width: 500px;
+  height: auto;
+}
+
+.zsofia_drifty_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #3E4B1A;
+  line-height: 15px;
+  padding:2%;
+  margin: 50px 37px 7px 30px;
+}
+
+.zsofia_drifty_table_text b
+{
+  font-style: bold;
+  background-image: -webkit-linear-gradient(to right, #8b7eac, #443861);
+  background-image: -moz-linear-gradient(to right, #8b7eac, #443861); 
+  background-image: -ms-linear-gradient(to right, #8b7eac, #443861); 
+  background-image: -o-linear-gradient(to right, #8b7eac, #443861); 
+  background-image: linear-gradient(to right, #BEBDC2, #A6B15F);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
