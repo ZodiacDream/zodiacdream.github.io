@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Love+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+.cheiren_signature {
+  width: 500px;
+  height: 200px;
+}
+
+.cheiren_name {
+  text-align: center;
+  font-weight: bold;
+  color:#432371;
+  font-family: 'Love Light', cursive;
+  font-size: 40px;
+  line-height: 45px;
+  letter-spacing:1px;
+  word-spacing:5px;
+  background-image:linear-gradient(to right, #47e015 40%, #14e9e9 60%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: -1px -1px 0 rgba(255,255,255,.25), 1px 1px 0 rgba(0,0,0,.25), 1px 3px 3px rgba(0,0,0,.25);
+}
+
+.cheiren_quote {
+  text-align: center;
+  color: #854728;
+  font-family: 'Amatic SC', cursive;
+  text-shadow: 1px 1px 0 rgba(255,255,255, 1), 1px 1px 0 rgba(0,0,0,1), 1px 1px 1px rgba(0,0,0,1);
+  font-size: 25px;
+  margin: -5px 5px 5px -15px;
+}
