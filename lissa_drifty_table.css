@@ -1,0 +1,41 @@
+.lissa_drifty_table_background {
+  width:380px;
+  height:auto;
+  background-color: #305469;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border: solid 5px #152931;
+  border-radius: 0px 0px 0px 0px;
+}
+
+.lissa_drifty_table_img {
+  content: url('https://i.postimg.cc/xj7fP0xn/ELisabeta.png');
+  margin: 0px -10px -50px 0px;
+  width: 550px;
+  height: auto;
+}
+
+.lissa_drifty_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #7fa4b7;
+  line-height: 15px;
+  padding:2%;
+  margin: 10px 10px 10px 10px;
+}
+
+.lissa_drifty_table_text b
+{
+  font-style: bold;
+  background-image: -webkit-linear-gradient(to right, #fb7d91, #647eb0);
+  background-image: -moz-linear-gradient(to right, #fb7d91, #647eb0); 
+  background-image: -ms-linear-gradient(to right, #fb7d91, #647eb0); 
+  background-image: -o-linear-gradient(to right, #fb7d91, #647eb0); 
+  background-image: linear-gradient(to right, #fb7d91, #647eb0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
