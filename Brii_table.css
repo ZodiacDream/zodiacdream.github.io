@@ -1,0 +1,50 @@
+.orlaith_drifty_art_background {
+  width:450px;
+  height:auto;
+  background-image: url('https://i.postimg.cc/k4Nfvdpp/COLOURlovers-com-Full-Lunacy.png');
+  background-repeat: repeat-y;
+  background-size: cover;
+  background-position: center top;
+  background-color: #48918F;
+  border: solid 4px #ffffff;
+}
+
+.orlaith_drifty_art_img {
+  float: left;  
+  margin: -10px -20px 0px -70px;
+  width: 350px;
+  height: auto;
+}
+
+.orlaith_drifty_art_middle {
+  width: 400px;
+  height: auto;
+  margin: 20px 20px 20px 20px;
+  background-color: rgba(20, 20, 20, 0.75);
+  border: solid 3px #ffffff;
+}
+
+.orlaith_drifty_art_table_text
+{
+  text-align: justify;
+  font-family: 'Inknut Antiqua', serif;
+  font-size: 13px;
+  color: #919198;
+  line-height: 13px;
+  margin: 10px 10px 10px 10px;
+  padding: 1%;
+}
+
+.orlaith_drifty_art_table_text b
+{
+	font-weight: bold;
+  font-size: 18px;
+	background-image: -webkit-linear-gradient(to right, #9DA0B2, #A92B2D);
+  background-image: -moz-linear-gradient(to right, #9DA0B2, #A92B2D); 
+  background-image: -ms-linear-gradient(to right, #9DA0B2, #A92B2D); 
+  background-image: -o-linear-gradient(to right, #9DA0B2, #A92B2D); 
+  background-image: linear-gradient(to right, #9DA0B2, #A92B2D);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
