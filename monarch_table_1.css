@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Lavishly+Yours&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap');
+
+.monarch_body
+{
+  width: 500px;
+  height: auto;
+  background-color: #1d2818;
+  margin: 0px 0px 0px 0px;
+  border-top: 15px #5d87ba solid;
+}
+
+.monarch_image
+{
+  content: url('https://i.postimg.cc/cJMLQMKr/dg56odo-25f76ace-e013-4246-82a4-e270f486ddba.png');
+  width: 500px;
+  height: auto;
+}
+
+.monarch_text
+{
+  text-align: justify;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 16px;
+  color: #7c5640;
+  line-height: 18px;
+  margin: 25px 25px 20px 25px;
+  padding: 0.5%;
+}
+
+.monarch_name 
+{
+  text-align: center;
+  font-style: bold;
+  color: #f8e8c6;
+  font-family: "Lavishly Yours", cursive;
+  font-size: 75px;
+  line-height: 80px;
+  letter-spacing: 3px;
+  word-spacing: 1px;
+  margin: -45px 0px -40px 0px;
+}
+
+.monarch_text b
+{
+ 	font-weight: bold;
+  background-image: -webkit-linear-gradient(to right, #c6b946, #83b8e5);
+  background-image: -moz-linear-gradient(to right, #c6b946, #ebdcf8); 
+  background-image: -ms-linear-gradient(to right, #c6b946, #83b8e5); 
+  background-image: -o-linear-gradient(to right, #c6b946, #83b8e5); 
+  background-image: linear-gradient(to right, #c6b946, #83b8e5);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
