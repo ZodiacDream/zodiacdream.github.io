@@ -1,0 +1,41 @@
+.monarch_raph_table_background {
+  width:500px;
+  height:auto;
+  background-color: #1d2818;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border: solid 5px #c5b944;
+  border-radius: 50px 50px 400px 50px;
+}
+
+.monarch_raph_table_img {
+  content: url('https://f2.toyhou.se/file/f2-toyhou-se/images/99466472_WZOPcjzfinAPktt.png');
+  margin: -30px 0px -95px -150px;
+  width: 500px;
+  height: auto;
+}
+
+.monarch_raph_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #7fa4b7;
+  line-height: 15px;
+  padding:2%;
+  margin: 10px 10px 10px 10px;
+}
+
+.monarch_raph_table_text b
+{
+  font-style: bold;
+  background-image: -webkit-linear-gradient(to right, #c6b946, #83b8e5);
+  background-image: -moz-linear-gradient(to right, #c6b946, #ebdcf8); 
+  background-image: -ms-linear-gradient(to right, #c6b946, #83b8e5); 
+  background-image: -o-linear-gradient(to right, #c6b946, #83b8e5); 
+  background-image: linear-gradient(to right, #c6b946, #83b8e5);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
