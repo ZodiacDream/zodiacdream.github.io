@@ -1,0 +1,45 @@
+.fearei_table01
+{
+  width:500px;
+  height:auto;
+  background-image: linear-gradient(to top, rgba(24,25,49,0) 650px, rgba(156,88,42,1) 800px ), url("https://i.postimg.cc/prvYC84g/Fearei-Baby-Manip-Lighting.png");
+  background-color: #b69491;
+  background-size: fill;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border-top: solid 9px #7D728C;
+  border-bottom: solid 9px #7D728C;
+  border-radius: 0px 0px 150px 150px;
+}
+
+.fearei_table_inner01
+{
+  width: 470px;
+  height: auto;
+  background-color: rgba(15, 15, 15, 0.35);
+  margin: 10px 10px 750px 10px;
+}
+
+.fearei_text01
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #949090;
+  line-height: 15px;
+  padding:2%;
+}
+
+.fearei_text01 b
+{
+	font-weight: bold;
+  font-size: 13px;
+	background-image: -webkit-linear-gradient(to right, #7D728C, #CC9C83);
+  background-image: -moz-linear-gradient(to right, #7D728C, #CC9C83); 
+  background-image: -ms-linear-gradient(to right, #7D728C, #CC9C83); 
+  background-image: -o-linear-gradient(to right, #7D728C, #CC9C83); 
+  background-image: linear-gradient(to right, #7D728C, #CC9C83);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
