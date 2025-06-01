@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&display=swap');
+
+.zsofia_lavender_outer {
+    display: flex;
+    flex-shrink: 0;
+    width: 500px;
+    height: auto;
+    background-image: linear-gradient(to bottom, #d79b74, #180311);
+}
+
+.zsofia_lavender_inner {
+  width:490px;
+  height:auto;
+  background-image: url('https://i.postimg.cc/sDBvCW3S/IMG-1107.png');
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: 495px;
+  background-color: #180311;
+  margin: 5px 5px 5px 5px;
+}
+
+.zsofia_lavender_textbox {
+  width: 440px;
+  height: auto;
+  background-color: rgba(215, 186, 197, 0.25);
+  box-shadow: 0px 0px 10px 5px rgba(215, 186, 197, 0.25);
+  margin: 40px 30px 580px 25px;
+  border-radius: 40px 40px 80px 80px;
+}
+
+.zsofia_lavender_boxShadow {
+  background: purple;
+  text-align: center;
+  padding:10px;
+  height: 100px;
+  width: 200px;
+  box-shadow:  inset 0 0 8px 10px white;
+}
+
+.zsofia_lavender_text {
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #9b7f9f;
+  line-height: 15px;
+  padding:4%;
+}
+
+.zsofia_lavender_text b {
+  font-style: bold;
+  background-image: -webkit-linear-gradient(to right, #d79b74, #d3e5d7);
+  background-image: -moz-linear-gradient(to right, #d79b74, #d3e5d7); 
+  background-image: -ms-linear-gradient(to right, #d79b74, #d3e5d7); 
+  background-image: -o-linear-gradient(to right, #d79b74, #d3e5d7); 
+  background-image: linear-gradient(to right, #d79b74, #d3e5d7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
+
+.zsofia_lavender_edge {
+  -webkit-clip-path: polygon(0 5%, 3% 5%, 5% 0, 93% 0, 97% 5%, 100% 5%, 100% 95%, 97% 95%, 93% 100%, 8% 100%, 3% 95%, 0 95%);
+  clip-path: polygon(0 5%, 3% 5%, 5% 0, 93% 0, 97% 5%, 100% 5%, 100% 95%, 97% 95%, 93% 100%, 8% 100%, 3% 95%, 0 95%);
+}
+
+.zsofia_lavender_name {
+  text-align: center;
+  margin: 0px 0px -50px 0px;
+  color:#432371;
+  font-family: "Arizonia", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+  line-height: 70px;
+  letter-spacing:5px;
+  word-spacing:10px;
+  font-style: bold;
+  background-image: -webkit-linear-gradient(to right, #d79b74, #180311);
+  background-image: -moz-linear-gradient(to right, #d79b74, #180311); 
+  background-image: -ms-linear-gradient(to right, #d79b74, #180311); 
+  background-image: -o-linear-gradient(to right, #d79b74, #180311); 
+  background-image: linear-gradient(to right, #d79b74, #180311);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+  filter: drop-shadow(1px 1px 1px rgb(255 255 255 / 0.9));
+}
