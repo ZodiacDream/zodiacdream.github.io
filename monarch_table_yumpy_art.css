@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Metamorphous&display=swap');
+
+.monarch_table_border01 {
+  margin: 0 auto; 
+  width: 500px; 
+  box-shadow: 0px 0px 3px rgba(0,0,0,0.8); 
+  background-image: url('https://i.postimg.cc/526MKcWS/Table-Border-Blur-Image.png'); 
+  background-color:rgba(255 255 255 / 100%); 
+  background-size: cover; 
+  background-attachment: fixed; 
+  background-position: center; 
+  padding: 10px; 
+  border: 1px solid #000000;
+}
+
+.monarch_table_body01
+{
+  width: 495px;
+  height: auto;
+  background-image: url('https://f2.toyhou.se/file/f2-toyhou-se/images/99444310_G1DpXbazwIMy20O.png');
+  background-color: #526050;
+  background-size: 850px;
+  background-repeat: no repeat repeat;
+  background-position: 70% 0%;
+  border: 1px solid #ffffff;
+
+}
+
+.monarch_inner01
+{
+  width: 495px;
+  height: auto;
+  backdrop-filter: blur(40px);
+  background-color: rgba(0,0,0, 0.7);
+  margin: 500px 0px 0px 0px;
+  border-top: solid 1px #ffffff;
+}
+
+.monarch_text01
+{
+  text-align: justify;
+  font-family: "Metamorphous", serif;
+  font-size: 15px;
+  color: #7b7956;
+  line-height: 16px;
+  padding: 2%;
+}
+
+.monarch_text01 b
+{
+  font-weight: bold;
+  font-style: italic;
+  color: #b18c7f;
+  	background-image: -webkit-linear-gradient(to right, #71a79f, #987355);
+  background-image: -moz-linear-gradient(to right, #71a79f, #987355); 
+  background-image: -ms-linear-gradient(to right, #71a79f, #987355); 
+  background-image: -o-linear-gradient(to right, #71a79f, #987355); 
+  background-image: linear-gradient(to right, #f4be81, #7a7951);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
