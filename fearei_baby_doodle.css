@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+
+.fearei_baby_art_body1 {
+  width:500px;
+  height:auto;
+  background-color: #1E1E1E;
+  border: solid 4px #847994;
+  border-radius: 10px 150px 150px 10px;
+}
+
+.fearei_baby_art_img1 {
+  float: right;  
+  margin: -10px -40px -10px 0px;
+  width: 300px;
+  height: auto;
+  shape-outside: url("https://i.postimg.cc/52tyh3zf/Fearei-Baby.png");
+  shape-image-threshold: 15%;
+  shape-margin: 1%;
+}
+
+.fearei_baby_art_table_text1
+{
+  text-align: justify;
+  font-family: 'Inknut Antiqua', serif;
+  font-size: 13px;
+  color: #d3d2da;
+  line-height: 14px;
+  margin: 10px 10px 10px 10px;
+  padding: 2%;
+}
+
+.fearei_baby_art_table_text1 b
+{
+	font-weight: bold;
+  font-family: 'Poiret One', cursive;
+  font-size: 20px;
+  line-height: 21px;
+	background-image: -webkit-linear-gradient(to right, #BAA35D, #616D3D);
+  background-image: -moz-linear-gradient(to right, #847994, #5C5C5C); 
+  background-image: -ms-linear-gradient(to right, #847994, #5C5C5C); 
+  background-image: -o-linear-gradient(to right, #847994, #5C5C5C); 
+  background-image: linear-gradient(to right, #847994, #5C5C5C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
