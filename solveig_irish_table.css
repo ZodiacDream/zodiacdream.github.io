@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Babylonica&display=swap');
+
+.solveig_table01 {
+  width:500px;
+  height:auto;
+  background-image: linear-gradient(to top, transparent 550px, #947d49 650px), url("https://i.postimg.cc/FFjv5Xfn/solveig-irish.png");
+  background-color: #947d49;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border: double 5px #303005;
+  margin: 5px 5px 5px 5px;
+}
+
+.solveig_inner01
+{
+  width: 480px;
+  height: auto;
+  background-color: rgba(109,90,48, 0.90);
+  margin: 10px 10px 590px 10px;
+}
+
+.solveig_text01
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #a2a124;
+  line-height: 15px;
+  padding:2%;
+}
+
+.solveig_text01 b
+{
+  font-style: bold;
+  color: #c98f4a;
+}
+
+.solveig_name01 {
+  text-align: right;
+  color: #935a20;
+  font-family: 'Babylonica', cursive;
+  font-size: 45px;
+  line-height:30px;
+  text-shadow: 0 0 5px #ffffff;
+  margin: -620px 15px 620px 10px;
+}

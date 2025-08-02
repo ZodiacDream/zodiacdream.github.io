@@ -1,0 +1,40 @@
+.solveig_badge_table_background {
+  width:350px;
+  height:auto;
+  background-color: #efc284;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border: solid 5px #c98f4a;
+}
+
+.solveig_badge_table_img {
+  content: url("https://i.postimg.cc/zX8rq2KD/HSZodiac-Drifty.png");
+  margin: 0px 0px -150px 0px;
+  width: 300px;
+  height: auto;
+}
+
+.solveig_badge_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #68420f;
+  line-height: 15px;
+  padding:2%;
+  margin: 130px 10px 0px 10px;
+}
+
+.solveig_badge_table_text b
+{
+  font-style: bold;
+  background-image: -webkit-linear-gradient(to right, #a69e28, #ffaeec);
+  background-image: -moz-linear-gradient(to right, #a69e28, #ffaeec); 
+  background-image: -ms-linear-gradient(to right, #a69e28, #ffaeec); 
+  background-image: -o-linear-gradient(to right, #a69e28, #ffaeec); 
+  background-image: linear-gradient(to right, #a69e28, #c98f4a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
