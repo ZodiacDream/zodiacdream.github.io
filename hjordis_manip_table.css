@@ -17,7 +17,7 @@
 
 .hjordis_table_body01
 {
-  width: 495px;
+  width: 480px;
   height: auto;
   background-image: url('https://i.postimg.cc/MK3Pky8Y/Hjordis-Manip.png');
   background-color: #526050;
@@ -30,7 +30,7 @@
 
 .hjordis_inner01
 {
-  width: 495px;
+  width: 480px;
   height: auto;
   backdrop-filter: blur(40px);
   background-color: rgba(93, 79, 62, 0.75);
@@ -61,3 +61,4 @@
   -webkit-text-fill-color: transparent;
   -webkit-box-decoration-break: clone;
 }
+
