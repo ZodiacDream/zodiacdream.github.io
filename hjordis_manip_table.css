@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Iceberg&display=swap');
+
+.hjordis_table_border01 {
+  margin: 0 auto; 
+  width: 500px; 
+  box-shadow: 0px 0px 3px rgba(0,0,0,0.8); 
+  background-image: url('https://i.postimg.cc/sgtTxsxQ/Hjordis-Manip-Blurred.png'); 
+  background-color:rgba(255 255 255 / 100%); 
+  background-size: cover; 
+  background-attachment: fixed; 
+  background-position: center; 
+  padding: 10px; 
+  border: 1px solid #000000;
+  border-radius: 400px 0px 0px 0px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.75);
+}
+
+.hjordis_table_body01
+{
+  width: 495px;
+  height: auto;
+  background-image: url('https://i.postimg.cc/MK3Pky8Y/Hjordis-Manip.png');
+  background-color: #526050;
+  background-size: 800px;
+  background-repeat: no repeat repeat;
+  background-position: 80% -5%;
+  border: 1px solid #ffffff;
+  border-radius: 400px 0px 0px 0px;
+}
+
+.hjordis_inner01
+{
+  width: 495px;
+  height: auto;
+  backdrop-filter: blur(40px);
+  background-color: rgba(93, 79, 62, 0.75);
+  margin: 500px 0px 0px 0px;
+  border-top: solid 1px #ffffff;
+}
+
+.hjordis_text01
+{
+  text-align: justify;
+  font-family: "Iceberg", sans-serif;
+  font-size: 18px;
+  color: #141009;
+  line-height: 19px;
+  padding: 1%;
+}
+
+.hjordis_text01 b
+{
+  font-weight: bold;
+  color: #b18c7f;
+  background-image: -webkit-linear-gradient(to right, #71a79f, #987355);
+  background-image: -moz-linear-gradient(to right, #71a79f, #987355); 
+  background-image: -ms-linear-gradient(to right, #71a79f, #987355); 
+  background-image: -o-linear-gradient(to right, #71a79f, #987355); 
+  background-image: linear-gradient(to right, #86A38A, #C893C5);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
