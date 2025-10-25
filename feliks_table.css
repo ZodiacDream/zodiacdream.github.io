@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Yatra+One&display=swap');
+
+.feliks_rabbit_outer {
+    display: flex;
+    flex-shrink: 0;
+    width: 500px;
+    height: auto;
+    background-image: linear-gradient(to bottom, #010300, #b9cba1);
+}
+
+.feliks_rabbit_inner {
+  width:490px;
+  height:auto;
+  background-image: url('https://f2.toyhou.se/file/f2-toyhou-se/images/109308747_wRl04jjcqLXbyCv.jpg');
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 495px;
+  background-color: #010300;
+  margin: 5px 5px 5px 5px;
+}
+
+.feliks_rabbit_textbox {
+  width: 440px;
+  height: auto;
+  background-color: rgba(255, 255, 255, 0.1);
+  box-shadow: 3px 3px 4px 3px rgba(255, 255, 255, 0.35);
+  margin: 450px 30px 40px 25px;
+}
+
+.feliks_rabbit_boxShadow {
+  background: purple;
+  text-align: center;
+  padding:10px;
+  height: 100px;
+  width: 200px;
+  box-shadow:  inset 0 0 8px 10px white;
+}
+
+.feliks_rabbit_text {
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #a55c49;
+  line-height: 15px;
+  padding:4%;
+}
+
+.feliks_rabbit_text b {
+  font-style: bold;
+  background-image: -webkit-linear-gradient(to right, #a66f90, #bdae8f);
+  background-image: -moz-linear-gradient(to right, #a66f90, #bdae8f); 
+  background-image: -ms-linear-gradient(to right, #a66f90, #bdae8f); 
+  background-image: -o-linear-gradient(to right, #a66f90, #bdae8f); 
+  background-image: linear-gradient(to right, #a66f90, #bdae8f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
+
+.feliks_rabbit_edge {
+  -webkit-clip-path: polygon(0 5%, 3% 5%, 5% 0, 93% 0, 97% 5%, 100% 5%, 100% 95%, 97% 95%, 93% 100%, 8% 100%, 3% 95%, 0 95%);
+  clip-path: polygon(0 5%, 3% 5%, 5% 0, 93% 0, 97% 5%, 100% 5%, 100% 95%, 97% 95%, 93% 100%, 8% 100%, 3% 95%, 0 95%);
+}
+
+.feliks_rabbit_name {
+  text-align: center;
+  margin: 0px 0px -50px 0px;
+  color:#432371;
+  font-family: "Yatra One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+  line-height: 70px;
+  letter-spacing:5px;
+  word-spacing:10px;
+  font-style: bold;
+  background-image: -webkit-linear-gradient(to right, #c5b0ab, #bb886b);
+  background-image: -moz-linear-gradient(to right, #c5b0ab, #bb886b); 
+  background-image: -ms-linear-gradient(to right, #c5b0ab, #bb886b); 
+  background-image: -o-linear-gradient(to right, #c5b0ab, #bb886b); 
+  background-image: linear-gradient(to right, #c5b0ab, #bb886b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+  filter: drop-shadow(1px 1px 1px rgb(0 0 0 / 0.9));
+}
