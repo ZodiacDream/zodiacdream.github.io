@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Iceberg&display=swap');
+
+.cheiren_table_border01 {
+  margin: 0 auto; 
+  max-width: 600px; 
+  box-shadow: 0px 0px 3px rgba(0,0,0,0.8); 
+  background-image: url('https://i.postimg.cc/4NQWGR5c/noise-by-amphispiza-dedmc02-blurred.png'); 
+  background-color:rgba(255 255 255 / 100%); 
+  background-size: cover; 
+  background-attachment: fixed; 
+  background-position: center; 
+  padding: 10px; 
+  border: 1px solid #000000;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.75);
+}
+
+.cheiren_table_body01
+{
+  max-width: 590px;
+  height: auto;
+  background-image: url('https://i.postimg.cc/fLyKj3nC/normal-by-amphispiza-dedmbya.png');
+  background-color: #526050;
+  background-size: 900px;
+  background-repeat: no repeat repeat;
+  background-position: 10% 0%;
+  border: 1px solid #ffffff;
+  border-radius: 0px 0px 0px 0px;
+}
+
+.cheiren_inner01
+{
+  max-width: 590px;
+  height: auto;
+  backdrop-filter: blur(40px);
+  background-color: rgba(93, 79, 62, 0.75);
+  margin: 500px 0px 0px 0px;
+  border-top: solid 1px #ffffff;
+}
+
+.cheiren_text01
+{
+  text-align: justify;
+  font-family: "Iceberg", sans-serif;
+  font-size: 18px;
+  color: #141009;
+  line-height: 19px;
+  padding: 1%;
+}
+
+.cheiren_text01 b
+{
+  font-weight: bold;
+  color: #b18c7f;
+  background-image: -webkit-linear-gradient(to right, #47e015, #14e9e9);
+  background-image: -moz-linear-gradient(to right, #47e015, #14e9e9); 
+  background-image: -ms-linear-gradient(to right, #47e015, #14e9e9); 
+  background-image: -o-linear-gradient(to right, #47e015, #14e9e9); 
+  background-image: linear-gradient(to right, #47e015, #14e9e9);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
