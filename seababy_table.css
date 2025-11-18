@@ -17,7 +17,26 @@
 }
 
 .seababy_table_img {
-  content: url('https://i.postimg.cc/pXYMbY0s/Thulrur-x-Ienzo-Cub.png');
+  content: url('@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+.seababy_table
+{
+  width: 500px;
+  height: auto;
+  background-color: #b28336;
+  background-image: url('https://i.postimg.cc/KY1PLfCG/Adobe-Stock-146032217.jpg');
+  background-size: 800px;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-style: solid;
+  border-width: 3px;
+  border-image: linear-gradient(180deg, rgb(32,86,105), rgb(185,213,211)) 1;
+  box-shadow:5px 5px 10px 1px rgb(0 0 0 / 0.4);
+}
+
+.seababy_table_img {
+  content: url('https://i.postimg.cc/VkgmyQsk/Thulrur-x-Ienzo-Cub.png');
   margin: -10px 0px -60px -30px;
   width: 600px;
   height: auto;
@@ -69,4 +88,57 @@
   word-spacing:1px;
   margin: 10px 0px -5px 0px;
   filter: drop-shadow(2px 2px 0.5px rgb(0 0 0 / 1));
+}');
+  margin: -10px 0px -60px -30px;
+  width: 600px;
+  height: auto;
+}
+
+.seababy_table_inner
+{
+  width: 480px;
+  height: 500px;
+  overflow: auto;
+  background-color: rgba(32,86,105, 0.9);
+  margin: 27px 10px 10px 10px;
+  overflow: auto;
+}
+
+.seababy_table_text
+{
+  text-align: justify;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 19px;
+  font-variant: small-caps;
+  color: #B9D3D5;
+  line-height: 20px;
+  padding:2%;
+}
+
+.seababy_table_text b
+{
+	font-weight:bold;
+  font-variant: small-caps;
+	background-image: -webkit-linear-gradient(to right, #faab8d, #fae3e9);
+  background-image: -moz-linear-gradient(to right, #faab8d, #fae3e9); 
+  background-image: -ms-linear-gradient(to right, #faab8d, #fae3e9); 
+  background-image: -o-linear-gradient(to right, #faab8d, #fae3e9); 
+  background-image: linear-gradient(to right, #ceb071, #ce7190);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
+
+.seababy_name {
+  text-align: center;
+  font-style: bold;
+  color: #ceb071;
+  font-family: 'Sacramento', cursive;
+  font-size:40px;
+  line-height:55px;
+  letter-spacing:3px;
+  word-spacing:1px;
+  margin: 10px 0px -5px 0px;
+  filter: drop-shadow(2px 2px 0.5px rgb(0 0 0 / 1));
+
 }
