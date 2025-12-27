@@ -1,0 +1,46 @@
+.CaelMirc_outer {
+    display: flex;
+    flex-shrink: 0;
+    width: 500px;
+    height: auto;
+    background-image: linear-gradient(to top, #9c5944, #aaacc4);
+}
+
+.CaelMirc_inner {
+  width:490px;
+  height:auto;
+  background-image: linear-gradient(to top, transparent 450px, #d3ccb2 500px), url('https://i.postimg.cc/Y9sQ73X2/Caelfind-Mircea-Manip.png');
+  background-repeat: no-repeat;
+  background-position: 36% 100%;
+  background-size: 900px;
+  background-color: #000000;
+  margin: 5px 5px 5px 5px;
+}
+
+.CaelMirc_textbox {
+  width: 440px;
+  height: auto;
+  background-color: rgba(153, 115, 70, 0.8);
+  margin: 40px 30px 500px 25px;
+  border-left: 4px #633226 solid;
+  border-right: 4px #633226 solid;
+}
+
+.CaelMirc_text {
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #010d0d;
+  line-height: 15px;
+  padding:4%;
+}
+
+.CaelMirc_text b {
+  font-style: bold;
+  color: #d0d2e7;
+}
+
+.CaelMirc_edge {
+  -webkit-clip-path: polygon(0 5%, 3% 5%, 5% 0, 93% 0, 97% 5%, 100% 5%, 100% 95%, 97% 95%, 93% 100%, 8% 100%, 3% 95%, 0 95%);
+  clip-path: polygon(0 5%, 3% 5%, 5% 0, 93% 0, 97% 5%, 100% 5%, 100% 95%, 97% 95%, 93% 100%, 8% 100%, 3% 95%, 0 95%);
+}
