@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap');
+
+.Feliks_Riot_body
+{
+  width: 500px;
+  height: auto;
+  background-color: #94984e;
+  margin: 0px 0px 0px -10px;
+  border-top: 15px #e7ca94 solid;
+  border-bottom: 5px #e7ca94 solid;
+  border-left: 10px #e7ca94 solid;
+  border-right: 10px #e7ca94 solid;
+}
+
+.Feliks_Riot_image
+{
+  content: url('https://f2.toyhou.se/file/f2-toyhou-se/images/112630886_4hOOJTY9S4xtVqy.png');
+  width: 500px;
+  height: auto;
+  border-radius: 30px 30px 30px 30px;
+}
+
+
+.Feliks_Riot_text
+{
+  text-align: justify;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 16px;
+  color: #193437;
+  line-height: 18px;
+  margin: 20px 20px 20px 20px;
+  padding: 0.5%;
+}
+
+.Feliks_Riot_name 
+{
+  text-align: center;
+  font-style: bold;
+  color: #664a43;
+  font-family: "Kaushan Script", cursive;
+  font-size: 55px;
+  line-height: 80px;
+  letter-spacing: 3px;
+  word-spacing: 1px;
+  margin: -45px 320px -40px 0px;
+  -webkit-text-stroke: 2px #e7ca94;
+  text-stroke: 2px #e7ca94;
+}
+
+.Feliks_Riot_text b
+{
+ 	font-weight: bold;
+  background-image: -webkit-linear-gradient(to right, #fae2cb, #8cd47e);
+  background-image: -moz-linear-gradient(to right, #fae2cb, #8cd47e); 
+  background-image: -ms-linear-gradient(to right, #fae2cb, #8cd47e); 
+  background-image: -o-linear-gradient(to right, #fae2cb, #8cd47e); 
+  background-image: linear-gradient(to right, #fae2cb, #8cd47e);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
