@@ -14,7 +14,7 @@
 .Lottie_img {
   float: right;  
   margin: -10px -200px 0px 0px;
-  width: 500px;
+  width: 450px;
   height: auto;
   shape-outside: url("https://i.postimg.cc/SN3LtX5j/Charlotte-Base-Cub-1.png");
   shape-image-threshold: 15%;
@@ -65,4 +65,5 @@
   letter-spacing: 3px;
   word-spacing: 1px;
   margin: 5px 10px -20px 0px;
+
 }
