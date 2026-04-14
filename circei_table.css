@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+
+.circei_body {
+  width:475px;
+  height:auto;
+  background-color: #473e2c;
+  border: solid 4px #342E26;
+  border-radius: 60px 60px 60px 60px;
+}
+
+.circei_img {
+  float: right;  
+  margin: -10px -70px 0px 0px;
+  width: 380px;
+  height: auto;
+  shape-outside: url("https://i.postimg.cc/XXS1KykY/Circei-Base-1.png");
+  shape-image-threshold: 0.9;
+  shape-margin: 2%;
+}
+
+.circei_table_text
+{
+  text-align: justify;
+  font-family: 'Inknut Antiqua', serif;
+  font-size: 13px;
+  color: #A39C8E;
+  line-height: 14px;
+  margin: 10px 10px 10px 10px;
+  padding: 2%;
+}
+
+.circei_table_text b
+{
+	font-weight: bold;
+  font-family: 'Poiret One', cursive;
+  font-size: 20px;
+  line-height: 21px;
+	background-image: -webkit-linear-gradient(to right, #B6D3F2, #6A759A);
+  background-image: -moz-linear-gradient(to right, #B6D3F2, #6A759A); 
+  background-image: -ms-linear-gradient(to right, #B6D3F2, #6A759A); 
+  background-image: -o-linear-gradient(to right, #B6D3F2, #6A759A); 
+  background-image: linear-gradient(to right, #B6D3F2, #6A759A);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
