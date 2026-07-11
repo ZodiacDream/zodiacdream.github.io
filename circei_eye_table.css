@@ -1,0 +1,55 @@
+.circei_table_main {
+  width:500px;
+  height:650px;
+  background-image: url("https://i.postimg.cc/cH5Tm7Yz/Circei-Eye-Manip.png");
+  background-color: #766e60;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border: solid 5px #332d25;
+  margin: 5px 5px 5px 5px;
+}
+
+.circei_table_inner
+{
+  width: 500px;
+  height: 380px;
+  overflow: auto;
+  background-color: rgba(51,45,37, 0);
+  margin: 260px 0px 0px 0px;
+  border-top: 5px solid #332d25;
+}
+
+.circei_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #332d25;
+  line-height: 15px;
+  padding:2%;
+}
+
+.circei_table_text b
+{
+  font-style: bold;
+  color: #b6d3f2;
+}
+
+.circei_table-scrollbar01::-webkit-scrollbar
+{
+	width: 5px;
+}
+
+.circei_table-scrollbar01::-webkit-scrollbar-track
+{
+    background: rgba(255, 255, 255, 0);
+}
+
+.circei_table-scrollbar01::-webkit-scrollbar-thumb
+{
+    background: -webkit-gradient(linear,left top,left   bottom,from(#373128),to(#a39c8e));
+    background: linear-gradient(180deg,#373128,#a39c8e);
+    border-radius: 30px;
+    box-shadow: inset 2px 2px 2px hsla(0%,0%,100%,.25), inset -2px -2px 2px rgba(0,0,0,.25);
+}
