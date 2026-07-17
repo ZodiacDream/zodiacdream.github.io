@@ -1,0 +1,41 @@
+.chance_table_background {
+  width:500px;
+  height:auto;
+  background-color: #b7a794;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border: solid 5px #a56b79;
+  border-radius: 0px 0px 0px 0px;
+}
+
+.chance_table_img {
+  content: url('https://i.postimg.cc/cHphrs9s/nothingbutsorrow.png');
+  margin: 0px 0px -35px 0px;
+  width: 500px;
+  height: auto;
+}
+
+.chance_table_text
+{
+  text-align: justify;
+  font-family: georgia;
+  font-size: 13px;
+  color: #544434;
+  line-height: 15px;
+  padding:2%;
+  margin: 15px 10px 10px 10px;
+}
+
+.chance_table_text b
+{
+  font-style: bold;
+  background-image: -webkit-linear-gradient(to left, #9276ad, #575a8c);
+  background-image: -moz-linear-gradient(to left, #9276ad, #575a8c); 
+  background-image: -ms-linear-gradient(to left, #9276ad, #575a8c); 
+  background-image: -o-linear-gradient(to left, #9276ad, #575a8c); 
+  background-image: linear-gradient(to left, #9276ad, #575a8c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
