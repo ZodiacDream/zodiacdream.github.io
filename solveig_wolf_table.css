@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300&display=swap');
+
+.soleil_table
+{
+  width: 500px;
+  height: auto;
+  background-color: #b28336;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border-style: solid;
+  border-width: 3px;
+  border-image: linear-gradient(0deg, rgb(60,61,90), rgb(162,46,9)) 1;
+  box-shadow:5px 5px 10px 1px rgb(0 0 0 / 0.4);
+}
+
+.soleil_table_img {
+  content: url('https://i.postimg.cc/Qt6s0q2k/Solveig-Wolf-Ref.png');
+  margin: -10px 0px -40px 0px;
+  width: 530px;
+  height: auto;
+}
+
+.soleil_table_inner
+{
+  width: 480px;
+  height: auto;
+  overflow: auto;
+  background-color: rgba(204, 167, 118, 0.8);
+  margin: 27px 10px 10px 10px;
+}
+
+.soleil_table_text
+{
+  text-align: justify;
+  font-family: 'Inknut Antiqua', serif;
+  font-size: 13px;
+  color: #360511;
+  line-height: 15px;
+  padding:2%;
+}
+
+.soleil_table_text b
+{
+	font-weight:bold;
+	background-image: -webkit-linear-gradient(to right, #6c4971, #3c5c68);
+  background-image: -moz-linear-gradient(to right, #6c4971, #3c5c68); 
+  background-image: -ms-linear-gradient(to right, #6c4971, #3c5c68); 
+  background-image: -o-linear-gradient(to right, #6c4971, #3c5c68); 
+  background-image: linear-gradient(to right, #6c4971, #3c5c68);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
