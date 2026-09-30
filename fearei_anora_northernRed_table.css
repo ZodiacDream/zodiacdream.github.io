@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+
+
+.feareixanora_art_background {
+  width:450px;
+  height:auto;
+  background-image: url('https://f2.toyhou.se/file/f2-toyhou-se/images/128654153_5PYHS1rSbFGX6OJ.png');
+  background-repeat: repeat-y;
+  background-size: contain;
+  background-position: center top;
+  background-color: #765B9E;
+  border: solid 10px #463B57;
+  border-radius: 300px 300px 0px 0px;
+}
+
+.feareixanora_art_img {
+  float: center;  
+  margin: 15px 0px 0px 0px;
+  width: 450px;
+  height: auto;
+}
+
+.feareixanora_art_middle {
+  width: 400px;
+  height: auto;
+  margin: -25px 20px 20px 20px;
+  background-color: rgba(76, 89, 59, 0.9);
+  border: solid 3px #463B57;
+  border-radius: 0px 0px 0px 0px;
+}
+
+.feareixanora_art_table_text
+{
+  text-align: justify;
+  font-family: "Roboto Flex", sans-serif;
+  font-size: 16px;
+  color: #C2B9CF;
+  line-height: 16px;
+  margin: 10px 10px 10px 10px;
+  padding: 1%;
+}
+
+.feareixanora_art_table_text b
+{
+	font-weight: bold;
+  font-family: "Delius", cursive;
+  font-size: 20px;
+	background-image: -webkit-linear-gradient(to left, #72c0a1, #847994);
+  background-image: -moz-linear-gradient(to left, #72c0a1, #847994); 
+  background-image: -ms-linear-gradient(to left, #72c0a1, #847994); 
+  background-image: -o-linear-gradient(to left, #72c0a1, #847994); 
+  background-image: linear-gradient(to left, #72c0a1, #847994);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+}
